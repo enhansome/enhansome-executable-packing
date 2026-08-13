@@ -1,0 +1,1703 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": ":books: Literature"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":earth_americas: Awesome executable packing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-31T10:23:25Z",
+            "owner": "packing-box",
+            "repo": "awesome-executable-packing",
+            "stars": 1606
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":earth_americas: Mach-O file format reference",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-13T04:06:23Z",
+            "owner": "aidansteele",
+            "repo": "osx-abi-macho-file-format-reference",
+            "stars": 878
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":earth_americas: Awesome LLVM security",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-05T06:09:07Z",
+            "owner": "gmh5225",
+            "repo": "awesome-llvm-security",
+            "stars": 871
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":earth_americas: OllyDbg OEP finder scripts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Batchfile",
+            "last_commit": "2022-03-23T18:43:57Z",
+            "owner": "dubuqingfeng",
+            "repo": "ollydbg-script",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":pushpin: Writing a simple PE packer in detail",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-03-08T17:56:06Z",
+            "owner": "levanvn",
+            "repo": "PE_Packer",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":pushpin: Packer detection tool evaluation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-24T06:21:48Z",
+            "owner": "FFRI",
+            "repo": "PackerDetectionToolEvaluation",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "theZoo",
+          "description": "Project created to make the possibility of malware analysis open and available to the public.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T08:11:43Z",
+            "owner": "ytisf",
+            "repo": "theZoo",
+            "stars": 13292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Malware Archive",
+          "description": "Malware samples, analysis exercises and other interesting resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-01-13T17:39:44Z",
+            "owner": "jstrosch",
+            "repo": "malware-samples",
+            "stars": 1666
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ember",
+          "description": "Collection of features from PE files that serve as a benchmark dataset for researchers.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-22T20:36:57Z",
+            "owner": "elastic",
+            "repo": "ember",
+            "stars": 1168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SOREL",
+          "description": "Sophos-ReversingLabs 20 Million dataset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-07T15:10:58Z",
+            "owner": "sophos",
+            "repo": "SOREL-20M",
+            "stars": 708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ember2024",
+          "description": "Update to the EMBER2017 and EMBER2018 datasets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-22T20:16:42Z",
+            "owner": "FutureComputing4AI",
+            "repo": "EMBER2024",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BODMAS",
+          "description": "Code for our DLS'21 paper - BODMAS: An Open Dataset for Learning based Temporal Analysis of PE Malware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-13T15:55:23Z",
+            "owner": "whyisyoung",
+            "repo": "BODMAS",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Packware",
+          "description": "Datasets and codes that are needed to reproduce the experiments in the paper \"When Malware is Packing Heat\".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-17T22:48:26Z",
+            "owner": "ucsb-seclab",
+            "repo": "packware",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaleX",
+          "description": "Curated dataset of malware and benign Windows executable samples for malware researchers containing 1,044,394 Windows executable binaries and corresponding image representations with 864,669 labelled as malware and 179,725 as benign.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-02-17T20:35:31Z",
+            "owner": "Mayachitra-Inc",
+            "repo": "MaleX",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataset of Packed PE",
+          "description": "Sanitized version of the original dataset, PackingData, removing packed samples from the Notpacked folder but also samples in packer folders that failed to be packed (having a same hash as the original unpacked executable).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-24T09:50:42Z",
+            "owner": "packing-box",
+            "repo": "dataset-packed-pe",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RCE Lab",
+          "description": "Crackme's, keygenme's, serialme's ; the \"tuts4you\" folder contains many packed binaries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-09-11T17:25:59Z",
+            "owner": "apuromafo",
+            "repo": "RCE_Lab",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataset of Packed ELF",
+          "description": "Compilation of packed ELF samples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-24T09:50:59Z",
+            "owner": "packing-box",
+            "repo": "dataset-packed-elf",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PackingData",
+          "description": "Original dataset with sample PE files packed with a large variety of packers, including ASPack, BeRoEXEPacker, exe32pack, eXpressor, FSG, JDPack, MEW, Molebox, MPRESS, Neolite, NSPack, Pckman, PECompact, PEtite, RLPack, UPX, WinUpack, Yoda's Crypter and Yoda's Protector.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-08-22T06:43:40Z",
+            "owner": "chesvectain",
+            "repo": "PackingData",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FFRI Dataset Scripts",
+          "description": "Make datasets like FFRI Dataset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-23T03:27:29Z",
+            "owner": "FFRI",
+            "repo": "ffridataset-scripts",
+            "stars": 14
+          }
+        }
+      ],
+      "title": ":bookmark_tabs: Datasets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":package: Packers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ConfuserEx",
+          "description": "An open-source, free protector for .NET applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-06-07T08:59:08Z",
+            "owner": "mkaring",
+            "repo": "ConfuserEx",
+            "stars": 2893
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PEzor",
+          "description": "Open-Source Shellcode & PE Packer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-02-03T19:11:05Z",
+            "owner": "phra",
+            "repo": "PEzor",
+            "stars": 2125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amber",
+          "description": "Position-independent(reflective) PE loader that enables in-memory execution of native PE files(EXE, DLL, SYS).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-02-22T17:44:19Z",
+            "owner": "EgeBalci",
+            "repo": "amber",
+            "stars": 1434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crinkler",
+          "description": "Compressing linker for Windows, specifically targeted towards executables with a size of just a few kilobytes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-05T16:20:05Z",
+            "owner": "runestubbe",
+            "repo": "Crinkler",
+            "stars": 1283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProtectMyTooling",
+          "description": "Multi-Packer wrapper letting us daisy-chain various packers, obfuscators and other Red Team oriented weaponry.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-10-14T22:53:57Z",
+            "owner": "mgeeky",
+            "repo": "ProtectMyTooling",
+            "stars": 1099
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ELFkickers",
+          "description": "A collection of programs that access and manipulate ELF files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-11-07T18:31:04Z",
+            "owner": "BR903",
+            "repo": "ELFkickers",
+            "stars": 621
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BangCle",
+          "description": "Protection tool using the second generation Android Hardening Protection, loading the encrypted DEX file from memory dynamically.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-08-02T08:13:43Z",
+            "owner": "KuNgia09",
+            "repo": "Bangcle",
+            "stars": 407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PE-Packer",
+          "description": "Simple packer for Windows 32-bits PE files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-10-22T15:21:28Z",
+            "owner": "czs108",
+            "repo": "Windows-PE-Packer",
+            "stars": 367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astral-PE",
+          "description": "Low-level mutator (Headers/EP obfuscator) for native Windows PE files (x32/x64).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-04-26T07:22:57Z",
+            "owner": "DosX-dev",
+            "repo": "Astral-PE",
+            "stars": 352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pakkero",
+          "description": "Binary packer written in Go made for fun and educational purpose.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-01-16T21:07:13Z",
+            "owner": "89luca89",
+            "repo": "pakkero",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ezuri",
+          "description": "A Simple Linux ELF Runtime Crypter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-02-25T10:53:38Z",
+            "owner": "guitmz",
+            "repo": "ezuri",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ASM Guard",
+          "description": "Packer utility for compressing and complicating reversing compiled native code (native files), protecting resources, adding DRM, and packing into an optimized loader.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-02-20T20:14:30Z",
+            "owner": "DosX-dev",
+            "repo": "ASM-Guard",
+            "stars": 269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MidgetPack",
+          "description": "ELF binary packer, such as burneye, upx or other tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2014-07-29T08:41:20Z",
+            "owner": "arisada",
+            "repo": "midgetpack",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TinyLoad",
+          "description": "Simple PE packer for Windows that compresses and encrypts executables with a custom virtual machine into a self-extracting stub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T17:04:22Z",
+            "owner": "iamsopotatoe-coder",
+            "repo": "TinyLoad",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Origami",
+          "description": "Packer compressing .net assemblies, (ab)using the PE format for data storage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-01-14T23:37:46Z",
+            "owner": "dr4k0nia",
+            "repo": "Origami",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ELFCrypt",
+          "description": "Simple ELF crypter using RC4 encryption.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-09-10T00:26:54Z",
+            "owner": "droberson",
+            "repo": "ELFcrypt",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Silent-Packer",
+          "description": "Silent Packer is an ELF / PE packer written in pure C.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-03-28T10:23:13Z",
+            "owner": "SilentVoid13",
+            "repo": "Silent_Packer",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleDPack",
+          "description": "A very simple windows EXE packing tool for learning or investigating PE structure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-01-17T13:03:47Z",
+            "owner": "YuriSizuku",
+            "repo": "win-SimpleDpack",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sherlocked",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2014-10-30T22:03:18Z",
+            "owner": "elfmaster",
+            "repo": "sherlocked",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ps2-packer",
+          "description": "Create packed ELF files to run on the PS2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-16T08:33:11Z",
+            "owner": "ps2dev",
+            "repo": "ps2-packer",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hyperion",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T21:17:25Z",
+            "owner": "nullsecuritynet",
+            "repo": "tools",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oplzkwp",
+          "description": "Library for ELF obfuscation ; it uses PRESENT and blake244 to encrypt your payload on the fly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2015-08-14T02:02:16Z",
+            "owner": "tweksteen",
+            "repo": "oplzkwp",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hXOR-Packer",
+          "description": "PE packer with Huffman compression and XOR encryption.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-09-11T13:00:34Z",
+            "owner": "akuafif",
+            "repo": "hXOR-Packer",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NetCrypt",
+          "description": "A proof-of-concept packer for .NET executables, designed to provide a starting point to explain the basic principles of runtime packing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-11-04T20:19:07Z",
+            "owner": "friedkiwi",
+            "repo": "netcrypt",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ELF-Packer",
+          "description": "Simple Polymorphic x86_64 Runtime Code Segment Cryptor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-03-08T01:07:53Z",
+            "owner": "glem0",
+            "repo": "ELF-Packer",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theArk",
+          "description": "Windows x86 PE Packer In C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-11-18T03:17:14Z",
+            "owner": "aaaddress1",
+            "repo": "theArk",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PePacker",
+          "description": "Simple PE Packer Which Encrypts .text Section I release a simple PE file packer which encrypts the .text section and adds a decryption stub to the end of the last section.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-05-28T00:04:11Z",
+            "owner": "SamLarenN",
+            "repo": "PePacker",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eronona-Packer",
+          "description": "This is a packer for exe under win32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-02-19T08:34:40Z",
+            "owner": "Eronana",
+            "repo": "packer",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Papaw",
+          "description": "Permissively-licensed packer for ELF executables using LZMA Zstandard or Deflate compression.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-05-16T06:24:58Z",
+            "owner": "dimkr",
+            "repo": "papaw",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "m0dern_p4cker",
+          "description": "Just a modern packer for elf binaries ( works on Linux executables only ).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-03-19T09:53:22Z",
+            "owner": "n4sm",
+            "repo": "m0dern_p4cker",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ELF Packer",
+          "description": "Encrypts 64-bit elf files that decrypt at runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-03-06T18:00:41Z",
+            "owner": "telepath9000",
+            "repo": "elf-packer",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ELFuck",
+          "description": "ELF packer for i386 original version from sk2 by sd.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2015-12-14T13:30:22Z",
+            "owner": "timhsutw",
+            "repo": "elfuck",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Woody Wood Packer",
+          "description": "ELF packer - encrypt and inject self-decryption code into executable ELF binary target.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-09-11T15:09:43Z",
+            "owner": "Jibus22",
+            "repo": "woody_woodpacker",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ward",
+          "description": "Simple implementation of an ELF packer that creates stealthy droppers for loading malicious ELFs in-memory.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-08-16T22:59:16Z",
+            "owner": "ex0dus-0x",
+            "repo": "ward",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backpack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-05-01T20:54:57Z",
+            "owner": "Enelg52",
+            "repo": "Backpack",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xorPacker",
+          "description": "Simple packer working with all PE files which cipher your exe with a XOR implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-08-10T20:34:17Z",
+            "owner": "nqntmqmqmb",
+            "repo": "xorPacker",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XyrisPack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2024-11-18T22:49:02Z",
+            "owner": "01Xyris",
+            "repo": "XyrisPack",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PE-Toy",
+          "description": "A PE file packer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2016-12-26T14:24:01Z",
+            "owner": "xrw67",
+            "repo": "petoy",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pocrypt",
+          "description": "Naive Proof of Concept Crypter for GNU/Linux ELF64.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-12-14T06:31:09Z",
+            "owner": "picoflamingo",
+            "repo": "pocrypt",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pakr",
+          "description": "In-memory packer for macOS Mach-O bundles.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2017-01-07T08:27:56Z",
+            "owner": "iangcarroll",
+            "repo": "pakr",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple-PE32-Packer",
+          "description": "Simple PE32 Packer with aPLib compression library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-09-03T10:08:30Z",
+            "owner": "z3r0d4y5",
+            "repo": "Simple-PE32-Packer",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LZPACK",
+          "description": "LZPACK - PopCom!-compatible CP/M-80 executable compressor in ANSI C, runs on 48K CP/M-80, CP/M-86, MS-DOS, UNIX, and other platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-09T17:48:05Z",
+            "owner": "johnsonjh",
+            "repo": "lzpack",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zELF",
+          "description": "A modular ELF64 packer for Linux x86_64 featuring 22 compression codecs, ML-based codec selection, and support for both static and PIE binaries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-30T01:27:16Z",
+            "owner": "seb3773",
+            "repo": "zelf",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "After 2010"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Angr",
+          "description": "Platform-agnostic binary analysis framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T17:52:05Z",
+            "owner": "angr",
+            "repo": "angr",
+            "stars": 9009
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RetDec",
+          "description": "Retargetable machine-code decompiler based on LLVM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-26T09:04:25Z",
+            "owner": "avast",
+            "repo": "retdec",
+            "stars": 8604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "de4dot",
+          "description": ".NET deobfuscator and unpacker.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2020-08-29T08:14:56Z",
+            "owner": "de4dot",
+            "repo": "de4dot",
+            "stars": 7433
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Capa",
+          "description": "Open-source tool to identify capabilities in PE, ELF or .NET executable files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T16:00:09Z",
+            "owner": "mandiant",
+            "repo": "capa",
+            "stars": 6133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LIEF",
+          "description": "Library to Instrument Executable Formats ; Python package for parsing PE, ELF, Mach-O and DEX formats, modifying and rebuilding executables.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-07T07:07:47Z",
+            "owner": "lief-project",
+            "repo": "LIEF",
+            "stars": 5524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Triton",
+          "description": "Dynamic binary analysis library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-28T13:39:36Z",
+            "owner": "JonathanSalwan",
+            "repo": "Triton",
+            "stars": 4260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DIE",
+          "description": "Detect It Easy ; Program for determining types of files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T17:46:31Z",
+            "owner": "horsicq",
+            "repo": "DIE-engine",
+            "stars": 3220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PANDA",
+          "description": "Platform for Architecture-Neutral Dynamic Analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-29T03:11:37Z",
+            "owner": "panda-re",
+            "repo": "panda",
+            "stars": 2773
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reko",
+          "description": "Free decompiler for machine code binaries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T11:16:47Z",
+            "owner": "uxmal",
+            "repo": "reko",
+            "stars": 2599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APKiD",
+          "description": "Android application Identifier for packers, protectors, obfuscators and oddities - PEiD for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2026-07-27T17:35:45Z",
+            "owner": "rednaga",
+            "repo": "APKiD",
+            "stars": 2553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pefile",
+          "description": "Multi-platform Python module to parse and work with Portable Executable files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:42:58Z",
+            "owner": "erocarrera",
+            "repo": "pefile",
+            "stars": 2062
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yarGen",
+          "description": "Generator for YARA rules - The main principle is the creation of yara rules from strings found in malware files while removing all strings that also appear in goodware files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-10T15:02:41Z",
+            "owner": "Neo23x0",
+            "repo": "yarGen",
+            "stars": 1807
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "de4js",
+          "description": "JavaScript Deobfuscator and Unpacker.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-11-12T01:47:34Z",
+            "owner": "lelinhtinh",
+            "repo": "de4js",
+            "stars": 1580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ".NET Deobfuscator",
+          "description": "List of .NET Deobfuscators and Unpackers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-01T10:33:16Z",
+            "owner": "NotPrab",
+            "repo": ".NET-Deobfuscator",
+            "stars": 1510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PETools",
+          "description": "Old-school reverse engineering tool (with a long history since 2002) for manipulating PE files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-21T10:10:41Z",
+            "owner": "petoolse",
+            "repo": "petools",
+            "stars": 1193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android Unpacker",
+          "description": "Presented at Defcon 22: Android Hacker Protection Level 0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-01-20T19:57:15Z",
+            "owner": "strazzere",
+            "repo": "android-unpacker",
+            "stars": 1178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IDR",
+          "description": "Interactive Delphi Reconstructor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-08-09T17:31:09Z",
+            "owner": "crypto2011",
+            "repo": "IDR",
+            "stars": 1152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EXEInfo-PE",
+          "description": "Fast detector for executable PE files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-08T10:38:17Z",
+            "owner": "ExeinfoASL",
+            "repo": "ASL",
+            "stars": 1132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Manalyze",
+          "description": "Robust parser for PE files with a flexible plugin architecture which allows users to statically analyze files in-depth.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2026-08-12T23:41:38Z",
+            "owner": "JusticeRage",
+            "repo": "Manalyze",
+            "stars": 1132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Winbindex",
+          "description": "An index of Windows binaries, including download links for executables such as EXE, DLL and SYS files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T09:23:41Z",
+            "owner": "m417z",
+            "repo": "winbindex",
+            "stars": 862
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MalUnpack",
+          "description": "Dynamic unpacker based on PE-sieve.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-14T13:23:29Z",
+            "owner": "hasherezade",
+            "repo": "mal_unpack",
+            "stars": 833
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PEPack",
+          "description": "PE file packer detection tool, part of the Unix package \"pev\".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-08T17:14:27Z",
+            "owner": "mentebinaria",
+            "repo": "readpe",
+            "stars": 780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PE-bear",
+          "description": "Freeware reversing tool for PE files aimed to deliver fast and flexible “first view” for malware analysts, stable and capable to handle malformed PE files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-06-04T18:39:06Z",
+            "owner": "hasherezade",
+            "repo": "pe-bear-old",
+            "stars": 778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unipacker",
+          "description": "Automatic and platform-independent unpacker for Windows binaries based on emulation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-18T16:24:51Z",
+            "owner": "unipacker",
+            "repo": "unipacker",
+            "stars": 765
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gym-Malware",
+          "description": "This is a malware manipulation environment for OpenAI's gym.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-21T22:04:05Z",
+            "owner": "endgameinc",
+            "repo": "gym-malware",
+            "stars": 636
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PEFrame",
+          "description": "Tool for performing static analysis on PE malware and generic suspicious files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2022-08-08T14:04:56Z",
+            "owner": "guelfoweb",
+            "repo": "peframe",
+            "stars": 628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PortEx",
+          "description": "Java library for static malware analysis of PE files with a focus on PE malformation robustness and anomaly detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-04-03T02:53:29Z",
+            "owner": "struppigel",
+            "repo": "PortEx",
+            "stars": 532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AVClass",
+          "description": "Python tools to tag / label malware samples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-22T15:14:41Z",
+            "owner": "malicialab",
+            "repo": "avclass",
+            "stars": 486
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Malheur",
+          "description": "Tool for the automatic analysis of malware behavior (recorded from malicious software in a sandbox environment).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-05-08T19:49:27Z",
+            "owner": "rieck",
+            "repo": "malheur",
+            "stars": 377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PackerAttacker",
+          "description": "Tool that uses memory and code hooks to detect packers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-03-05T08:12:49Z",
+            "owner": "BromiumLabs",
+            "repo": "PackerAttacker",
+            "stars": 275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SecML Malware",
+          "description": "Create adversarial attacks against machine learning Windows malware detectors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-27T14:28:02Z",
+            "owner": "pralab",
+            "repo": "secml_malware",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PINdemonium",
+          "description": "Unpacker for PE files exploiting the capabilities of PIN.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-07-30T23:34:40Z",
+            "owner": "Phat3",
+            "repo": "PINdemonium",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShowStopper",
+          "description": "Tool to help malware researchers explore and test anti-debug techniques or verify debugger plugins or other solutions that clash with standard anti-debug methods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-31T10:41:44Z",
+            "owner": "CheckPointSW",
+            "repo": "showstopper",
+            "stars": 224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VMHunt",
+          "description": "Set of tools for analyzing virtualized binary code ; now only supports 32 bit traces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-11-25T23:24:34Z",
+            "owner": "s3team",
+            "repo": "VMHunt",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PEiD (CLI)",
+          "description": "Python implementation of PEiD featuring an additional tool for making new signatures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-19T05:57:09Z",
+            "owner": "packing-box",
+            "repo": "peid",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cave-Finder",
+          "description": "Tool to find code cave in PE image (x86 / x64) - Find empty space to place code in PE files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-08-01T21:04:35Z",
+            "owner": "adamhlt",
+            "repo": "Cave-Finder",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Packing-Box",
+          "description": "Docker image gathering many packing-related tools and for making datasets of packed executables for use with machine learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-04T08:22:24Z",
+            "owner": "packing-box",
+            "repo": "docker-packing-box",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FUU",
+          "description": "Fast Universal Unpacker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2013-07-27T18:43:50Z",
+            "owner": "crackinglandia",
+            "repo": "fuu",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PeLib",
+          "description": "PE file manipulation library.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2020-01-27T09:23:08Z",
+            "owner": "avast",
+            "repo": "pelib",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bintropy",
+          "description": "Prototype analysis tool that estimates the likelihood that a binary file contains compressed or encrypted bytes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-21T23:01:50Z",
+            "owner": "packing-box",
+            "repo": "bintropy",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PackerID",
+          "description": "Fork of packerid.py using PEid signatures and featuring additional output types, formats, digital signature extraction, and disassembly support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-04-01T15:53:45Z",
+            "owner": "sooshie",
+            "repo": "packerid",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AppSpear",
+          "description": "Universal and automated unpacking system suitable for both Dalvik and ART.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-12-31T06:05:12Z",
+            "owner": "UchihaL",
+            "repo": "AppSpear",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PackerGrind",
+          "description": "Adaptive unpacking tool for tracking packing bahaviors and unpacking Android packed apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-03-31T01:38:17Z",
+            "owner": "rewhy",
+            "repo": "adaptiveunpacker",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyPackerDetect",
+          "description": "Small Python script/library to detect whether an executable is packed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-10-24T16:26:41Z",
+            "owner": "cylance",
+            "repo": "PyPackerDetect",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyPackerDetect (refactored)",
+          "description": "A complete refactoring of the original project to a Python package with a console script to detect whether an executable is packed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-01T21:36:15Z",
+            "owner": "packing-box",
+            "repo": "pypackerdetect",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NotPacked++",
+          "description": "Attack tool for altering packed samples so that they evade static packing detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-01-26T13:55:13Z",
+            "owner": "packing-box",
+            "repo": "packer-masking-tool",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PEiD (yara)",
+          "description": "Yet another implementation of PEiD with yara.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-01-06T09:01:00Z",
+            "owner": "K-atc",
+            "repo": "PEiD",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PolyUnpack",
+          "description": "Implemention attempt of the general approach for extracting the original hidden code of PE files without any heuristic assumptions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2012-05-01T12:32:41Z",
+            "owner": "PlatonovIvan",
+            "repo": "PolyUnpack",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oedipus",
+          "description": "A Python framework that uses machine learning algorithms to implement the metadata recovery attack against obfuscated programs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-07-25T11:00:58Z",
+            "owner": "tum-i4",
+            "repo": "Oedipus",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PackID",
+          "description": "Packer identification multiplatform tool/library using the same database syntax as PEiD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-03-06T02:20:56Z",
+            "owner": "mesaleh",
+            "repo": "PackiD",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OllyDbg Scripts",
+          "description": "Collection of OllyDbg scripts for unpacking many different packers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Batchfile",
+            "last_commit": "2018-04-27T14:04:41Z",
+            "owner": "xshows",
+            "repo": "ollydbg-script",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyPeid",
+          "description": "Yet another implementation of PEiD with yara-python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-17T11:19:03Z",
+            "owner": "FFRI",
+            "repo": "pypeid",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DSFF",
+          "description": "DataSet File Format for exchanging datasets and converting to ARFF (for use with Weka), CSV or Packing-Box's dataset structure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-22T00:28:01Z",
+            "owner": "packing-box",
+            "repo": "python-dsff",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PANDI",
+          "description": "Dynamic packing detection solution built on top of PANDA.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-01-03T14:30:05Z",
+            "owner": "dimitriwauters",
+            "repo": "PANDI",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pefeats",
+          "description": "Utility for extracting 119 features from a PE file for use with machine learning algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-01-06T05:59:47Z",
+            "owner": "roussieau",
+            "repo": "masterthesis",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "REMINDer",
+          "description": "Packing detection tool based on the entropy value of the entry point section and the WRITE attribute.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-21T22:45:04Z",
+            "owner": "packing-box",
+            "repo": "reminder",
+            "stars": 2
+          }
+        }
+      ],
+      "title": ":wrench: Tools"
+    },
+    {
+      "description": "Contributions are welcome! Please read the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T18:01:20.479Z",
+    "original_repository": "packing-box/awesome-executable-packing",
+    "original_repository_sha": "ae1a476586df715abe168549aefbc8695474d21c",
+    "enhanced_repository": "enhansome/enhansome-executable-packing",
+    "enhanced_repository_description": null,
+    "title": "Awesome Executable Packing with stars"
+  }
+}
