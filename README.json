@@ -109,7 +109,7 @@
             "last_commit": "2026-07-24T08:11:43Z",
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13294
+            "stars": 13299
           }
         },
         {
@@ -481,7 +481,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-11T17:04:22Z",
+            "last_commit": "2026-08-15T14:10:06Z",
             "owner": "iamsopotatoe-coder",
             "repo": "TinyLoad",
             "stars": 184
@@ -907,10 +907,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T17:55:33Z",
+            "last_commit": "2026-08-15T13:01:20Z",
             "owner": "angr",
             "repo": "angr",
-            "stars": 9009
+            "stars": 9011
           }
         },
         {
@@ -924,7 +924,7 @@
             "last_commit": "2026-05-26T09:04:25Z",
             "owner": "avast",
             "repo": "retdec",
-            "stars": 8605
+            "stars": 8608
           }
         },
         {
@@ -949,10 +949,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T15:53:49Z",
+            "last_commit": "2026-08-14T20:56:07Z",
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6134
+            "stars": 6138
           }
         },
         {
@@ -966,7 +966,7 @@
             "last_commit": "2026-08-07T07:07:47Z",
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5526
+            "stars": 5527
           }
         },
         {
@@ -980,7 +980,7 @@
             "last_commit": "2026-07-28T13:39:36Z",
             "owner": "JonathanSalwan",
             "repo": "Triton",
-            "stars": 4260
+            "stars": 4263
           }
         },
         {
@@ -991,10 +991,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T14:14:36Z",
+            "last_commit": "2026-08-15T10:29:11Z",
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 3220
+            "stars": 3223
           }
         },
         {
@@ -1036,7 +1036,7 @@
             "last_commit": "2026-07-27T17:35:45Z",
             "owner": "rednaga",
             "repo": "APKiD",
-            "stars": 2554
+            "stars": 2558
           }
         },
         {
@@ -1047,10 +1047,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T16:42:58Z",
+            "last_commit": "2026-08-14T18:43:30Z",
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2061
+            "stars": 2062
           }
         },
         {
@@ -1148,7 +1148,7 @@
             "last_commit": "2026-08-08T10:38:17Z",
             "owner": "ExeinfoASL",
             "repo": "ASL",
-            "stars": 1133
+            "stars": 1136
           }
         },
         {
@@ -1173,7 +1173,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T09:19:40Z",
+            "last_commit": "2026-08-15T08:07:21Z",
             "owner": "m417z",
             "repo": "winbindex",
             "stars": 863
@@ -1302,7 +1302,7 @@
             "last_commit": "2019-05-08T19:49:27Z",
             "owner": "rieck",
             "repo": "malheur",
-            "stars": 377
+            "stars": 375
           }
         },
         {
@@ -1411,7 +1411,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-04T08:22:24Z",
+            "last_commit": "2026-08-14T22:16:24Z",
             "owner": "packing-box",
             "repo": "docker-packing-box",
             "stars": 66
@@ -1693,7 +1693,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T17:58:34.210Z",
+    "last_updated": "2026-08-15T17:29:09.324Z",
     "original_repository": "packing-box/awesome-executable-packing",
     "original_repository_sha": "ae1a476586df715abe168549aefbc8695474d21c",
     "enhanced_repository": "enhansome/enhansome-executable-packing",
