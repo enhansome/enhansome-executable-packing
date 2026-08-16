@@ -33,7 +33,7 @@
             "last_commit": "2024-10-13T04:06:23Z",
             "owner": "aidansteele",
             "repo": "osx-abi-macho-file-format-reference",
-            "stars": 878
+            "stars": 879
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2022-03-23T18:43:57Z",
             "owner": "dubuqingfeng",
             "repo": "ollydbg-script",
-            "stars": 278
+            "stars": 277
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-07-24T08:11:43Z",
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13299
+            "stars": 13301
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2024-01-13T17:39:44Z",
             "owner": "jstrosch",
             "repo": "malware-samples",
-            "stars": 1666
+            "stars": 1668
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2025-08-22T20:16:42Z",
             "owner": "FutureComputing4AI",
             "repo": "EMBER2024",
-            "stars": 135
+            "stars": 136
           }
         },
         {
@@ -302,7 +302,7 @@
             "last_commit": "2024-06-07T08:59:08Z",
             "owner": "mkaring",
             "repo": "ConfuserEx",
-            "stars": 2893
+            "stars": 2892
           }
         },
         {
@@ -344,7 +344,7 @@
             "last_commit": "2026-08-05T16:20:05Z",
             "owner": "runestubbe",
             "repo": "Crinkler",
-            "stars": 1283
+            "stars": 1284
           }
         },
         {
@@ -358,7 +358,7 @@
             "last_commit": "2025-10-14T22:53:57Z",
             "owner": "mgeeky",
             "repo": "ProtectMyTooling",
-            "stars": 1099
+            "stars": 1098
           }
         },
         {
@@ -414,7 +414,7 @@
             "last_commit": "2025-04-26T07:22:57Z",
             "owner": "DosX-dev",
             "repo": "Astral-PE",
-            "stars": 352
+            "stars": 351
           }
         },
         {
@@ -573,20 +573,6 @@
         },
         {
           "node_type": "item",
-          "title": "Hyperion",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-03T21:17:25Z",
-            "owner": "nullsecuritynet",
-            "repo": "tools",
-            "stars": 72
-          }
-        },
-        {
-          "node_type": "item",
           "title": "oplzkwp",
           "description": "Library for ELF obfuscation ; it uses PRESENT and blake244 to encrypt your payload on the fly.",
           "children": [],
@@ -597,6 +583,20 @@
             "owner": "tweksteen",
             "repo": "oplzkwp",
             "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hyperion",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T21:17:25Z",
+            "owner": "nullsecuritynet",
+            "repo": "tools",
+            "stars": 71
           }
         },
         {
@@ -873,7 +873,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-09T17:48:05Z",
+            "last_commit": "2026-08-15T17:58:04Z",
             "owner": "johnsonjh",
             "repo": "lzpack",
             "stars": 7
@@ -907,10 +907,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T13:01:20Z",
+            "last_commit": "2026-08-16T02:11:04Z",
             "owner": "angr",
             "repo": "angr",
-            "stars": 9011
+            "stars": 9014
           }
         },
         {
@@ -924,7 +924,7 @@
             "last_commit": "2026-05-26T09:04:25Z",
             "owner": "avast",
             "repo": "retdec",
-            "stars": 8608
+            "stars": 8607
           }
         },
         {
@@ -952,7 +952,7 @@
             "last_commit": "2026-08-14T20:56:07Z",
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6138
+            "stars": 6139
           }
         },
         {
@@ -963,10 +963,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-07T07:07:47Z",
+            "last_commit": "2026-08-15T19:22:06Z",
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5527
+            "stars": 5529
           }
         },
         {
@@ -980,7 +980,7 @@
             "last_commit": "2026-07-28T13:39:36Z",
             "owner": "JonathanSalwan",
             "repo": "Triton",
-            "stars": 4263
+            "stars": 4267
           }
         },
         {
@@ -991,10 +991,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T10:29:11Z",
+            "last_commit": "2026-08-16T08:17:15Z",
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 3223
+            "stars": 3224
           }
         },
         {
@@ -1008,7 +1008,7 @@
             "last_commit": "2026-07-29T03:11:37Z",
             "owner": "panda-re",
             "repo": "panda",
-            "stars": 2773
+            "stars": 2774
           }
         },
         {
@@ -1078,7 +1078,7 @@
             "last_commit": "2021-11-12T01:47:34Z",
             "owner": "lelinhtinh",
             "repo": "de4js",
-            "stars": 1581
+            "stars": 1580
           }
         },
         {
@@ -1106,7 +1106,7 @@
             "last_commit": "2025-10-21T10:10:41Z",
             "owner": "petoolse",
             "repo": "petools",
-            "stars": 1195
+            "stars": 1196
           }
         },
         {
@@ -1148,7 +1148,7 @@
             "last_commit": "2026-08-08T10:38:17Z",
             "owner": "ExeinfoASL",
             "repo": "ASL",
-            "stars": 1136
+            "stars": 1139
           }
         },
         {
@@ -1173,7 +1173,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T08:07:21Z",
+            "last_commit": "2026-08-16T08:33:27Z",
             "owner": "m417z",
             "repo": "winbindex",
             "stars": 863
@@ -1693,7 +1693,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:29:09.324Z",
+    "last_updated": "2026-08-16T17:28:40.346Z",
     "original_repository": "packing-box/awesome-executable-packing",
     "original_repository_sha": "ae1a476586df715abe168549aefbc8695474d21c",
     "enhanced_repository": "enhansome/enhansome-executable-packing",
