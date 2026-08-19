@@ -1,102 +1,110 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":earth_americas: Awesome executable packing",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 432715698,
+                "language": null,
+                "last_commit": "2026-05-31T10:23:25Z",
+                "owner": "packing-box",
+                "repo": "awesome-executable-packing",
+                "stars": 1609
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":earth_americas: Mach-O file format reference",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71191443,
+                "language": null,
+                "last_commit": "2024-10-13T04:06:23Z",
+                "owner": "aidansteele",
+                "repo": "osx-abi-macho-file-format-reference",
+                "stars": 879
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":earth_americas: Awesome LLVM security",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 446452352,
+                "language": null,
+                "last_commit": "2026-08-14T16:50:48Z",
+                "owner": "gmh5225",
+                "repo": "awesome-llvm-security",
+                "stars": 872
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":earth_americas: OllyDbg OEP finder scripts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46644419,
+                "language": "Batchfile",
+                "last_commit": "2022-03-23T18:43:57Z",
+                "owner": "dubuqingfeng",
+                "repo": "ollydbg-script",
+                "stars": 277
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":pushpin: Writing a simple PE packer in detail",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 174417626,
+                "language": "C++",
+                "last_commit": "2019-03-08T17:56:06Z",
+                "owner": "levanvn",
+                "repo": "PE_Packer",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":pushpin: Packer detection tool evaluation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 307269153,
+                "language": "Python",
+                "last_commit": "2021-03-24T06:21:48Z",
+                "owner": "FFRI",
+                "repo": "PackerDetectionToolEvaluation",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Documentation"
+        }
+      ],
       "title": ":books: Literature"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": ":earth_americas: Awesome executable packing",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-05-31T10:23:25Z",
-            "owner": "packing-box",
-            "repo": "awesome-executable-packing",
-            "stars": 1608
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":earth_americas: Mach-O file format reference",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-10-13T04:06:23Z",
-            "owner": "aidansteele",
-            "repo": "osx-abi-macho-file-format-reference",
-            "stars": 879
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":earth_americas: Awesome LLVM security",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-14T16:50:48Z",
-            "owner": "gmh5225",
-            "repo": "awesome-llvm-security",
-            "stars": 872
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":earth_americas: OllyDbg OEP finder scripts",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Batchfile",
-            "last_commit": "2022-03-23T18:43:57Z",
-            "owner": "dubuqingfeng",
-            "repo": "ollydbg-script",
-            "stars": 277
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":pushpin: Writing a simple PE packer in detail",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2019-03-08T17:56:06Z",
-            "owner": "levanvn",
-            "repo": "PE_Packer",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":pushpin: Packer detection tool evaluation",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-03-24T06:21:48Z",
-            "owner": "FFRI",
-            "repo": "PackerDetectionToolEvaluation",
-            "stars": 14
-          }
-        }
-      ],
-      "title": "Documentation"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -105,11 +113,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15776012,
             "language": "Python",
             "last_commit": "2026-07-24T08:11:43Z",
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13303
+            "stars": 13305
           }
         },
         {
@@ -119,11 +128,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 229798384,
             "language": "HTML",
             "last_commit": "2024-01-13T17:39:44Z",
             "owner": "jstrosch",
             "repo": "malware-samples",
-            "stars": 1667
+            "stars": 1668
           }
         },
         {
@@ -133,6 +143,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 129132478,
             "language": "Jupyter Notebook",
             "last_commit": "2024-11-22T20:36:57Z",
             "owner": "elastic",
@@ -147,11 +158,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 313700156,
             "language": "Python",
             "last_commit": "2021-04-07T15:10:58Z",
             "owner": "sophos",
             "repo": "SOREL-20M",
-            "stars": 708
+            "stars": 707
           }
         },
         {
@@ -161,6 +173,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 996433283,
             "language": "Python",
             "last_commit": "2025-08-22T20:16:42Z",
             "owner": "FutureComputing4AI",
@@ -175,6 +188,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 350577559,
             "language": "Python",
             "last_commit": "2026-07-13T15:55:23Z",
             "owner": "whyisyoung",
@@ -189,6 +203,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 240344039,
             "language": "Python",
             "last_commit": "2024-06-17T22:48:26Z",
             "owner": "ucsb-seclab",
@@ -203,6 +218,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 297779348,
             "language": "HTML",
             "last_commit": "2026-02-17T20:35:31Z",
             "owner": "Mayachitra-Inc",
@@ -217,6 +233,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 437925727,
             "language": "Python",
             "last_commit": "2026-01-24T09:50:42Z",
             "owner": "packing-box",
@@ -231,6 +248,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117911082,
             "language": "HTML",
             "last_commit": "2022-09-11T17:25:59Z",
             "owner": "apuromafo",
@@ -245,11 +263,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 458627711,
             "language": null,
             "last_commit": "2026-01-24T09:50:59Z",
             "owner": "packing-box",
             "repo": "dataset-packed-elf",
-            "stars": 21
+            "stars": 22
           }
         },
         {
@@ -259,6 +278,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180576347,
             "language": null,
             "last_commit": "2019-08-22T06:43:40Z",
             "owner": "chesvectain",
@@ -273,6 +293,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 214375515,
             "language": "Python",
             "last_commit": "2024-07-23T03:27:29Z",
             "owner": "FFRI",
@@ -284,620 +305,665 @@
       "title": ":bookmark_tabs: Datasets"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ConfuserEx",
+              "description": "An open-source, free protector for .NET applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140476604,
+                "language": "C#",
+                "last_commit": "2024-06-07T08:59:08Z",
+                "owner": "mkaring",
+                "repo": "ConfuserEx",
+                "stars": 2894
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PEzor",
+              "description": "Open-Source Shellcode & PE Packer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 281637859,
+                "language": "C",
+                "last_commit": "2024-02-03T19:11:05Z",
+                "owner": "phra",
+                "repo": "PEzor",
+                "stars": 2127
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Amber",
+              "description": "Position-independent(reflective) PE loader that enables in-memory execution of native PE files(EXE, DLL, SYS).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92883948,
+                "language": "Go",
+                "last_commit": "2024-02-22T17:44:19Z",
+                "owner": "EgeBalci",
+                "repo": "amber",
+                "stars": 1434
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Crinkler",
+              "description": "Compressing linker for Windows, specifically targeted towards executables with a size of just a few kilobytes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141051872,
+                "language": "C++",
+                "last_commit": "2026-08-05T16:20:05Z",
+                "owner": "runestubbe",
+                "repo": "Crinkler",
+                "stars": 1284
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ProtectMyTooling",
+              "description": "Multi-Packer wrapper letting us daisy-chain various packers, obfuscators and other Red Team oriented weaponry.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 411223323,
+                "language": "PowerShell",
+                "last_commit": "2025-10-14T22:53:57Z",
+                "owner": "mgeeky",
+                "repo": "ProtectMyTooling",
+                "stars": 1098
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ELFkickers",
+              "description": "A collection of programs that access and manipulate ELF files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9549237,
+                "language": "C",
+                "last_commit": "2024-11-07T18:31:04Z",
+                "owner": "BR903",
+                "repo": "ELFkickers",
+                "stars": 620
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BangCle",
+              "description": "Protection tool using the second generation Android Hardening Protection, loading the encrypted DEX file from memory dynamically.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125879459,
+                "language": "C++",
+                "last_commit": "2018-08-02T08:13:43Z",
+                "owner": "KuNgia09",
+                "repo": "Bangcle",
+                "stars": 407
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PE-Packer",
+              "description": "Simple packer for Windows 32-bits PE files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 231357933,
+                "language": "C",
+                "last_commit": "2024-10-22T15:21:28Z",
+                "owner": "czs108",
+                "repo": "Windows-PE-Packer",
+                "stars": 367
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Astral-PE",
+              "description": "Low-level mutator (Headers/EP obfuscator) for native Windows PE files (x32/x64).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 955385016,
+                "language": "C#",
+                "last_commit": "2025-04-26T07:22:57Z",
+                "owner": "DosX-dev",
+                "repo": "Astral-PE",
+                "stars": 354
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pakkero",
+              "description": "Binary packer written in Go made for fun and educational purpose.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 265665497,
+                "language": "Go",
+                "last_commit": "2023-01-16T21:07:13Z",
+                "owner": "89luca89",
+                "repo": "pakkero",
+                "stars": 278
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ezuri",
+              "description": "A Simple Linux ELF Runtime Crypter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 183611778,
+                "language": "Go",
+                "last_commit": "2025-02-25T10:53:38Z",
+                "owner": "guitmz",
+                "repo": "ezuri",
+                "stars": 276
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ASM Guard",
+              "description": "Packer utility for compressing and complicating reversing compiled native code (native files), protecting resources, adding DRM, and packing into an optimized loader.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 600800413,
+                "language": null,
+                "last_commit": "2024-02-20T20:14:30Z",
+                "owner": "DosX-dev",
+                "repo": "ASM-Guard",
+                "stars": 269
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MidgetPack",
+              "description": "ELF binary packer, such as burneye, upx or other tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22230619,
+                "language": "C",
+                "last_commit": "2014-07-29T08:41:20Z",
+                "owner": "arisada",
+                "repo": "midgetpack",
+                "stars": 210
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TinyLoad",
+              "description": "Simple PE packer for Windows that compresses and encrypts executables with a custom virtual machine into a self-extracting stub.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1183123101,
+                "language": "C++",
+                "last_commit": "2026-08-19T05:15:51Z",
+                "owner": "iamsopotatoe-coder",
+                "repo": "TinyLoad",
+                "stars": 185
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Origami",
+              "description": "Packer compressing .net assemblies, (ab)using the PE format for data storage.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268564473,
+                "language": "C#",
+                "last_commit": "2023-01-14T23:37:46Z",
+                "owner": "dr4k0nia",
+                "repo": "Origami",
+                "stars": 176
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ELFCrypt",
+              "description": "Simple ELF crypter using RC4 encryption.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95156257,
+                "language": "C",
+                "last_commit": "2020-09-10T00:26:54Z",
+                "owner": "droberson",
+                "repo": "ELFcrypt",
+                "stars": 130
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Silent-Packer",
+              "description": "Silent Packer is an ELF / PE packer written in pure C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 243125267,
+                "language": "C",
+                "last_commit": "2024-03-28T10:23:13Z",
+                "owner": "SilentVoid13",
+                "repo": "Silent_Packer",
+                "stars": 120
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SimpleDPack",
+              "description": "A very simple windows EXE packing tool for learning or investigating PE structure.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53831444,
+                "language": "C",
+                "last_commit": "2023-01-17T13:03:47Z",
+                "owner": "YuriSizuku",
+                "repo": "win-SimpleDpack",
+                "stars": 120
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sherlocked",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25991578,
+                "language": "Objective-C",
+                "last_commit": "2014-10-30T22:03:18Z",
+                "owner": "elfmaster",
+                "repo": "sherlocked",
+                "stars": 105
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ps2-packer",
+              "description": "Create packed ELF files to run on the PS2.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 894525,
+                "language": "C",
+                "last_commit": "2026-05-16T08:33:11Z",
+                "owner": "ps2dev",
+                "repo": "ps2-packer",
+                "stars": 82
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "oplzkwp",
+              "description": "Library for ELF obfuscation ; it uses PRESENT and blake244 to encrypt your payload on the fly.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35020134,
+                "language": "C",
+                "last_commit": "2015-08-14T02:02:16Z",
+                "owner": "tweksteen",
+                "repo": "oplzkwp",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hyperion",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 718539137,
+                "language": "Python",
+                "last_commit": "2026-08-03T21:17:25Z",
+                "owner": "nullsecuritynet",
+                "repo": "tools",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hXOR-Packer",
+              "description": "PE packer with Huffman compression and XOR encryption.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 314280752,
+                "language": "C++",
+                "last_commit": "2021-09-11T13:00:34Z",
+                "owner": "akuafif",
+                "repo": "hXOR-Packer",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NetCrypt",
+              "description": "A proof-of-concept packer for .NET executables, designed to provide a starting point to explain the basic principles of runtime packing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13597888,
+                "language": "C#",
+                "last_commit": "2018-11-04T20:19:07Z",
+                "owner": "friedkiwi",
+                "repo": "netcrypt",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ELF-Packer",
+              "description": "Simple Polymorphic x86_64 Runtime Code Segment Cryptor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104436680,
+                "language": "Python",
+                "last_commit": "2018-03-08T01:07:53Z",
+                "owner": "glem0",
+                "repo": "ELF-Packer",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "theArk",
+              "description": "Windows x86 PE Packer In C++.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 222306966,
+                "language": "C++",
+                "last_commit": "2019-11-18T03:17:14Z",
+                "owner": "aaaddress1",
+                "repo": "theArk",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PePacker",
+              "description": "Simple PE Packer Which Encrypts .text Section I release a simple PE file packer which encrypts the .text section and adds a decryption stub to the end of the last section.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92629935,
+                "language": "C++",
+                "last_commit": "2017-05-28T00:04:11Z",
+                "owner": "SamLarenN",
+                "repo": "PePacker",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Eronona-Packer",
+              "description": "This is a packer for exe under win32.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86908563,
+                "language": "C++",
+                "last_commit": "2020-02-19T08:34:40Z",
+                "owner": "Eronana",
+                "repo": "packer",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Papaw",
+              "description": "Permissively-licensed packer for ELF executables using LZMA Zstandard or Deflate compression.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169304067,
+                "language": "C",
+                "last_commit": "2022-05-16T06:24:58Z",
+                "owner": "dimkr",
+                "repo": "papaw",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "m0dern_p4cker",
+              "description": "Just a modern packer for elf binaries ( works on Linux executables only ).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 204802113,
+                "language": "C",
+                "last_commit": "2021-03-19T09:53:22Z",
+                "owner": "n4sm",
+                "repo": "m0dern_p4cker",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ELF Packer",
+              "description": "Encrypts 64-bit elf files that decrypt at runtime.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119719600,
+                "language": "C",
+                "last_commit": "2025-03-06T18:00:41Z",
+                "owner": "telepath9000",
+                "repo": "elf-packer",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ELFuck",
+              "description": "ELF packer for i386 original version from sk2 by sd.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47976180,
+                "language": "C",
+                "last_commit": "2015-12-14T13:30:22Z",
+                "owner": "timhsutw",
+                "repo": "elfuck",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Woody Wood Packer",
+              "description": "ELF packer - encrypt and inject self-decryption code into executable ELF binary target.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 520669004,
+                "language": "C",
+                "last_commit": "2022-09-11T15:09:43Z",
+                "owner": "Jibus22",
+                "repo": "woody_woodpacker",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ward",
+              "description": "Simple implementation of an ELF packer that creates stealthy droppers for loading malicious ELFs in-memory.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 283902814,
+                "language": "Go",
+                "last_commit": "2023-08-16T22:59:16Z",
+                "owner": "ex0dus-0x",
+                "repo": "ward",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Backpack",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 487631598,
+                "language": "Go",
+                "last_commit": "2022-05-01T20:54:57Z",
+                "owner": "Enelg52",
+                "repo": "Backpack",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xorPacker",
+              "description": "Simple packer working with all PE files which cipher your exe with a XOR implementation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286132159,
+                "language": "C#",
+                "last_commit": "2020-08-10T20:34:17Z",
+                "owner": "nqntmqmqmb",
+                "repo": "xorPacker",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "XyrisPack",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 887579154,
+                "language": "Assembly",
+                "last_commit": "2024-11-18T22:49:02Z",
+                "owner": "01Xyris",
+                "repo": "XyrisPack",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PE-Toy",
+              "description": "A PE file packer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76877867,
+                "language": "Assembly",
+                "last_commit": "2016-12-26T14:24:01Z",
+                "owner": "xrw67",
+                "repo": "petoy",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pocrypt",
+              "description": "Naive Proof of Concept Crypter for GNU/Linux ELF64.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50295142,
+                "language": "C",
+                "last_commit": "2017-12-14T06:31:09Z",
+                "owner": "picoflamingo",
+                "repo": "pocrypt",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pakr",
+              "description": "In-memory packer for macOS Mach-O bundles.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 78266922,
+                "language": "C",
+                "last_commit": "2017-01-07T08:27:56Z",
+                "owner": "iangcarroll",
+                "repo": "pakr",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Simple-PE32-Packer",
+              "description": "Simple PE32 Packer with aPLib compression library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135820362,
+                "language": "C++",
+                "last_commit": "2018-09-03T10:08:30Z",
+                "owner": "z3r0d4y5",
+                "repo": "Simple-PE32-Packer",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LZPACK",
+              "description": "LZPACK - PopCom!-compatible CP/M-80 executable compressor in ANSI C, runs on 48K CP/M-80, CP/M-86, MS-DOS, UNIX, and other platforms.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1249360103,
+                "language": "C",
+                "last_commit": "2026-08-15T17:58:04Z",
+                "owner": "johnsonjh",
+                "repo": "lzpack",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zELF",
+              "description": "A modular ELF64 packer for Linux x86_64 featuring 22 compression codecs, ML-based codec selection, and support for both static and PIE binaries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1114808800,
+                "language": "C",
+                "last_commit": "2026-01-30T01:27:16Z",
+                "owner": "seb3773",
+                "repo": "zelf",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "After 2010"
+        }
+      ],
       "title": ":package: Packers"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ConfuserEx",
-          "description": "An open-source, free protector for .NET applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2024-06-07T08:59:08Z",
-            "owner": "mkaring",
-            "repo": "ConfuserEx",
-            "stars": 2894
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PEzor",
-          "description": "Open-Source Shellcode & PE Packer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-02-03T19:11:05Z",
-            "owner": "phra",
-            "repo": "PEzor",
-            "stars": 2126
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Amber",
-          "description": "Position-independent(reflective) PE loader that enables in-memory execution of native PE files(EXE, DLL, SYS).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-02-22T17:44:19Z",
-            "owner": "EgeBalci",
-            "repo": "amber",
-            "stars": 1434
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Crinkler",
-          "description": "Compressing linker for Windows, specifically targeted towards executables with a size of just a few kilobytes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-05T16:20:05Z",
-            "owner": "runestubbe",
-            "repo": "Crinkler",
-            "stars": 1285
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ProtectMyTooling",
-          "description": "Multi-Packer wrapper letting us daisy-chain various packers, obfuscators and other Red Team oriented weaponry.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2025-10-14T22:53:57Z",
-            "owner": "mgeeky",
-            "repo": "ProtectMyTooling",
-            "stars": 1098
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ELFkickers",
-          "description": "A collection of programs that access and manipulate ELF files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-11-07T18:31:04Z",
-            "owner": "BR903",
-            "repo": "ELFkickers",
-            "stars": 620
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BangCle",
-          "description": "Protection tool using the second generation Android Hardening Protection, loading the encrypted DEX file from memory dynamically.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2018-08-02T08:13:43Z",
-            "owner": "KuNgia09",
-            "repo": "Bangcle",
-            "stars": 407
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PE-Packer",
-          "description": "Simple packer for Windows 32-bits PE files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-10-22T15:21:28Z",
-            "owner": "czs108",
-            "repo": "Windows-PE-Packer",
-            "stars": 367
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Astral-PE",
-          "description": "Low-level mutator (Headers/EP obfuscator) for native Windows PE files (x32/x64).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-04-26T07:22:57Z",
-            "owner": "DosX-dev",
-            "repo": "Astral-PE",
-            "stars": 354
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pakkero",
-          "description": "Binary packer written in Go made for fun and educational purpose.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-01-16T21:07:13Z",
-            "owner": "89luca89",
-            "repo": "pakkero",
-            "stars": 278
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ezuri",
-          "description": "A Simple Linux ELF Runtime Crypter.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-02-25T10:53:38Z",
-            "owner": "guitmz",
-            "repo": "ezuri",
-            "stars": 276
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ASM Guard",
-          "description": "Packer utility for compressing and complicating reversing compiled native code (native files), protecting resources, adding DRM, and packing into an optimized loader.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-02-20T20:14:30Z",
-            "owner": "DosX-dev",
-            "repo": "ASM-Guard",
-            "stars": 269
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MidgetPack",
-          "description": "ELF binary packer, such as burneye, upx or other tools.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2014-07-29T08:41:20Z",
-            "owner": "arisada",
-            "repo": "midgetpack",
-            "stars": 210
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TinyLoad",
-          "description": "Simple PE packer for Windows that compresses and encrypts executables with a custom virtual machine into a self-extracting stub.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-15T14:10:06Z",
-            "owner": "iamsopotatoe-coder",
-            "repo": "TinyLoad",
-            "stars": 185
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Origami",
-          "description": "Packer compressing .net assemblies, (ab)using the PE format for data storage.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2023-01-14T23:37:46Z",
-            "owner": "dr4k0nia",
-            "repo": "Origami",
-            "stars": 176
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ELFCrypt",
-          "description": "Simple ELF crypter using RC4 encryption.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2020-09-10T00:26:54Z",
-            "owner": "droberson",
-            "repo": "ELFcrypt",
-            "stars": 130
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Silent-Packer",
-          "description": "Silent Packer is an ELF / PE packer written in pure C.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-03-28T10:23:13Z",
-            "owner": "SilentVoid13",
-            "repo": "Silent_Packer",
-            "stars": 120
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SimpleDPack",
-          "description": "A very simple windows EXE packing tool for learning or investigating PE structure.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-01-17T13:03:47Z",
-            "owner": "YuriSizuku",
-            "repo": "win-SimpleDpack",
-            "stars": 120
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sherlocked",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2014-10-30T22:03:18Z",
-            "owner": "elfmaster",
-            "repo": "sherlocked",
-            "stars": 105
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ps2-packer",
-          "description": "Create packed ELF files to run on the PS2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-05-16T08:33:11Z",
-            "owner": "ps2dev",
-            "repo": "ps2-packer",
-            "stars": 82
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "oplzkwp",
-          "description": "Library for ELF obfuscation ; it uses PRESENT and blake244 to encrypt your payload on the fly.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2015-08-14T02:02:16Z",
-            "owner": "tweksteen",
-            "repo": "oplzkwp",
-            "stars": 72
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hyperion",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-03T21:17:25Z",
-            "owner": "nullsecuritynet",
-            "repo": "tools",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hXOR-Packer",
-          "description": "PE packer with Huffman compression and XOR encryption.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2021-09-11T13:00:34Z",
-            "owner": "akuafif",
-            "repo": "hXOR-Packer",
-            "stars": 70
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NetCrypt",
-          "description": "A proof-of-concept packer for .NET executables, designed to provide a starting point to explain the basic principles of runtime packing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2018-11-04T20:19:07Z",
-            "owner": "friedkiwi",
-            "repo": "netcrypt",
-            "stars": 63
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ELF-Packer",
-          "description": "Simple Polymorphic x86_64 Runtime Code Segment Cryptor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-03-08T01:07:53Z",
-            "owner": "glem0",
-            "repo": "ELF-Packer",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "theArk",
-          "description": "Windows x86 PE Packer In C++.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2019-11-18T03:17:14Z",
-            "owner": "aaaddress1",
-            "repo": "theArk",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PePacker",
-          "description": "Simple PE Packer Which Encrypts .text Section I release a simple PE file packer which encrypts the .text section and adds a decryption stub to the end of the last section.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2017-05-28T00:04:11Z",
-            "owner": "SamLarenN",
-            "repo": "PePacker",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Eronona-Packer",
-          "description": "This is a packer for exe under win32.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2020-02-19T08:34:40Z",
-            "owner": "Eronana",
-            "repo": "packer",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Papaw",
-          "description": "Permissively-licensed packer for ELF executables using LZMA Zstandard or Deflate compression.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-05-16T06:24:58Z",
-            "owner": "dimkr",
-            "repo": "papaw",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "m0dern_p4cker",
-          "description": "Just a modern packer for elf binaries ( works on Linux executables only ).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2021-03-19T09:53:22Z",
-            "owner": "n4sm",
-            "repo": "m0dern_p4cker",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ELF Packer",
-          "description": "Encrypts 64-bit elf files that decrypt at runtime.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-03-06T18:00:41Z",
-            "owner": "telepath9000",
-            "repo": "elf-packer",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ELFuck",
-          "description": "ELF packer for i386 original version from sk2 by sd.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2015-12-14T13:30:22Z",
-            "owner": "timhsutw",
-            "repo": "elfuck",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Woody Wood Packer",
-          "description": "ELF packer - encrypt and inject self-decryption code into executable ELF binary target.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-09-11T15:09:43Z",
-            "owner": "Jibus22",
-            "repo": "woody_woodpacker",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ward",
-          "description": "Simple implementation of an ELF packer that creates stealthy droppers for loading malicious ELFs in-memory.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-08-16T22:59:16Z",
-            "owner": "ex0dus-0x",
-            "repo": "ward",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Backpack",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2022-05-01T20:54:57Z",
-            "owner": "Enelg52",
-            "repo": "Backpack",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xorPacker",
-          "description": "Simple packer working with all PE files which cipher your exe with a XOR implementation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2020-08-10T20:34:17Z",
-            "owner": "nqntmqmqmb",
-            "repo": "xorPacker",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "XyrisPack",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2024-11-18T22:49:02Z",
-            "owner": "01Xyris",
-            "repo": "XyrisPack",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PE-Toy",
-          "description": "A PE file packer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2016-12-26T14:24:01Z",
-            "owner": "xrw67",
-            "repo": "petoy",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pocrypt",
-          "description": "Naive Proof of Concept Crypter for GNU/Linux ELF64.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2017-12-14T06:31:09Z",
-            "owner": "picoflamingo",
-            "repo": "pocrypt",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pakr",
-          "description": "In-memory packer for macOS Mach-O bundles.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2017-01-07T08:27:56Z",
-            "owner": "iangcarroll",
-            "repo": "pakr",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Simple-PE32-Packer",
-          "description": "Simple PE32 Packer with aPLib compression library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2018-09-03T10:08:30Z",
-            "owner": "z3r0d4y5",
-            "repo": "Simple-PE32-Packer",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LZPACK",
-          "description": "LZPACK - PopCom!-compatible CP/M-80 executable compressor in ANSI C, runs on 48K CP/M-80, CP/M-86, MS-DOS, UNIX, and other platforms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-15T17:58:04Z",
-            "owner": "johnsonjh",
-            "repo": "lzpack",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zELF",
-          "description": "A modular ELF64 packer for Linux x86_64 featuring 22 compression codecs, ML-based codec selection, and support for both static and PIE binaries.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-01-30T01:27:16Z",
-            "owner": "seb3773",
-            "repo": "zelf",
-            "stars": 7
-          }
-        }
-      ],
-      "title": "After 2010"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -906,11 +972,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40328394,
             "language": "Python",
-            "last_commit": "2026-08-18T16:49:57Z",
+            "last_commit": "2026-08-19T10:39:45Z",
             "owner": "angr",
             "repo": "angr",
-            "stars": 9019
+            "stars": 9022
           }
         },
         {
@@ -920,6 +987,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113967646,
             "language": "C++",
             "last_commit": "2026-05-26T09:04:25Z",
             "owner": "avast",
@@ -934,6 +1002,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 2419727,
             "language": "C#",
             "last_commit": "2020-08-29T08:14:56Z",
             "owner": "de4dot",
@@ -948,11 +1017,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 272815213,
             "language": "Python",
             "last_commit": "2026-08-18T14:52:38Z",
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6142
+            "stars": 6144
           }
         },
         {
@@ -962,11 +1032,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85205851,
             "language": "C++",
             "last_commit": "2026-08-15T19:22:06Z",
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5532
+            "stars": 5536
           }
         },
         {
@@ -976,11 +1047,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29811166,
             "language": "C++",
             "last_commit": "2026-07-28T13:39:36Z",
             "owner": "JonathanSalwan",
             "repo": "Triton",
-            "stars": 4267
+            "stars": 4268
           }
         },
         {
@@ -990,8 +1062,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25164176,
             "language": "C++",
-            "last_commit": "2026-08-18T15:08:51Z",
+            "last_commit": "2026-08-19T04:16:51Z",
             "owner": "horsicq",
             "repo": "DIE-engine",
             "stars": 3227
@@ -1004,6 +1077,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12330872,
             "language": "C",
             "last_commit": "2026-07-29T03:11:37Z",
             "owner": "panda-re",
@@ -1018,6 +1092,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39718308,
             "language": "C#",
             "last_commit": "2026-08-18T15:27:38Z",
             "owner": "uxmal",
@@ -1032,11 +1107,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61825895,
             "language": "YARA",
             "last_commit": "2026-07-27T17:35:45Z",
             "owner": "rednaga",
             "repo": "APKiD",
-            "stars": 2558
+            "stars": 2559
           }
         },
         {
@@ -1046,6 +1122,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33870982,
             "language": "Python",
             "last_commit": "2026-08-14T18:43:30Z",
             "owner": "erocarrera",
@@ -1060,6 +1137,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15494190,
             "language": "Python",
             "last_commit": "2026-01-10T15:02:41Z",
             "owner": "Neo23x0",
@@ -1074,6 +1152,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 104349293,
             "language": "JavaScript",
             "last_commit": "2021-11-12T01:47:34Z",
             "owner": "lelinhtinh",
@@ -1088,6 +1167,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 259618041,
             "language": null,
             "last_commit": "2025-02-01T10:33:16Z",
             "owner": "NotPrab",
@@ -1102,6 +1182,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102133147,
             "language": null,
             "last_commit": "2025-10-21T10:10:41Z",
             "owner": "petoolse",
@@ -1116,6 +1197,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22766694,
             "language": "C",
             "last_commit": "2020-01-20T19:57:15Z",
             "owner": "strazzere",
@@ -1130,6 +1212,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51834766,
             "language": "C++",
             "last_commit": "2023-08-09T17:31:09Z",
             "owner": "crypto2011",
@@ -1144,6 +1227,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 227461313,
             "language": null,
             "last_commit": "2026-08-08T10:38:17Z",
             "owner": "ExeinfoASL",
@@ -1158,6 +1242,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40815641,
             "language": "YARA",
             "last_commit": "2026-08-12T23:41:38Z",
             "owner": "JusticeRage",
@@ -1172,11 +1257,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 279035005,
             "language": "Python",
-            "last_commit": "2026-08-18T08:41:12Z",
+            "last_commit": "2026-08-19T08:12:50Z",
             "owner": "m417z",
             "repo": "winbindex",
-            "stars": 863
+            "stars": 864
           }
         },
         {
@@ -1186,6 +1272,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140192103,
             "language": "C",
             "last_commit": "2026-04-14T13:23:29Z",
             "owner": "hasherezade",
@@ -1200,6 +1287,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3456770,
             "language": "C",
             "last_commit": "2026-07-08T17:14:27Z",
             "owner": "mentebinaria",
@@ -1214,6 +1302,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61954104,
             "language": null,
             "last_commit": "2023-06-04T18:39:06Z",
             "owner": "hasherezade",
@@ -1228,11 +1317,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169604732,
             "language": "Python",
             "last_commit": "2025-08-18T16:24:51Z",
             "owner": "unipacker",
             "repo": "unipacker",
-            "stars": 765
+            "stars": 766
           }
         },
         {
@@ -1242,6 +1332,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98222506,
             "language": "Python",
             "last_commit": "2022-11-21T22:04:05Z",
             "owner": "endgameinc",
@@ -1256,6 +1347,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17687689,
             "language": "YARA",
             "last_commit": "2022-08-08T14:04:56Z",
             "owner": "guelfoweb",
@@ -1270,6 +1362,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13143236,
             "language": "Scala",
             "last_commit": "2026-04-03T02:53:29Z",
             "owner": "struppigel",
@@ -1284,6 +1377,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62407546,
             "language": "Python",
             "last_commit": "2024-10-22T15:14:41Z",
             "owner": "malicialab",
@@ -1298,6 +1392,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193824,
             "language": "C",
             "last_commit": "2019-05-08T19:49:27Z",
             "owner": "rieck",
@@ -1312,6 +1407,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34022941,
             "language": "C++",
             "last_commit": "2018-03-05T08:12:49Z",
             "owner": "BromiumLabs",
@@ -1326,6 +1422,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 229022735,
             "language": "Python",
             "last_commit": "2025-11-27T14:28:02Z",
             "owner": "pralab",
@@ -1340,6 +1437,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44245445,
             "language": "C++",
             "last_commit": "2016-07-30T23:34:40Z",
             "owner": "Phat3",
@@ -1354,6 +1452,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 270964794,
             "language": "C++",
             "last_commit": "2026-03-31T10:41:44Z",
             "owner": "CheckPointSW",
@@ -1368,6 +1467,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144807249,
             "language": "C++",
             "last_commit": "2018-11-25T23:24:34Z",
             "owner": "s3team",
@@ -1382,6 +1482,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 383567798,
             "language": "Python",
             "last_commit": "2026-07-19T05:57:09Z",
             "owner": "packing-box",
@@ -1396,6 +1497,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 469804435,
             "language": "C++",
             "last_commit": "2023-08-01T21:04:35Z",
             "owner": "adamhlt",
@@ -1410,6 +1512,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 336180501,
             "language": "Python",
             "last_commit": "2026-08-14T22:16:24Z",
             "owner": "packing-box",
@@ -1424,6 +1527,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5380898,
             "language": "C++",
             "last_commit": "2013-07-27T18:43:50Z",
             "owner": "crackinglandia",
@@ -1438,6 +1542,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 113976644,
             "language": "C++",
             "last_commit": "2020-01-27T09:23:08Z",
             "owner": "avast",
@@ -1452,6 +1557,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 382563382,
             "language": "Python",
             "last_commit": "2026-03-21T23:01:50Z",
             "owner": "packing-box",
@@ -1466,6 +1572,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27508651,
             "language": "Python",
             "last_commit": "2020-04-01T15:53:45Z",
             "owner": "sooshie",
@@ -1480,6 +1587,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115843307,
             "language": "C++",
             "last_commit": "2017-12-31T06:05:12Z",
             "owner": "UchihaL",
@@ -1494,6 +1602,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 242070371,
             "language": "C",
             "last_commit": "2022-03-31T01:38:17Z",
             "owner": "rewhy",
@@ -1508,6 +1617,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143055697,
             "language": "Python",
             "last_commit": "2018-10-24T16:26:41Z",
             "owner": "cylance",
@@ -1522,8 +1632,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 384872434,
             "language": "Python",
-            "last_commit": "2026-08-17T17:52:51Z",
+            "last_commit": "2026-08-19T00:08:57Z",
             "owner": "packing-box",
             "repo": "pypackerdetect",
             "stars": 28
@@ -1536,6 +1647,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 772642710,
             "language": "C++",
             "last_commit": "2025-01-26T13:55:13Z",
             "owner": "packing-box",
@@ -1550,6 +1662,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78006293,
             "language": "Go",
             "last_commit": "2017-01-06T09:01:00Z",
             "owner": "K-atc",
@@ -1564,6 +1677,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3429217,
             "language": "C++",
             "last_commit": "2012-05-01T12:32:41Z",
             "owner": "PlatonovIvan",
@@ -1578,6 +1692,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64123439,
             "language": "Python",
             "last_commit": "2016-07-25T11:00:58Z",
             "owner": "tum-i4",
@@ -1592,6 +1707,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30388674,
             "language": "C++",
             "last_commit": "2016-03-06T02:20:56Z",
             "owner": "mesaleh",
@@ -1606,6 +1722,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131304176,
             "language": "Batchfile",
             "last_commit": "2018-04-27T14:04:41Z",
             "owner": "xshows",
@@ -1620,6 +1737,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 264877003,
             "language": "Python",
             "last_commit": "2024-06-17T11:19:03Z",
             "owner": "FFRI",
@@ -1634,6 +1752,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 565266619,
             "language": "Python",
             "last_commit": "2026-03-22T00:28:01Z",
             "owner": "packing-box",
@@ -1648,6 +1767,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 586616485,
             "language": "Jupyter Notebook",
             "last_commit": "2024-01-03T14:30:05Z",
             "owner": "dimitriwauters",
@@ -1662,6 +1782,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 211524071,
             "language": "Jupyter Notebook",
             "last_commit": "2021-01-06T05:59:47Z",
             "owner": "roussieau",
@@ -1676,6 +1797,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 580170578,
             "language": "Python",
             "last_commit": "2026-03-21T22:45:04Z",
             "owner": "packing-box",
@@ -1685,16 +1807,12 @@
         }
       ],
       "title": ":wrench: Tools"
-    },
-    {
-      "description": "Contributions are welcome! Please read the contribution guidelines first.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:36:06.737Z",
+    "last_updated": "2026-08-19T12:29:38.221Z",
     "original_repository": "packing-box/awesome-executable-packing",
+    "original_repository_id": 432715698,
     "original_repository_sha": "ae1a476586df715abe168549aefbc8695474d21c",
     "enhanced_repository": "enhansome/enhansome-executable-packing",
     "enhanced_repository_description": null,
