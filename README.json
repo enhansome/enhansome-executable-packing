@@ -513,7 +513,7 @@
                 "archived": false,
                 "id": 1183123101,
                 "language": "C++",
-                "last_commit": "2026-08-19T05:15:51Z",
+                "last_commit": "2026-08-19T16:52:08Z",
                 "owner": "iamsopotatoe-coder",
                 "repo": "TinyLoad",
                 "stars": 185
@@ -974,7 +974,7 @@
             "archived": false,
             "id": 40328394,
             "language": "Python",
-            "last_commit": "2026-08-19T10:39:45Z",
+            "last_commit": "2026-08-19T17:30:09Z",
             "owner": "angr",
             "repo": "angr",
             "stars": 9022
@@ -1022,7 +1022,7 @@
             "last_commit": "2026-08-18T14:52:38Z",
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6144
+            "stars": 6145
           }
         },
         {
@@ -1037,7 +1037,7 @@
             "last_commit": "2026-08-15T19:22:06Z",
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5536
+            "stars": 5537
           }
         },
         {
@@ -1052,7 +1052,7 @@
             "last_commit": "2026-07-28T13:39:36Z",
             "owner": "JonathanSalwan",
             "repo": "Triton",
-            "stars": 4268
+            "stars": 4269
           }
         },
         {
@@ -1064,7 +1064,7 @@
             "archived": false,
             "id": 25164176,
             "language": "C++",
-            "last_commit": "2026-08-19T04:16:51Z",
+            "last_commit": "2026-08-19T15:17:02Z",
             "owner": "horsicq",
             "repo": "DIE-engine",
             "stars": 3227
@@ -1142,7 +1142,7 @@
             "last_commit": "2026-01-10T15:02:41Z",
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1809
+            "stars": 1808
           }
         },
         {
@@ -1232,7 +1232,7 @@
             "last_commit": "2026-08-08T10:38:17Z",
             "owner": "ExeinfoASL",
             "repo": "ASL",
-            "stars": 1141
+            "stars": 1142
           }
         },
         {
@@ -1514,7 +1514,7 @@
             "archived": false,
             "id": 336180501,
             "language": "Python",
-            "last_commit": "2026-08-14T22:16:24Z",
+            "last_commit": "2026-08-19T16:46:50Z",
             "owner": "packing-box",
             "repo": "docker-packing-box",
             "stars": 66
@@ -1810,7 +1810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:29:38.221Z",
+    "last_updated": "2026-08-19T17:34:51.763Z",
     "original_repository": "packing-box/awesome-executable-packing",
     "original_repository_id": 432715698,
     "original_repository_sha": "ae1a476586df715abe168549aefbc8695474d21c",
