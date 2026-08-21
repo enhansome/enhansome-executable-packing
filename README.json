@@ -17,7 +17,7 @@
                 "last_commit": "2026-05-31T10:23:25Z",
                 "owner": "packing-box",
                 "repo": "awesome-executable-packing",
-                "stars": 1609
+                "stars": 1610
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-14T16:50:48Z",
                 "owner": "gmh5225",
                 "repo": "awesome-llvm-security",
-                "stars": 873
+                "stars": 874
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2022-03-23T18:43:57Z",
                 "owner": "dubuqingfeng",
                 "repo": "ollydbg-script",
-                "stars": 277
+                "stars": 278
               }
             },
             {
@@ -118,7 +118,7 @@
             "last_commit": "2026-07-24T08:11:43Z",
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13308
+            "stars": 13310
           }
         },
         {
@@ -133,7 +133,7 @@
             "last_commit": "2024-01-13T17:39:44Z",
             "owner": "jstrosch",
             "repo": "malware-samples",
-            "stars": 1668
+            "stars": 1669
           }
         },
         {
@@ -163,7 +163,7 @@
             "last_commit": "2021-04-07T15:10:58Z",
             "owner": "sophos",
             "repo": "SOREL-20M",
-            "stars": 707
+            "stars": 708
           }
         },
         {
@@ -178,7 +178,7 @@
             "last_commit": "2025-08-22T20:16:42Z",
             "owner": "FutureComputing4AI",
             "repo": "EMBER2024",
-            "stars": 142
+            "stars": 143
           }
         },
         {
@@ -321,7 +321,7 @@
                 "last_commit": "2024-06-07T08:59:08Z",
                 "owner": "mkaring",
                 "repo": "ConfuserEx",
-                "stars": 2896
+                "stars": 2897
               }
             },
             {
@@ -351,7 +351,7 @@
                 "last_commit": "2024-02-22T17:44:19Z",
                 "owner": "EgeBalci",
                 "repo": "amber",
-                "stars": 1437
+                "stars": 1440
               }
             },
             {
@@ -426,7 +426,7 @@
                 "last_commit": "2024-10-22T15:21:28Z",
                 "owner": "czs108",
                 "repo": "Windows-PE-Packer",
-                "stars": 367
+                "stars": 368
               }
             },
             {
@@ -471,7 +471,7 @@
                 "last_commit": "2025-02-25T10:53:38Z",
                 "owner": "guitmz",
                 "repo": "ezuri",
-                "stars": 276
+                "stars": 277
               }
             },
             {
@@ -861,7 +861,7 @@
                 "last_commit": "2024-11-18T22:49:02Z",
                 "owner": "01Xyris",
                 "repo": "XyrisPack",
-                "stars": 11
+                "stars": 12
               }
             },
             {
@@ -974,10 +974,10 @@
             "archived": false,
             "id": 40328394,
             "language": "Python",
-            "last_commit": "2026-08-20T16:50:46Z",
+            "last_commit": "2026-08-21T08:44:21Z",
             "owner": "angr",
             "repo": "angr",
-            "stars": 9021
+            "stars": 9022
           }
         },
         {
@@ -1022,7 +1022,7 @@
             "last_commit": "2026-08-18T14:52:38Z",
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6147
+            "stars": 6150
           }
         },
         {
@@ -1037,7 +1037,7 @@
             "last_commit": "2026-08-20T15:54:50Z",
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5540
+            "stars": 5542
           }
         },
         {
@@ -1052,7 +1052,7 @@
             "last_commit": "2026-07-28T13:39:36Z",
             "owner": "JonathanSalwan",
             "repo": "Triton",
-            "stars": 4268
+            "stars": 4269
           }
         },
         {
@@ -1064,10 +1064,10 @@
             "archived": false,
             "id": 25164176,
             "language": "C++",
-            "last_commit": "2026-08-20T15:59:07Z",
+            "last_commit": "2026-08-21T16:39:14Z",
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 3228
+            "stars": 3230
           }
         },
         {
@@ -1082,7 +1082,7 @@
             "last_commit": "2026-07-29T03:11:37Z",
             "owner": "panda-re",
             "repo": "panda",
-            "stars": 2774
+            "stars": 2775
           }
         },
         {
@@ -1097,7 +1097,7 @@
             "last_commit": "2026-08-18T15:27:38Z",
             "owner": "uxmal",
             "repo": "reko",
-            "stars": 2600
+            "stars": 2598
           }
         },
         {
@@ -1124,10 +1124,10 @@
             "archived": false,
             "id": 33870982,
             "language": "Python",
-            "last_commit": "2026-08-14T18:43:30Z",
+            "last_commit": "2026-08-21T09:00:19Z",
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2062
+            "stars": 2063
           }
         },
         {
@@ -1142,7 +1142,7 @@
             "last_commit": "2026-01-10T15:02:41Z",
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1809
+            "stars": 1810
           }
         },
         {
@@ -1247,7 +1247,7 @@
             "last_commit": "2026-08-12T23:41:38Z",
             "owner": "JusticeRage",
             "repo": "Manalyze",
-            "stars": 1130
+            "stars": 1135
           }
         },
         {
@@ -1259,10 +1259,10 @@
             "archived": false,
             "id": 279035005,
             "language": "Python",
-            "last_commit": "2026-08-20T08:26:38Z",
+            "last_commit": "2026-08-21T08:16:24Z",
             "owner": "m417z",
             "repo": "winbindex",
-            "stars": 865
+            "stars": 866
           }
         },
         {
@@ -1637,7 +1637,7 @@
             "last_commit": "2026-08-19T00:08:57Z",
             "owner": "packing-box",
             "repo": "pypackerdetect",
-            "stars": 28
+            "stars": 27
           }
         },
         {
@@ -1810,7 +1810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:38:39.932Z",
+    "last_updated": "2026-08-21T17:37:44.728Z",
     "original_repository": "packing-box/awesome-executable-packing",
     "original_repository_id": 432715698,
     "original_repository_sha": "ae1a476586df715abe168549aefbc8695474d21c",
