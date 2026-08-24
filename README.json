@@ -238,7 +238,7 @@
             "last_commit": "2026-01-24T09:50:42Z",
             "owner": "packing-box",
             "repo": "dataset-packed-pe",
-            "stars": 50
+            "stars": 51
           }
         },
         {
@@ -486,7 +486,7 @@
                 "last_commit": "2024-02-20T20:14:30Z",
                 "owner": "DosX-dev",
                 "repo": "ASM-Guard",
-                "stars": 269
+                "stars": 270
               }
             },
             {
@@ -996,7 +996,7 @@
             "archived": false,
             "id": 40328394,
             "language": "Python",
-            "last_commit": "2026-08-24T08:43:42Z",
+            "last_commit": "2026-08-24T17:31:54Z",
             "owner": "angr",
             "repo": "angr",
             "stars": 9030
@@ -1029,7 +1029,7 @@
             "last_commit": "2020-08-29T08:14:56Z",
             "owner": "de4dot",
             "repo": "de4dot",
-            "stars": 7433
+            "stars": 7434
           }
         },
         {
@@ -1041,7 +1041,7 @@
             "archived": false,
             "id": 272815213,
             "language": "Python",
-            "last_commit": "2026-08-18T14:52:38Z",
+            "last_commit": "2026-08-24T14:43:26Z",
             "owner": "mandiant",
             "repo": "capa",
             "stars": 6154
@@ -1086,7 +1086,7 @@
             "archived": false,
             "id": 25164176,
             "language": "C++",
-            "last_commit": "2026-08-23T22:48:27Z",
+            "last_commit": "2026-08-24T17:23:24Z",
             "owner": "horsicq",
             "repo": "DIE-engine",
             "stars": 3231
@@ -1832,7 +1832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:10:20.322Z",
+    "last_updated": "2026-08-24T17:38:43.413Z",
     "original_repository": "packing-box/awesome-executable-packing",
     "original_repository_id": 432715698,
     "original_repository_sha": "ae1a476586df715abe168549aefbc8695474d21c",
