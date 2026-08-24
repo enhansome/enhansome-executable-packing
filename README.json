@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-14T16:50:48Z",
                 "owner": "gmh5225",
                 "repo": "awesome-llvm-security",
-                "stars": 874
+                "stars": 875
               }
             },
             {
@@ -118,7 +118,7 @@
             "last_commit": "2026-07-24T08:11:43Z",
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13316
+            "stars": 13322
           }
         },
         {
@@ -133,7 +133,7 @@
             "last_commit": "2024-01-13T17:39:44Z",
             "owner": "jstrosch",
             "repo": "malware-samples",
-            "stars": 1670
+            "stars": 1671
           }
         },
         {
@@ -366,7 +366,7 @@
                 "last_commit": "2026-08-05T16:20:05Z",
                 "owner": "runestubbe",
                 "repo": "Crinkler",
-                "stars": 1284
+                "stars": 1285
               }
             },
             {
@@ -516,7 +516,7 @@
                 "last_commit": "2026-08-20T14:20:04Z",
                 "owner": "iamsopotatoe-coder",
                 "repo": "TinyLoad",
-                "stars": 184
+                "stars": 185
               }
             },
             {
@@ -958,6 +958,28 @@
           "description": null,
           "node_type": "group",
           "title": "After 2010"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Morphine",
+              "description": "Application for PE files encryption.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37913366,
+                "language": "Pascal",
+                "last_commit": "2016-10-05T02:31:16Z",
+                "owner": "claudiouzelac",
+                "repo": "rootkit.com",
+                "stars": 306
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Before 2000"
         }
       ],
       "title": ":package: Packers"
@@ -974,10 +996,10 @@
             "archived": false,
             "id": 40328394,
             "language": "Python",
-            "last_commit": "2026-08-23T17:25:05Z",
+            "last_commit": "2026-08-24T08:43:42Z",
             "owner": "angr",
             "repo": "angr",
-            "stars": 9027
+            "stars": 9030
           }
         },
         {
@@ -992,7 +1014,7 @@
             "last_commit": "2026-05-26T09:04:25Z",
             "owner": "avast",
             "repo": "retdec",
-            "stars": 8608
+            "stars": 8609
           }
         },
         {
@@ -1007,7 +1029,7 @@
             "last_commit": "2020-08-29T08:14:56Z",
             "owner": "de4dot",
             "repo": "de4dot",
-            "stars": 7431
+            "stars": 7433
           }
         },
         {
@@ -1022,7 +1044,7 @@
             "last_commit": "2026-08-18T14:52:38Z",
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6153
+            "stars": 6154
           }
         },
         {
@@ -1037,7 +1059,7 @@
             "last_commit": "2026-08-22T08:11:43Z",
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5545
+            "stars": 5547
           }
         },
         {
@@ -1064,7 +1086,7 @@
             "archived": false,
             "id": 25164176,
             "language": "C++",
-            "last_commit": "2026-08-23T11:04:13Z",
+            "last_commit": "2026-08-23T22:48:27Z",
             "owner": "horsicq",
             "repo": "DIE-engine",
             "stars": 3231
@@ -1094,7 +1116,7 @@
             "archived": false,
             "id": 39718308,
             "language": "C#",
-            "last_commit": "2026-08-18T15:27:38Z",
+            "last_commit": "2026-08-23T23:21:17Z",
             "owner": "uxmal",
             "repo": "reko",
             "stars": 2598
@@ -1172,7 +1194,7 @@
             "last_commit": "2025-02-01T10:33:16Z",
             "owner": "NotPrab",
             "repo": ".NET-Deobfuscator",
-            "stars": 1512
+            "stars": 1513
           }
         },
         {
@@ -1217,7 +1239,7 @@
             "last_commit": "2023-08-09T17:31:09Z",
             "owner": "crypto2011",
             "repo": "IDR",
-            "stars": 1152
+            "stars": 1153
           }
         },
         {
@@ -1247,7 +1269,7 @@
             "last_commit": "2026-08-12T23:41:38Z",
             "owner": "JusticeRage",
             "repo": "Manalyze",
-            "stars": 1139
+            "stars": 1140
           }
         },
         {
@@ -1259,10 +1281,10 @@
             "archived": false,
             "id": 279035005,
             "language": "Python",
-            "last_commit": "2026-08-23T08:16:18Z",
+            "last_commit": "2026-08-24T08:59:53Z",
             "owner": "m417z",
             "repo": "winbindex",
-            "stars": 867
+            "stars": 868
           }
         },
         {
@@ -1322,7 +1344,7 @@
             "last_commit": "2025-08-18T16:24:51Z",
             "owner": "unipacker",
             "repo": "unipacker",
-            "stars": 767
+            "stars": 768
           }
         },
         {
@@ -1810,7 +1832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:28:46.904Z",
+    "last_updated": "2026-08-24T14:10:20.322Z",
     "original_repository": "packing-box/awesome-executable-packing",
     "original_repository_id": 432715698,
     "original_repository_sha": "ae1a476586df715abe168549aefbc8695474d21c",
