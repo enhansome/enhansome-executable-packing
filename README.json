@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-14T16:50:48Z",
                 "owner": "gmh5225",
                 "repo": "awesome-llvm-security",
-                "stars": 875
+                "stars": 876
               }
             },
             {
@@ -996,10 +996,10 @@
             "archived": false,
             "id": 40328394,
             "language": "Python",
-            "last_commit": "2026-08-24T17:31:54Z",
+            "last_commit": "2026-08-25T06:00:14Z",
             "owner": "angr",
             "repo": "angr",
-            "stars": 9030
+            "stars": 9033
           }
         },
         {
@@ -1074,7 +1074,7 @@
             "last_commit": "2026-07-28T13:39:36Z",
             "owner": "JonathanSalwan",
             "repo": "Triton",
-            "stars": 4272
+            "stars": 4273
           }
         },
         {
@@ -1086,10 +1086,10 @@
             "archived": false,
             "id": 25164176,
             "language": "C++",
-            "last_commit": "2026-08-24T17:23:24Z",
+            "last_commit": "2026-08-24T20:37:16Z",
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 3231
+            "stars": 3233
           }
         },
         {
@@ -1116,7 +1116,7 @@
             "archived": false,
             "id": 39718308,
             "language": "C#",
-            "last_commit": "2026-08-23T23:21:17Z",
+            "last_commit": "2026-08-25T00:30:08Z",
             "owner": "uxmal",
             "repo": "reko",
             "stars": 2598
@@ -1254,7 +1254,7 @@
             "last_commit": "2026-08-08T10:38:17Z",
             "owner": "ExeinfoASL",
             "repo": "ASL",
-            "stars": 1141
+            "stars": 1142
           }
         },
         {
@@ -1344,7 +1344,7 @@
             "last_commit": "2025-08-18T16:24:51Z",
             "owner": "unipacker",
             "repo": "unipacker",
-            "stars": 768
+            "stars": 770
           }
         },
         {
@@ -1464,7 +1464,7 @@
             "last_commit": "2016-07-30T23:34:40Z",
             "owner": "Phat3",
             "repo": "PINdemonium",
-            "stars": 239
+            "stars": 240
           }
         },
         {
@@ -1832,7 +1832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:38:43.413Z",
+    "last_updated": "2026-08-25T06:01:19.990Z",
     "original_repository": "packing-box/awesome-executable-packing",
     "original_repository_id": 432715698,
     "original_repository_sha": "ae1a476586df715abe168549aefbc8695474d21c",
