@@ -118,7 +118,7 @@
             "last_commit": "2026-07-24T08:11:43Z",
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13322
+            "stars": 13323
           }
         },
         {
@@ -148,7 +148,7 @@
             "last_commit": "2024-11-22T20:36:57Z",
             "owner": "elastic",
             "repo": "ember",
-            "stars": 1168
+            "stars": 1169
           }
         },
         {
@@ -178,7 +178,7 @@
             "last_commit": "2025-08-22T20:16:42Z",
             "owner": "FutureComputing4AI",
             "repo": "EMBER2024",
-            "stars": 143
+            "stars": 144
           }
         },
         {
@@ -336,7 +336,7 @@
                 "last_commit": "2024-02-03T19:11:05Z",
                 "owner": "phra",
                 "repo": "PEzor",
-                "stars": 2126
+                "stars": 2127
               }
             },
             {
@@ -351,7 +351,7 @@
                 "last_commit": "2024-02-22T17:44:19Z",
                 "owner": "EgeBalci",
                 "repo": "amber",
-                "stars": 1440
+                "stars": 1441
               }
             },
             {
@@ -366,7 +366,7 @@
                 "last_commit": "2026-08-05T16:20:05Z",
                 "owner": "runestubbe",
                 "repo": "Crinkler",
-                "stars": 1285
+                "stars": 1286
               }
             },
             {
@@ -996,7 +996,7 @@
             "archived": false,
             "id": 40328394,
             "language": "Python",
-            "last_commit": "2026-08-25T06:00:14Z",
+            "last_commit": "2026-08-25T17:32:54Z",
             "owner": "angr",
             "repo": "angr",
             "stars": 9033
@@ -1044,7 +1044,7 @@
             "last_commit": "2026-08-24T14:43:26Z",
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6154
+            "stars": 6155
           }
         },
         {
@@ -1059,7 +1059,7 @@
             "last_commit": "2026-08-22T08:11:43Z",
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5547
+            "stars": 5548
           }
         },
         {
@@ -1086,10 +1086,10 @@
             "archived": false,
             "id": 25164176,
             "language": "C++",
-            "last_commit": "2026-08-24T20:37:16Z",
+            "last_commit": "2026-08-25T17:19:19Z",
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 3233
+            "stars": 3236
           }
         },
         {
@@ -1134,7 +1134,7 @@
             "last_commit": "2026-07-27T17:35:45Z",
             "owner": "rednaga",
             "repo": "APKiD",
-            "stars": 2562
+            "stars": 2563
           }
         },
         {
@@ -1224,7 +1224,7 @@
             "last_commit": "2020-01-20T19:57:15Z",
             "owner": "strazzere",
             "repo": "android-unpacker",
-            "stars": 1179
+            "stars": 1178
           }
         },
         {
@@ -1239,7 +1239,7 @@
             "last_commit": "2023-08-09T17:31:09Z",
             "owner": "crypto2011",
             "repo": "IDR",
-            "stars": 1153
+            "stars": 1154
           }
         },
         {
@@ -1281,7 +1281,7 @@
             "archived": false,
             "id": 279035005,
             "language": "Python",
-            "last_commit": "2026-08-24T08:59:53Z",
+            "last_commit": "2026-08-25T08:19:37Z",
             "owner": "m417z",
             "repo": "winbindex",
             "stars": 868
@@ -1299,7 +1299,7 @@
             "last_commit": "2026-04-14T13:23:29Z",
             "owner": "hasherezade",
             "repo": "mal_unpack",
-            "stars": 835
+            "stars": 836
           }
         },
         {
@@ -1344,7 +1344,7 @@
             "last_commit": "2025-08-18T16:24:51Z",
             "owner": "unipacker",
             "repo": "unipacker",
-            "stars": 770
+            "stars": 771
           }
         },
         {
@@ -1524,7 +1524,7 @@
             "last_commit": "2023-08-01T21:04:35Z",
             "owner": "adamhlt",
             "repo": "Cave-Finder",
-            "stars": 76
+            "stars": 77
           }
         },
         {
@@ -1584,7 +1584,7 @@
             "last_commit": "2026-03-21T23:01:50Z",
             "owner": "packing-box",
             "repo": "bintropy",
-            "stars": 50
+            "stars": 51
           }
         },
         {
@@ -1659,7 +1659,7 @@
             "last_commit": "2026-08-19T00:08:57Z",
             "owner": "packing-box",
             "repo": "pypackerdetect",
-            "stars": 28
+            "stars": 29
           }
         },
         {
@@ -1799,6 +1799,21 @@
         },
         {
           "node_type": "item",
+          "title": "REMINDer",
+          "description": "Packing detection tool based on the entropy value of the entry point section and the WRITE attribute.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 580170578,
+            "language": "Python",
+            "last_commit": "2026-03-21T22:45:04Z",
+            "owner": "packing-box",
+            "repo": "reminder",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Pefeats",
           "description": "Utility for extracting 119 features from a PE file for use with machine learning algorithms.",
           "children": [],
@@ -1811,28 +1826,13 @@
             "repo": "masterthesis",
             "stars": 2
           }
-        },
-        {
-          "node_type": "item",
-          "title": "REMINDer",
-          "description": "Packing detection tool based on the entropy value of the entry point section and the WRITE attribute.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 580170578,
-            "language": "Python",
-            "last_commit": "2026-03-21T22:45:04Z",
-            "owner": "packing-box",
-            "repo": "reminder",
-            "stars": 2
-          }
         }
       ],
       "title": ":wrench: Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:01:19.990Z",
+    "last_updated": "2026-08-25T17:39:13.887Z",
     "original_repository": "packing-box/awesome-executable-packing",
     "original_repository_id": 432715698,
     "original_repository_sha": "ae1a476586df715abe168549aefbc8695474d21c",
