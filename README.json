@@ -118,7 +118,7 @@
             "last_commit": "2026-07-24T08:11:43Z",
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13323
+            "stars": 13327
           }
         },
         {
@@ -336,7 +336,7 @@
                 "last_commit": "2024-02-03T19:11:05Z",
                 "owner": "phra",
                 "repo": "PEzor",
-                "stars": 2127
+                "stars": 2129
               }
             },
             {
@@ -351,7 +351,7 @@
                 "last_commit": "2024-02-22T17:44:19Z",
                 "owner": "EgeBalci",
                 "repo": "amber",
-                "stars": 1441
+                "stars": 1442
               }
             },
             {
@@ -381,7 +381,7 @@
                 "last_commit": "2025-10-14T22:53:57Z",
                 "owner": "mgeeky",
                 "repo": "ProtectMyTooling",
-                "stars": 1098
+                "stars": 1097
               }
             },
             {
@@ -396,7 +396,7 @@
                 "last_commit": "2024-11-07T18:31:04Z",
                 "owner": "BR903",
                 "repo": "ELFkickers",
-                "stars": 620
+                "stars": 621
               }
             },
             {
@@ -896,6 +896,21 @@
             },
             {
               "node_type": "item",
+              "title": "LZPACK",
+              "description": "LZPACK - PopCom!-compatible CP/M-80 executable compressor in ANSI C, runs on 48K CP/M-80, CP/M-86, MS-DOS, UNIX, and other platforms.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1249360103,
+                "language": "C",
+                "last_commit": "2026-08-15T17:58:04Z",
+                "owner": "johnsonjh",
+                "repo": "lzpack",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Pakr",
               "description": "In-memory packer for macOS Mach-O bundles.",
               "children": [],
@@ -922,21 +937,6 @@
                 "owner": "z3r0d4y5",
                 "repo": "Simple-PE32-Packer",
                 "stars": 9
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "LZPACK",
-              "description": "LZPACK - PopCom!-compatible CP/M-80 executable compressor in ANSI C, runs on 48K CP/M-80, CP/M-86, MS-DOS, UNIX, and other platforms.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1249360103,
-                "language": "C",
-                "last_commit": "2026-08-15T17:58:04Z",
-                "owner": "johnsonjh",
-                "repo": "lzpack",
-                "stars": 8
               }
             },
             {
@@ -996,10 +996,10 @@
             "archived": false,
             "id": 40328394,
             "language": "Python",
-            "last_commit": "2026-08-25T17:32:54Z",
+            "last_commit": "2026-08-26T19:03:48Z",
             "owner": "angr",
             "repo": "angr",
-            "stars": 9033
+            "stars": 9039
           }
         },
         {
@@ -1014,7 +1014,7 @@
             "last_commit": "2026-05-26T09:04:25Z",
             "owner": "avast",
             "repo": "retdec",
-            "stars": 8609
+            "stars": 8611
           }
         },
         {
@@ -1029,7 +1029,7 @@
             "last_commit": "2020-08-29T08:14:56Z",
             "owner": "de4dot",
             "repo": "de4dot",
-            "stars": 7434
+            "stars": 7436
           }
         },
         {
@@ -1041,10 +1041,10 @@
             "archived": false,
             "id": 272815213,
             "language": "Python",
-            "last_commit": "2026-08-24T14:43:26Z",
+            "last_commit": "2026-08-26T12:44:48Z",
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6155
+            "stars": 6156
           }
         },
         {
@@ -1059,7 +1059,7 @@
             "last_commit": "2026-08-22T08:11:43Z",
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5548
+            "stars": 5549
           }
         },
         {
@@ -1086,10 +1086,10 @@
             "archived": false,
             "id": 25164176,
             "language": "C++",
-            "last_commit": "2026-08-25T17:19:19Z",
+            "last_commit": "2026-08-25T18:57:17Z",
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 3236
+            "stars": 3238
           }
         },
         {
@@ -1104,7 +1104,7 @@
             "last_commit": "2026-07-29T03:11:37Z",
             "owner": "panda-re",
             "repo": "panda",
-            "stars": 2777
+            "stars": 2778
           }
         },
         {
@@ -1116,10 +1116,10 @@
             "archived": false,
             "id": 39718308,
             "language": "C#",
-            "last_commit": "2026-08-25T00:30:08Z",
+            "last_commit": "2026-08-25T22:53:25Z",
             "owner": "uxmal",
             "repo": "reko",
-            "stars": 2598
+            "stars": 2600
           }
         },
         {
@@ -1134,7 +1134,7 @@
             "last_commit": "2026-07-27T17:35:45Z",
             "owner": "rednaga",
             "repo": "APKiD",
-            "stars": 2563
+            "stars": 2565
           }
         },
         {
@@ -1209,7 +1209,7 @@
             "last_commit": "2025-10-21T10:10:41Z",
             "owner": "petoolse",
             "repo": "petools",
-            "stars": 1196
+            "stars": 1197
           }
         },
         {
@@ -1269,7 +1269,7 @@
             "last_commit": "2026-08-12T23:41:38Z",
             "owner": "JusticeRage",
             "repo": "Manalyze",
-            "stars": 1140
+            "stars": 1141
           }
         },
         {
@@ -1281,7 +1281,7 @@
             "archived": false,
             "id": 279035005,
             "language": "Python",
-            "last_commit": "2026-08-25T08:19:37Z",
+            "last_commit": "2026-08-26T08:57:15Z",
             "owner": "m417z",
             "repo": "winbindex",
             "stars": 868
@@ -1311,7 +1311,7 @@
             "archived": false,
             "id": 3456770,
             "language": "C",
-            "last_commit": "2026-07-08T17:14:27Z",
+            "last_commit": "2026-08-25T19:22:31Z",
             "owner": "mentebinaria",
             "repo": "readpe",
             "stars": 781
@@ -1344,7 +1344,7 @@
             "last_commit": "2025-08-18T16:24:51Z",
             "owner": "unipacker",
             "repo": "unipacker",
-            "stars": 771
+            "stars": 772
           }
         },
         {
@@ -1389,7 +1389,7 @@
             "last_commit": "2026-04-03T02:53:29Z",
             "owner": "struppigel",
             "repo": "PortEx",
-            "stars": 532
+            "stars": 533
           }
         },
         {
@@ -1524,7 +1524,7 @@
             "last_commit": "2023-08-01T21:04:35Z",
             "owner": "adamhlt",
             "repo": "Cave-Finder",
-            "stars": 77
+            "stars": 78
           }
         },
         {
@@ -1832,7 +1832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:39:13.887Z",
+    "last_updated": "2026-08-26T19:14:46.762Z",
     "original_repository": "packing-box/awesome-executable-packing",
     "original_repository_id": 432715698,
     "original_repository_sha": "ae1a476586df715abe168549aefbc8695474d21c",
