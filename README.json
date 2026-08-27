@@ -17,7 +17,7 @@
                 "last_commit": "2026-05-31T10:23:25Z",
                 "owner": "packing-box",
                 "repo": "awesome-executable-packing",
-                "stars": 1614
+                "stars": 1615
               }
             },
             {
@@ -118,7 +118,7 @@
             "last_commit": "2026-07-24T08:11:43Z",
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13327
+            "stars": 13329
           }
         },
         {
@@ -133,7 +133,7 @@
             "last_commit": "2024-01-13T17:39:44Z",
             "owner": "jstrosch",
             "repo": "malware-samples",
-            "stars": 1671
+            "stars": 1672
           }
         },
         {
@@ -163,7 +163,7 @@
             "last_commit": "2021-04-07T15:10:58Z",
             "owner": "sophos",
             "repo": "SOREL-20M",
-            "stars": 708
+            "stars": 709
           }
         },
         {
@@ -321,7 +321,7 @@
                 "last_commit": "2024-06-07T08:59:08Z",
                 "owner": "mkaring",
                 "repo": "ConfuserEx",
-                "stars": 2897
+                "stars": 2898
               }
             },
             {
@@ -381,7 +381,7 @@
                 "last_commit": "2025-10-14T22:53:57Z",
                 "owner": "mgeeky",
                 "repo": "ProtectMyTooling",
-                "stars": 1097
+                "stars": 1098
               }
             },
             {
@@ -516,7 +516,7 @@
                 "last_commit": "2026-08-20T14:20:04Z",
                 "owner": "iamsopotatoe-coder",
                 "repo": "TinyLoad",
-                "stars": 185
+                "stars": 186
               }
             },
             {
@@ -996,10 +996,10 @@
             "archived": false,
             "id": 40328394,
             "language": "Python",
-            "last_commit": "2026-08-26T19:03:48Z",
+            "last_commit": "2026-08-27T11:12:02Z",
             "owner": "angr",
             "repo": "angr",
-            "stars": 9039
+            "stars": 9040
           }
         },
         {
@@ -1014,7 +1014,7 @@
             "last_commit": "2026-05-26T09:04:25Z",
             "owner": "avast",
             "repo": "retdec",
-            "stars": 8611
+            "stars": 8613
           }
         },
         {
@@ -1029,7 +1029,7 @@
             "last_commit": "2020-08-29T08:14:56Z",
             "owner": "de4dot",
             "repo": "de4dot",
-            "stars": 7436
+            "stars": 7438
           }
         },
         {
@@ -1044,7 +1044,7 @@
             "last_commit": "2026-08-26T12:44:48Z",
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6156
+            "stars": 6157
           }
         },
         {
@@ -1059,7 +1059,7 @@
             "last_commit": "2026-08-22T08:11:43Z",
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5549
+            "stars": 5550
           }
         },
         {
@@ -1074,7 +1074,7 @@
             "last_commit": "2026-07-28T13:39:36Z",
             "owner": "JonathanSalwan",
             "repo": "Triton",
-            "stars": 4273
+            "stars": 4274
           }
         },
         {
@@ -1089,7 +1089,7 @@
             "last_commit": "2026-08-25T18:57:17Z",
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 3238
+            "stars": 3240
           }
         },
         {
@@ -1134,7 +1134,7 @@
             "last_commit": "2026-07-27T17:35:45Z",
             "owner": "rednaga",
             "repo": "APKiD",
-            "stars": 2565
+            "stars": 2566
           }
         },
         {
@@ -1314,7 +1314,7 @@
             "last_commit": "2026-08-25T19:22:31Z",
             "owner": "mentebinaria",
             "repo": "readpe",
-            "stars": 781
+            "stars": 782
           }
         },
         {
@@ -1344,7 +1344,7 @@
             "last_commit": "2025-08-18T16:24:51Z",
             "owner": "unipacker",
             "repo": "unipacker",
-            "stars": 772
+            "stars": 773
           }
         },
         {
@@ -1832,9 +1832,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:14:46.762Z",
-    "original_repository": "packing-box/awesome-executable-packing",
-    "original_repository_id": 432715698,
+    "last_updated": "2026-08-27T11:39:26.030Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 432715698,
+      "language": null,
+      "last_commit": "2026-05-31T10:23:25Z",
+      "owner": "packing-box",
+      "repo": "awesome-executable-packing",
+      "stars": 1615
+    },
     "original_repository_sha": "ae1a476586df715abe168549aefbc8695474d21c",
     "enhanced_repository": "enhansome/enhansome-executable-packing",
     "enhanced_repository_description": null,
