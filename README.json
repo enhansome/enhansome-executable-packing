@@ -17,7 +17,7 @@
                 "last_commit": "2026-05-31T10:23:25Z",
                 "owner": "packing-box",
                 "repo": "awesome-executable-packing",
-                "stars": 1615
+                "stars": 1614
               }
             },
             {
@@ -118,7 +118,7 @@
             "last_commit": "2026-07-24T08:11:43Z",
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13329
+            "stars": 13330
           }
         },
         {
@@ -441,7 +441,7 @@
                 "last_commit": "2025-04-26T07:22:57Z",
                 "owner": "DosX-dev",
                 "repo": "Astral-PE",
-                "stars": 353
+                "stars": 354
               }
             },
             {
@@ -651,7 +651,7 @@
                 "last_commit": "2021-09-11T13:00:34Z",
                 "owner": "akuafif",
                 "repo": "hXOR-Packer",
-                "stars": 70
+                "stars": 69
               }
             },
             {
@@ -996,10 +996,10 @@
             "archived": false,
             "id": 40328394,
             "language": "Python",
-            "last_commit": "2026-08-27T11:12:02Z",
+            "last_commit": "2026-08-28T01:01:15Z",
             "owner": "angr",
             "repo": "angr",
-            "stars": 9040
+            "stars": 9041
           }
         },
         {
@@ -1014,7 +1014,7 @@
             "last_commit": "2026-05-26T09:04:25Z",
             "owner": "avast",
             "repo": "retdec",
-            "stars": 8613
+            "stars": 8614
           }
         },
         {
@@ -1041,7 +1041,7 @@
             "archived": false,
             "id": 272815213,
             "language": "Python",
-            "last_commit": "2026-08-26T12:44:48Z",
+            "last_commit": "2026-08-28T01:07:18Z",
             "owner": "mandiant",
             "repo": "capa",
             "stars": 6157
@@ -1119,7 +1119,7 @@
             "last_commit": "2026-08-25T22:53:25Z",
             "owner": "uxmal",
             "repo": "reko",
-            "stars": 2600
+            "stars": 2601
           }
         },
         {
@@ -1194,7 +1194,7 @@
             "last_commit": "2025-02-01T10:33:16Z",
             "owner": "NotPrab",
             "repo": ".NET-Deobfuscator",
-            "stars": 1513
+            "stars": 1514
           }
         },
         {
@@ -1281,10 +1281,10 @@
             "archived": false,
             "id": 279035005,
             "language": "Python",
-            "last_commit": "2026-08-26T08:57:15Z",
+            "last_commit": "2026-08-27T20:11:12Z",
             "owner": "m417z",
             "repo": "winbindex",
-            "stars": 868
+            "stars": 869
           }
         },
         {
@@ -1449,7 +1449,7 @@
             "last_commit": "2025-11-27T14:28:02Z",
             "owner": "pralab",
             "repo": "secml_malware",
-            "stars": 247
+            "stars": 248
           }
         },
         {
@@ -1832,7 +1832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:39:26.030Z",
+    "last_updated": "2026-08-28T01:25:36.698Z",
     "original_repository_info": {
       "archived": false,
       "id": 432715698,
@@ -1840,7 +1840,7 @@
       "last_commit": "2026-05-31T10:23:25Z",
       "owner": "packing-box",
       "repo": "awesome-executable-packing",
-      "stars": 1615
+      "stars": 1614
     },
     "original_repository_sha": "ae1a476586df715abe168549aefbc8695474d21c",
     "enhanced_repository": "enhansome/enhansome-executable-packing",
