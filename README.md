@@ -706,17 +706,17 @@
 
 ## :wrench: Tools
 
-* [Angr](https://github.com/angr/angr) ⭐ 9,042 | 🐛 713 | 🌐 Python | 📅 2026-08-28 - Platform-agnostic binary analysis framework.
-* [RetDec](https://github.com/avast/retdec) ⭐ 8,614 | 🐛 458 | 🌐 C++ | 📅 2026-05-26 - Retargetable machine-code decompiler based on LLVM.
+* [Angr](https://github.com/angr/angr) ⭐ 9,042 | 🐛 713 | 🌐 Python | 📅 2026-08-29 - Platform-agnostic binary analysis framework.
+* [RetDec](https://github.com/avast/retdec) ⭐ 8,615 | 🐛 458 | 🌐 C++ | 📅 2026-05-26 - Retargetable machine-code decompiler based on LLVM.
 * [de4dot](https://github.com/0xd4d/de4dot) ⚠️ Archived - .NET deobfuscator and unpacker.
 * [Capa](https://github.com/mandiant/capa) ⭐ 6,160 | 🐛 296 | 🌐 Python | 📅 2026-08-28 - Open-source tool to identify capabilities in PE, ELF or .NET executable files.
-* [LIEF](https://github.com/lief-project/LIEF) ⭐ 5,551 | 🐛 31 | 🌐 C++ | 📅 2026-08-22 - Library to Instrument Executable Formats ; Python package for parsing PE, ELF, Mach-O and DEX formats, modifying and rebuilding executables.
+* [LIEF](https://github.com/lief-project/LIEF) ⭐ 5,550 | 🐛 31 | 🌐 C++ | 📅 2026-08-22 - Library to Instrument Executable Formats ; Python package for parsing PE, ELF, Mach-O and DEX formats, modifying and rebuilding executables.
 * [Triton](https://github.com/jonathansalwan/Triton) ⭐ 4,275 | 🐛 40 | 🌐 C++ | 📅 2026-07-28 - Dynamic binary analysis library.
 * [DIE](https://github.com/horsicq/DIE-engine/releases) ⭐ 3,240 | 🐛 17 | 🌐 C++ | 📅 2026-08-28 - Detect It Easy ; Program for determining types of files.
-* [PANDA](https://github.com/panda-re/panda) ⭐ 2,780 | 🐛 97 | 🌐 C | 📅 2026-07-29 - Platform for Architecture-Neutral Dynamic Analysis.
+* [PANDA](https://github.com/panda-re/panda) ⭐ 2,781 | 🐛 97 | 🌐 C | 📅 2026-07-29 - Platform for Architecture-Neutral Dynamic Analysis.
 * [Reko](https://github.com/uxmal/reko) ⭐ 2,601 | 🐛 165 | 🌐 C# | 📅 2026-08-25 - Free decompiler for machine code binaries.
 * [APKiD](https://github.com/rednaga/APKiD) ⭐ 2,566 | 🐛 84 | 🌐 YARA | 📅 2026-07-27 - Android application Identifier for packers, protectors, obfuscators and oddities - PEiD for Android.
-* [Pefile](https://github.com/erocarrera/pefile) ⭐ 2,064 | 🐛 61 | 🌐 Python | 📅 2026-08-28 - Multi-platform Python module to parse and work with Portable Executable files.
+* [Pefile](https://github.com/erocarrera/pefile) ⭐ 2,065 | 🐛 61 | 🌐 Python | 📅 2026-08-28 - Multi-platform Python module to parse and work with Portable Executable files.
 * [yarGen](https://github.com/Neo23x0/yarGen) ⭐ 1,811 | 🐛 14 | 🌐 Python | 📅 2026-01-10 - Generator for YARA rules - The main principle is the creation of yara rules from strings found in malware files while removing all strings that also appear in goodware files.
 * [de4js](https://github.com/lelinhtinh/de4js) ⚠️ Archived - JavaScript Deobfuscator and Unpacker.
 * [.NET Deobfuscator](https://github.com/NotPrab/.NET-Deobfuscator) ⭐ 1,513 | 🐛 1 | 📅 2025-02-01 - List of .NET Deobfuscators and Unpackers.
