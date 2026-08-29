@@ -201,7 +201,7 @@
             "open_issues": 89,
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13334,
+            "stars": 13333,
             "topics": [
               "malware",
               "malware-analysis",
@@ -614,7 +614,7 @@
                 "open_issues": 6,
                 "owner": "runestubbe",
                 "repo": "Crinkler",
-                "stars": 1287,
+                "stars": 1288,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -879,7 +879,7 @@
                 "open_issues": 2,
                 "owner": "iamsopotatoe-coder",
                 "repo": "TinyLoad",
-                "stars": 186,
+                "stars": 187,
                 "topics": [
                   "anti-analysis",
                   "av-edr-bypass",
@@ -1627,11 +1627,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-08-29T04:17:51Z",
-            "open_issues": 713,
+            "last_commit": "2026-08-29T19:26:30Z",
+            "open_issues": 707,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9042,
+            "stars": 9043,
             "topics": [
               "analysis",
               "angr",
@@ -1796,11 +1796,11 @@
             "id": 25164176,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-08-28T18:52:25Z",
+            "last_commit": "2026-08-29T16:17:12Z",
             "open_issues": 17,
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 3240,
+            "stars": 3242,
             "topics": [
               "binary-analysis",
               "disassembler",
@@ -2103,6 +2103,32 @@
         },
         {
           "node_type": "item",
+          "title": "Manalyze",
+          "description": "Robust parser for PE files with a flexible plugin architecture which allows users to statically analyze files in-depth.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A static analyzer for PE executables.",
+            "homepage": null,
+            "id": 40815641,
+            "language": "YARA",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T08:22:25Z",
+            "open_issues": 6,
+            "owner": "JusticeRage",
+            "repo": "Manalyze",
+            "stars": 1142,
+            "topics": [
+              "analysis",
+              "malware",
+              "pe",
+              "static"
+            ]
+          },
+          "first_seen": "2026-08-29T00:56:28.356Z"
+        },
+        {
+          "node_type": "item",
           "title": "EXEInfo-PE",
           "description": "Fast detector for executable PE files.",
           "children": [],
@@ -2117,36 +2143,10 @@
             "open_issues": 8,
             "owner": "ExeinfoASL",
             "repo": "ASL",
-            "stars": 1142,
+            "stars": 1141,
             "topics": [
               "detector",
               "exeinfo"
-            ]
-          },
-          "first_seen": "2026-08-29T00:56:28.356Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Manalyze",
-          "description": "Robust parser for PE files with a flexible plugin architecture which allows users to statically analyze files in-depth.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A static analyzer for PE executables.",
-            "homepage": null,
-            "id": 40815641,
-            "language": "YARA",
-            "license": "GPL-3.0",
-            "last_commit": "2026-08-28T12:31:08Z",
-            "open_issues": 6,
-            "owner": "JusticeRage",
-            "repo": "Manalyze",
-            "stars": 1142,
-            "topics": [
-              "analysis",
-              "malware",
-              "pe",
-              "static"
             ]
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2163,11 +2163,11 @@
             "id": 279035005,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-28T20:20:02Z",
+            "last_commit": "2026-08-29T14:06:25Z",
             "open_issues": 16,
             "owner": "m417z",
             "repo": "winbindex",
-            "stars": 870,
+            "stars": 871,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2188,7 +2188,7 @@
             "open_issues": 1,
             "owner": "hasherezade",
             "repo": "mal_unpack",
-            "stars": 836,
+            "stars": 837,
             "topics": [
               "libpeconv",
               "malware-analysis",
@@ -2343,7 +2343,7 @@
             "open_issues": 3,
             "owner": "struppigel",
             "repo": "PortEx",
-            "stars": 533,
+            "stars": 534,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2432,7 +2432,7 @@
             "open_issues": 13,
             "owner": "pralab",
             "repo": "secml_malware",
-            "stars": 248,
+            "stars": 249,
             "topics": [
               "adversarial-machine-learning",
               "attack",
@@ -3093,7 +3093,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:28:15.147Z",
+    "last_updated": "2026-08-29T19:40:29.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",
