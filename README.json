@@ -201,7 +201,7 @@
             "open_issues": 89,
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13333,
+            "stars": 13336,
             "topics": [
               "malware",
               "malware-analysis",
@@ -323,7 +323,7 @@
             "open_issues": 2,
             "owner": "whyisyoung",
             "repo": "BODMAS",
-            "stars": 94,
+            "stars": 96,
             "topics": [
               "malware",
               "malware-dataset",
@@ -635,7 +635,7 @@
                 "open_issues": 4,
                 "owner": "mgeeky",
                 "repo": "ProtectMyTooling",
-                "stars": 1098,
+                "stars": 1097,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -656,7 +656,7 @@
                 "open_issues": 5,
                 "owner": "BR903",
                 "repo": "ELFkickers",
-                "stars": 621,
+                "stars": 622,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -876,7 +876,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-08-20T14:20:04Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "iamsopotatoe-coder",
                 "repo": "TinyLoad",
                 "stars": 187,
@@ -1627,11 +1627,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-08-29T19:26:30Z",
-            "open_issues": 707,
+            "last_commit": "2026-08-30T13:04:39Z",
+            "open_issues": 702,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9043,
+            "stars": 9047,
             "topics": [
               "analysis",
               "angr",
@@ -1678,7 +1678,7 @@
             "open_issues": 9,
             "owner": "de4dot",
             "repo": "de4dot",
-            "stars": 7437,
+            "stars": 7438,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1699,7 +1699,7 @@
             "open_issues": 296,
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6160,
+            "stars": 6161,
             "topics": [
               "binary-analysis",
               "gsoc-2026",
@@ -1722,8 +1722,8 @@
             "id": 85205851,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-22T08:11:43Z",
-            "open_issues": 31,
+            "last_commit": "2026-08-30T16:52:21Z",
+            "open_issues": 30,
             "owner": "lief-project",
             "repo": "LIEF",
             "stars": 5550,
@@ -1796,11 +1796,11 @@
             "id": 25164176,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-08-29T16:17:12Z",
-            "open_issues": 17,
+            "last_commit": "2026-08-30T09:33:41Z",
+            "open_issues": 14,
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 3242,
+            "stars": 3244,
             "topics": [
               "binary-analysis",
               "disassembler",
@@ -2011,7 +2011,7 @@
             "open_issues": 1,
             "owner": "NotPrab",
             "repo": ".NET-Deobfuscator",
-            "stars": 1513,
+            "stars": 1514,
             "topics": [
               "deobfuscator",
               "dnlib",
@@ -2103,6 +2103,30 @@
         },
         {
           "node_type": "item",
+          "title": "EXEInfo-PE",
+          "description": "Fast detector for executable PE files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free Windows Detector Software",
+            "homepage": "https://github.com/ExeinfoASL/ASL",
+            "id": 227461313,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-08-08T10:38:17Z",
+            "open_issues": 8,
+            "owner": "ExeinfoASL",
+            "repo": "ASL",
+            "stars": 1142,
+            "topics": [
+              "detector",
+              "exeinfo"
+            ]
+          },
+          "first_seen": "2026-08-29T00:56:28.356Z"
+        },
+        {
+          "node_type": "item",
           "title": "Manalyze",
           "description": "Robust parser for PE files with a flexible plugin architecture which allows users to statically analyze files in-depth.",
           "children": [],
@@ -2129,30 +2153,6 @@
         },
         {
           "node_type": "item",
-          "title": "EXEInfo-PE",
-          "description": "Fast detector for executable PE files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Free Windows Detector Software",
-            "homepage": "https://github.com/ExeinfoASL/ASL",
-            "id": 227461313,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-08-08T10:38:17Z",
-            "open_issues": 8,
-            "owner": "ExeinfoASL",
-            "repo": "ASL",
-            "stars": 1141,
-            "topics": [
-              "detector",
-              "exeinfo"
-            ]
-          },
-          "first_seen": "2026-08-29T00:56:28.356Z"
-        },
-        {
-          "node_type": "item",
           "title": "Winbindex",
           "description": "An index of Windows binaries, including download links for executables such as EXE, DLL and SYS files.",
           "children": [],
@@ -2163,7 +2163,7 @@
             "id": 279035005,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-29T14:06:25Z",
+            "last_commit": "2026-08-30T13:25:33Z",
             "open_issues": 16,
             "owner": "m417z",
             "repo": "winbindex",
@@ -3093,7 +3093,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:40:29.873Z",
+    "last_updated": "2026-08-30T19:44:51.923Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",
