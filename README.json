@@ -201,7 +201,7 @@
             "open_issues": 89,
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13341,
+            "stars": 13347,
             "topics": [
               "malware",
               "malware-analysis",
@@ -229,7 +229,7 @@
             "open_issues": 1,
             "owner": "jstrosch",
             "repo": "malware-samples",
-            "stars": 1675,
+            "stars": 1677,
             "topics": [
               "azorult",
               "emotet",
@@ -302,7 +302,7 @@
             "open_issues": 14,
             "owner": "FutureComputing4AI",
             "repo": "EMBER2024",
-            "stars": 145,
+            "stars": 147,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -536,7 +536,7 @@
                 "open_issues": 103,
                 "owner": "mkaring",
                 "repo": "ConfuserEx",
-                "stars": 2900,
+                "stars": 2901,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -879,7 +879,7 @@
                 "open_issues": 2,
                 "owner": "iamsopotatoe-coder",
                 "repo": "TinyLoad",
-                "stars": 188,
+                "stars": 189,
                 "topics": [
                   "anti-analysis",
                   "av-edr-bypass",
@@ -1099,7 +1099,7 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2021-09-11T13:00:34Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "akuafif",
                 "repo": "hXOR-Packer",
                 "stars": 68,
@@ -1447,7 +1447,7 @@
                 "language": "Assembly",
                 "license": "MIT",
                 "last_commit": "2016-12-26T14:24:01Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "xrw67",
                 "repo": "petoy",
                 "stars": 10,
@@ -1627,11 +1627,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-01T18:07:34Z",
-            "open_issues": 706,
+            "last_commit": "2026-09-02T17:57:39Z",
+            "open_issues": 701,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9054,
+            "stars": 9056,
             "topics": [
               "analysis",
               "angr",
@@ -1656,7 +1656,7 @@
             "open_issues": 458,
             "owner": "avast",
             "repo": "retdec",
-            "stars": 8617,
+            "stars": 8618,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1677,7 +1677,7 @@
             "open_issues": 9,
             "owner": "de4dot",
             "repo": "de4dot",
-            "stars": 7436,
+            "stars": 7435,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1698,7 +1698,7 @@
             "open_issues": 298,
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6162,
+            "stars": 6164,
             "topics": [
               "binary-analysis",
               "gsoc-2026",
@@ -1725,7 +1725,7 @@
             "open_issues": 30,
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5553,
+            "stars": 5555,
             "topics": [
               "android",
               "art",
@@ -1766,7 +1766,7 @@
             "open_issues": 40,
             "owner": "JonathanSalwan",
             "repo": "Triton",
-            "stars": 4279,
+            "stars": 4280,
             "topics": [
               "binary-analysis",
               "binary-translation",
@@ -1795,11 +1795,11 @@
             "id": 25164176,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-08-31T19:37:12Z",
+            "last_commit": "2026-09-02T07:53:12Z",
             "open_issues": 15,
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 3247,
+            "stars": 3248,
             "topics": [
               "binary-analysis",
               "disassembler",
@@ -1859,7 +1859,7 @@
             "open_issues": 165,
             "owner": "uxmal",
             "repo": "reko",
-            "stars": 2601,
+            "stars": 2602,
             "topics": [
               "aarch64",
               "arm",
@@ -1890,11 +1890,11 @@
             "id": 61825895,
             "language": "YARA",
             "license": "NOASSERTION",
-            "last_commit": "2026-07-27T17:35:45Z",
+            "last_commit": "2026-09-02T18:55:19Z",
             "open_issues": 84,
             "owner": "rednaga",
             "repo": "APKiD",
-            "stars": 2567,
+            "stars": 2568,
             "topics": [
               "android",
               "android-protect-apps",
@@ -1930,7 +1930,7 @@
             "open_issues": 61,
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2066,
+            "stars": 2065,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1951,7 +1951,7 @@
             "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1812,
+            "stars": 1811,
             "topics": [
               "malware",
               "malware-analysis",
@@ -1979,7 +1979,7 @@
             "open_issues": 12,
             "owner": "lelinhtinh",
             "repo": "de4js",
-            "stars": 1582,
+            "stars": 1581,
             "topics": [
               "decode",
               "deobfuscate",
@@ -2067,7 +2067,7 @@
             "open_issues": 0,
             "owner": "strazzere",
             "repo": "android-unpacker",
-            "stars": 1178,
+            "stars": 1177,
             "topics": [
               "android",
               "android-unpacker",
@@ -2116,7 +2116,7 @@
             "open_issues": 6,
             "owner": "JusticeRage",
             "repo": "Manalyze",
-            "stars": 1146,
+            "stars": 1145,
             "topics": [
               "analysis",
               "malware",
@@ -2162,11 +2162,11 @@
             "id": 279035005,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-01T15:45:02Z",
+            "last_commit": "2026-09-02T12:57:42Z",
             "open_issues": 16,
             "owner": "m417z",
             "repo": "winbindex",
-            "stars": 871,
+            "stars": 873,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2187,7 +2187,7 @@
             "open_issues": 1,
             "owner": "hasherezade",
             "repo": "mal_unpack",
-            "stars": 837,
+            "stars": 838,
             "topics": [
               "libpeconv",
               "malware-analysis",
@@ -2214,7 +2214,7 @@
             "open_issues": 14,
             "owner": "mentebinaria",
             "repo": "readpe",
-            "stars": 783,
+            "stars": 785,
             "topics": [
               "binary-analysis",
               "malware-analysis",
@@ -2560,7 +2560,7 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2023-08-01T21:04:35Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "adamhlt",
             "repo": "Cave-Finder",
             "stars": 78,
@@ -3092,7 +3092,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T19:51:46.673Z",
+    "last_updated": "2026-09-02T19:42:36.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",
