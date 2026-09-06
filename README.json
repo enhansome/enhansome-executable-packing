@@ -83,7 +83,7 @@
                 "open_issues": 0,
                 "owner": "gmh5225",
                 "repo": "awesome-llvm-security",
-                "stars": 878,
+                "stars": 879,
                 "topics": [
                   "awesome",
                   "c",
@@ -201,7 +201,7 @@
             "open_issues": 89,
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13360,
+            "stars": 13362,
             "topics": [
               "malware",
               "malware-analysis",
@@ -229,7 +229,7 @@
             "open_issues": 1,
             "owner": "jstrosch",
             "repo": "malware-samples",
-            "stars": 1678,
+            "stars": 1677,
             "topics": [
               "azorult",
               "emotet",
@@ -536,7 +536,7 @@
                 "open_issues": 103,
                 "owner": "mkaring",
                 "repo": "ConfuserEx",
-                "stars": 2904,
+                "stars": 2905,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -557,7 +557,7 @@
                 "open_issues": 9,
                 "owner": "phra",
                 "repo": "PEzor",
-                "stars": 2132,
+                "stars": 2133,
                 "topics": [
                   "antivirus-evasion",
                   "hacktoberfest",
@@ -1436,6 +1436,43 @@
             },
             {
               "node_type": "item",
+              "title": "LZPACK",
+              "description": "LZPACK - PopCom!-compatible CP/M-80 executable compressor in ANSI C, runs on 48K CP/M-80, CP/M-86, MS-DOS, UNIX, and other platforms.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "LZPACK - CP/M-80 (8080 and Z80) executable compressor in ANSI C89",
+                "homepage": "https://github.com/johnsonjh/lzpack",
+                "id": 1249360103,
+                "language": "C",
+                "license": "MIT-0",
+                "last_commit": "2026-09-06T07:37:26Z",
+                "open_issues": 0,
+                "owner": "johnsonjh",
+                "repo": "lzpack",
+                "stars": 10,
+                "topics": [
+                  "8080",
+                  "ansi-c",
+                  "c89",
+                  "compression",
+                  "compressor",
+                  "cpm",
+                  "cpm80",
+                  "cpm86",
+                  "executable-compressor",
+                  "executable-packing",
+                  "lzpack",
+                  "packer",
+                  "popcom",
+                  "stubasm",
+                  "z80"
+                ]
+              },
+              "first_seen": "2026-08-29T00:56:28.356Z"
+            },
+            {
+              "node_type": "item",
               "title": "PE-Toy",
               "description": "A PE file packer.",
               "children": [],
@@ -1473,43 +1510,6 @@
                 "repo": "pocrypt",
                 "stars": 10,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T00:56:28.356Z"
-            },
-            {
-              "node_type": "item",
-              "title": "LZPACK",
-              "description": "LZPACK - PopCom!-compatible CP/M-80 executable compressor in ANSI C, runs on 48K CP/M-80, CP/M-86, MS-DOS, UNIX, and other platforms.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "LZPACK - CP/M-80 (8080 and Z80) executable compressor in ANSI C89",
-                "homepage": "https://github.com/johnsonjh/lzpack",
-                "id": 1249360103,
-                "language": "C",
-                "license": "MIT-0",
-                "last_commit": "2026-08-31T01:27:54Z",
-                "open_issues": 0,
-                "owner": "johnsonjh",
-                "repo": "lzpack",
-                "stars": 9,
-                "topics": [
-                  "8080",
-                  "ansi-c",
-                  "c89",
-                  "compression",
-                  "compressor",
-                  "cpm",
-                  "cpm80",
-                  "cpm86",
-                  "executable-compressor",
-                  "executable-packing",
-                  "lzpack",
-                  "packer",
-                  "popcom",
-                  "stubasm",
-                  "z80"
-                ]
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
             },
@@ -1627,11 +1627,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-05T00:07:46Z",
-            "open_issues": 702,
+            "last_commit": "2026-09-06T16:38:09Z",
+            "open_issues": 714,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9067,
+            "stars": 9068,
             "topics": [
               "analysis",
               "angr",
@@ -1656,7 +1656,7 @@
             "open_issues": 458,
             "owner": "avast",
             "repo": "retdec",
-            "stars": 8622,
+            "stars": 8623,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1694,7 +1694,7 @@
             "id": 272815213,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T15:50:31Z",
+            "last_commit": "2026-09-06T09:42:04Z",
             "open_issues": 298,
             "owner": "mandiant",
             "repo": "capa",
@@ -1721,11 +1721,11 @@
             "id": 85205851,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-30T16:52:21Z",
+            "last_commit": "2026-09-06T09:54:02Z",
             "open_issues": 30,
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5557,
+            "stars": 5558,
             "topics": [
               "android",
               "art",
@@ -1766,7 +1766,7 @@
             "open_issues": 40,
             "owner": "JonathanSalwan",
             "repo": "Triton",
-            "stars": 4284,
+            "stars": 4285,
             "topics": [
               "binary-analysis",
               "binary-translation",
@@ -1795,11 +1795,11 @@
             "id": 25164176,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-05T09:56:08Z",
+            "last_commit": "2026-09-06T11:44:57Z",
             "open_issues": 13,
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 3254,
+            "stars": 3257,
             "topics": [
               "binary-analysis",
               "disassembler",
@@ -1894,7 +1894,7 @@
             "open_issues": 84,
             "owner": "rednaga",
             "repo": "APKiD",
-            "stars": 2568,
+            "stars": 2567,
             "topics": [
               "android",
               "android-protect-apps",
@@ -2162,7 +2162,7 @@
             "id": 279035005,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-05T11:49:08Z",
+            "last_commit": "2026-09-06T14:28:29Z",
             "open_issues": 16,
             "owner": "m417z",
             "repo": "winbindex",
@@ -2187,7 +2187,7 @@
             "open_issues": 1,
             "owner": "hasherezade",
             "repo": "mal_unpack",
-            "stars": 837,
+            "stars": 838,
             "topics": [
               "libpeconv",
               "malware-analysis",
@@ -2267,7 +2267,7 @@
             "open_issues": 28,
             "owner": "unipacker",
             "repo": "unipacker",
-            "stars": 774,
+            "stars": 773,
             "topics": [
               "debugger",
               "dumper",
@@ -3092,7 +3092,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T18:57:57.491Z",
+    "last_updated": "2026-09-06T19:02:59.415Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",
