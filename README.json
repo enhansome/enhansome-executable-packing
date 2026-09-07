@@ -57,7 +57,7 @@
                 "open_issues": 1,
                 "owner": "aidansteele",
                 "repo": "osx-abi-macho-file-format-reference",
-                "stars": 880,
+                "stars": 881,
                 "topics": [
                   "abi",
                   "apple",
@@ -201,7 +201,7 @@
             "open_issues": 89,
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13362,
+            "stars": 13364,
             "topics": [
               "malware",
               "malware-analysis",
@@ -281,7 +281,7 @@
             "open_issues": 14,
             "owner": "sophos",
             "repo": "SOREL-20M",
-            "stars": 709,
+            "stars": 710,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -323,7 +323,7 @@
             "open_issues": 2,
             "owner": "whyisyoung",
             "repo": "BODMAS",
-            "stars": 96,
+            "stars": 97,
             "topics": [
               "malware",
               "malware-dataset",
@@ -536,7 +536,7 @@
                 "open_issues": 103,
                 "owner": "mkaring",
                 "repo": "ConfuserEx",
-                "stars": 2905,
+                "stars": 2904,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -583,7 +583,7 @@
                 "open_issues": 5,
                 "owner": "EgeBalci",
                 "repo": "amber",
-                "stars": 1443,
+                "stars": 1444,
                 "topics": [
                   "amber",
                   "assembly",
@@ -1627,11 +1627,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-06T16:38:09Z",
-            "open_issues": 714,
+            "last_commit": "2026-09-07T17:49:22Z",
+            "open_issues": 722,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9068,
+            "stars": 9070,
             "topics": [
               "analysis",
               "angr",
@@ -1695,10 +1695,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-06T09:42:04Z",
-            "open_issues": 298,
+            "open_issues": 300,
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6173,
+            "stars": 6174,
             "topics": [
               "binary-analysis",
               "gsoc-2026",
@@ -1762,8 +1762,8 @@
             "id": 29811166,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T12:34:42Z",
-            "open_issues": 40,
+            "last_commit": "2026-09-07T18:26:14Z",
+            "open_issues": 38,
             "owner": "JonathanSalwan",
             "repo": "Triton",
             "stars": 4285,
@@ -1795,11 +1795,11 @@
             "id": 25164176,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-06T11:44:57Z",
+            "last_commit": "2026-09-07T02:20:03Z",
             "open_issues": 13,
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 3257,
+            "stars": 3258,
             "topics": [
               "binary-analysis",
               "disassembler",
@@ -1894,7 +1894,7 @@
             "open_issues": 84,
             "owner": "rednaga",
             "repo": "APKiD",
-            "stars": 2567,
+            "stars": 2569,
             "topics": [
               "android",
               "android-protect-apps",
@@ -2162,11 +2162,11 @@
             "id": 279035005,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-06T14:28:29Z",
+            "last_commit": "2026-09-07T14:22:33Z",
             "open_issues": 16,
             "owner": "m417z",
             "repo": "winbindex",
-            "stars": 876,
+            "stars": 877,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2267,7 +2267,7 @@
             "open_issues": 28,
             "owner": "unipacker",
             "repo": "unipacker",
-            "stars": 773,
+            "stars": 774,
             "topics": [
               "debugger",
               "dumper",
@@ -2342,7 +2342,7 @@
             "open_issues": 3,
             "owner": "struppigel",
             "repo": "PortEx",
-            "stars": 535,
+            "stars": 536,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -3092,7 +3092,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T19:02:59.415Z",
+    "last_updated": "2026-09-07T20:29:02.163Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",
