@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "packing-box",
                 "repo": "awesome-executable-packing",
-                "stars": 1613,
+                "stars": 1614,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -201,7 +201,7 @@
             "open_issues": 89,
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13373,
+            "stars": 13375,
             "topics": [
               "malware",
               "malware-analysis",
@@ -557,7 +557,7 @@
                 "open_issues": 9,
                 "owner": "phra",
                 "repo": "PEzor",
-                "stars": 2134,
+                "stars": 2135,
                 "topics": [
                   "antivirus-evasion",
                   "hacktoberfest",
@@ -698,7 +698,7 @@
                 "open_issues": 5,
                 "owner": "czs108",
                 "repo": "Windows-PE-Packer",
-                "stars": 368,
+                "stars": 369,
                 "topics": [
                   "pe",
                   "reverse-engineering",
@@ -1627,11 +1627,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-09T18:51:23Z",
-            "open_issues": 722,
+            "last_commit": "2026-09-10T18:58:51Z",
+            "open_issues": 737,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9077,
+            "stars": 9080,
             "topics": [
               "analysis",
               "angr",
@@ -1656,7 +1656,7 @@
             "open_issues": 458,
             "owner": "avast",
             "repo": "retdec",
-            "stars": 8624,
+            "stars": 8626,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1677,7 +1677,7 @@
             "open_issues": 9,
             "owner": "de4dot",
             "repo": "de4dot",
-            "stars": 7435,
+            "stars": 7436,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1698,7 +1698,7 @@
             "open_issues": 299,
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6177,
+            "stars": 6179,
             "topics": [
               "binary-analysis",
               "gsoc-2026",
@@ -1725,7 +1725,7 @@
             "open_issues": 30,
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5558,
+            "stars": 5559,
             "topics": [
               "android",
               "art",
@@ -1763,10 +1763,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-07T18:26:14Z",
-            "open_issues": 38,
+            "open_issues": 39,
             "owner": "JonathanSalwan",
             "repo": "Triton",
-            "stars": 4288,
+            "stars": 4289,
             "topics": [
               "binary-analysis",
               "binary-translation",
@@ -1795,11 +1795,11 @@
             "id": 25164176,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-07T02:20:03Z",
+            "last_commit": "2026-09-10T18:53:53Z",
             "open_issues": 13,
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 3260,
+            "stars": 3261,
             "topics": [
               "binary-analysis",
               "disassembler",
@@ -1828,7 +1828,7 @@
             "id": 12330872,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-07-29T03:11:37Z",
+            "last_commit": "2026-09-10T13:45:04Z",
             "open_issues": 97,
             "owner": "panda-re",
             "repo": "panda",
@@ -1894,7 +1894,7 @@
             "open_issues": 84,
             "owner": "rednaga",
             "repo": "APKiD",
-            "stars": 2570,
+            "stars": 2572,
             "topics": [
               "android",
               "android-protect-apps",
@@ -2142,7 +2142,7 @@
             "open_issues": 8,
             "owner": "ExeinfoASL",
             "repo": "ASL",
-            "stars": 1145,
+            "stars": 1146,
             "topics": [
               "detector",
               "exeinfo"
@@ -2162,11 +2162,11 @@
             "id": 279035005,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-09T13:14:05Z",
+            "last_commit": "2026-09-10T13:12:10Z",
             "open_issues": 16,
             "owner": "m417z",
             "repo": "winbindex",
-            "stars": 877,
+            "stars": 878,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2267,7 +2267,7 @@
             "open_issues": 28,
             "owner": "unipacker",
             "repo": "unipacker",
-            "stars": 774,
+            "stars": 775,
             "topics": [
               "debugger",
               "dumper",
@@ -3092,7 +3092,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T19:41:42.964Z",
+    "last_updated": "2026-09-10T19:32:59.809Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",
@@ -3104,7 +3104,7 @@
       "open_issues": 1,
       "owner": "packing-box",
       "repo": "awesome-executable-packing",
-      "stars": 1613,
+      "stars": 1614,
       "topics": [
         "awesome",
         "awesome-list",
