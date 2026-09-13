@@ -201,7 +201,7 @@
             "open_issues": 89,
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13384,
+            "stars": 13382,
             "topics": [
               "malware",
               "malware-analysis",
@@ -281,7 +281,7 @@
             "open_issues": 14,
             "owner": "sophos",
             "repo": "SOREL-20M",
-            "stars": 709,
+            "stars": 710,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -429,7 +429,7 @@
             "id": 117911082,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2022-09-11T17:25:59Z",
+            "last_commit": "2026-09-12T23:03:21Z",
             "open_issues": 0,
             "owner": "apuromafo",
             "repo": "RCE_Lab",
@@ -536,7 +536,7 @@
                 "open_issues": 103,
                 "owner": "mkaring",
                 "repo": "ConfuserEx",
-                "stars": 2903,
+                "stars": 2904,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1446,7 +1446,7 @@
                 "id": 1249360103,
                 "language": "C",
                 "license": "MIT-0",
-                "last_commit": "2026-09-06T07:37:26Z",
+                "last_commit": "2026-09-13T08:19:30Z",
                 "open_issues": 0,
                 "owner": "johnsonjh",
                 "repo": "lzpack",
@@ -1627,11 +1627,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-12T18:19:39Z",
-            "open_issues": 744,
+            "last_commit": "2026-09-13T09:57:48Z",
+            "open_issues": 737,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9086,
+            "stars": 9088,
             "topics": [
               "analysis",
               "angr",
@@ -1725,7 +1725,7 @@
             "open_issues": 30,
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5562,
+            "stars": 5563,
             "topics": [
               "android",
               "art",
@@ -1828,7 +1828,7 @@
             "id": 12330872,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T18:12:35Z",
+            "last_commit": "2026-09-12T19:58:59Z",
             "open_issues": 97,
             "owner": "panda-re",
             "repo": "panda",
@@ -1894,7 +1894,7 @@
             "open_issues": 84,
             "owner": "rednaga",
             "repo": "APKiD",
-            "stars": 2572,
+            "stars": 2573,
             "topics": [
               "android",
               "android-protect-apps",
@@ -1930,7 +1930,7 @@
             "open_issues": 63,
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2065,
+            "stars": 2066,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2102,6 +2102,30 @@
         },
         {
           "node_type": "item",
+          "title": "EXEInfo-PE",
+          "description": "Fast detector for executable PE files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free Windows Detector Software",
+            "homepage": "https://github.com/ExeinfoASL/ASL",
+            "id": 227461313,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-09-11T18:38:04Z",
+            "open_issues": 8,
+            "owner": "ExeinfoASL",
+            "repo": "ASL",
+            "stars": 1148,
+            "topics": [
+              "detector",
+              "exeinfo"
+            ]
+          },
+          "first_seen": "2026-08-29T00:56:28.356Z"
+        },
+        {
+          "node_type": "item",
           "title": "Manalyze",
           "description": "Robust parser for PE files with a flexible plugin architecture which allows users to statically analyze files in-depth.",
           "children": [],
@@ -2128,30 +2152,6 @@
         },
         {
           "node_type": "item",
-          "title": "EXEInfo-PE",
-          "description": "Fast detector for executable PE files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Free Windows Detector Software",
-            "homepage": "https://github.com/ExeinfoASL/ASL",
-            "id": 227461313,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-09-11T18:38:04Z",
-            "open_issues": 8,
-            "owner": "ExeinfoASL",
-            "repo": "ASL",
-            "stars": 1147,
-            "topics": [
-              "detector",
-              "exeinfo"
-            ]
-          },
-          "first_seen": "2026-08-29T00:56:28.356Z"
-        },
-        {
-          "node_type": "item",
           "title": "Winbindex",
           "description": "An index of Windows binaries, including download links for executables such as EXE, DLL and SYS files.",
           "children": [],
@@ -2162,11 +2162,11 @@
             "id": 279035005,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-12T12:29:15Z",
+            "last_commit": "2026-09-13T13:16:25Z",
             "open_issues": 16,
             "owner": "m417z",
             "repo": "winbindex",
-            "stars": 878,
+            "stars": 879,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2342,7 +2342,7 @@
             "open_issues": 3,
             "owner": "struppigel",
             "repo": "PortEx",
-            "stars": 536,
+            "stars": 537,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -3092,7 +3092,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T19:10:40.670Z",
+    "last_updated": "2026-09-13T19:20:17.196Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",
