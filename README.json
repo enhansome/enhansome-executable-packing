@@ -201,7 +201,7 @@
             "open_issues": 89,
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13396,
+            "stars": 13398,
             "topics": [
               "malware",
               "malware-analysis",
@@ -536,7 +536,7 @@
                 "open_issues": 103,
                 "owner": "mkaring",
                 "repo": "ConfuserEx",
-                "stars": 2903,
+                "stars": 2902,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1627,8 +1627,8 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-18T18:34:27Z",
-            "open_issues": 720,
+            "last_commit": "2026-09-19T06:51:03Z",
+            "open_issues": 721,
             "owner": "angr",
             "repo": "angr",
             "stars": 9099,
@@ -1698,7 +1698,7 @@
             "open_issues": 307,
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6189,
+            "stars": 6193,
             "topics": [
               "binary-analysis",
               "gsoc-2026",
@@ -1725,7 +1725,7 @@
             "open_issues": 33,
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5565,
+            "stars": 5566,
             "topics": [
               "android",
               "art",
@@ -1766,7 +1766,7 @@
             "open_issues": 36,
             "owner": "JonathanSalwan",
             "repo": "Triton",
-            "stars": 4298,
+            "stars": 4300,
             "topics": [
               "binary-analysis",
               "binary-translation",
@@ -1795,8 +1795,8 @@
             "id": 25164176,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-11T05:16:55Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-19T11:35:30Z",
+            "open_issues": 14,
             "owner": "horsicq",
             "repo": "DIE-engine",
             "stars": 3266,
@@ -1894,7 +1894,7 @@
             "open_issues": 84,
             "owner": "rednaga",
             "repo": "APKiD",
-            "stars": 2576,
+            "stars": 2577,
             "topics": [
               "android",
               "android-protect-apps",
@@ -2162,7 +2162,7 @@
             "id": 279035005,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-18T12:45:26Z",
+            "last_commit": "2026-09-19T14:08:10Z",
             "open_issues": 16,
             "owner": "m417z",
             "repo": "winbindex",
@@ -2267,7 +2267,7 @@
             "open_issues": 28,
             "owner": "unipacker",
             "repo": "unipacker",
-            "stars": 776,
+            "stars": 777,
             "topics": [
               "debugger",
               "dumper",
@@ -2300,7 +2300,7 @@
             "open_issues": 14,
             "owner": "endgameinc",
             "repo": "gym-malware",
-            "stars": 635,
+            "stars": 636,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2431,7 +2431,7 @@
             "open_issues": 13,
             "owner": "pralab",
             "repo": "secml_malware",
-            "stars": 250,
+            "stars": 251,
             "topics": [
               "adversarial-machine-learning",
               "attack",
@@ -3092,7 +3092,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T19:31:30.470Z",
+    "last_updated": "2026-09-19T19:17:00.865Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",
