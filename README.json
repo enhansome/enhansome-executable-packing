@@ -201,7 +201,7 @@
             "open_issues": 89,
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13398,
+            "stars": 13400,
             "topics": [
               "malware",
               "malware-analysis",
@@ -302,7 +302,7 @@
             "open_issues": 14,
             "owner": "FutureComputing4AI",
             "repo": "EMBER2024",
-            "stars": 154,
+            "stars": 155,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -817,7 +817,7 @@
                 "open_issues": 0,
                 "owner": "DosX-dev",
                 "repo": "ASM-Guard",
-                "stars": 269,
+                "stars": 270,
                 "topics": [
                   "32-bit",
                   "64-bit",
@@ -1446,7 +1446,7 @@
                 "id": 1249360103,
                 "language": "C",
                 "license": "MIT-0",
-                "last_commit": "2026-09-15T19:43:38Z",
+                "last_commit": "2026-09-20T18:44:04Z",
                 "open_issues": 0,
                 "owner": "johnsonjh",
                 "repo": "lzpack",
@@ -1627,11 +1627,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-19T06:51:03Z",
-            "open_issues": 721,
+            "last_commit": "2026-09-20T06:28:02Z",
+            "open_issues": 723,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9099,
+            "stars": 9101,
             "topics": [
               "analysis",
               "angr",
@@ -1698,7 +1698,7 @@
             "open_issues": 307,
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6193,
+            "stars": 6192,
             "topics": [
               "binary-analysis",
               "gsoc-2026",
@@ -1766,7 +1766,7 @@
             "open_issues": 36,
             "owner": "JonathanSalwan",
             "repo": "Triton",
-            "stars": 4300,
+            "stars": 4302,
             "topics": [
               "binary-analysis",
               "binary-translation",
@@ -1795,7 +1795,7 @@
             "id": 25164176,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-19T11:35:30Z",
+            "last_commit": "2026-09-19T20:18:37Z",
             "open_issues": 14,
             "owner": "horsicq",
             "repo": "DIE-engine",
@@ -1832,7 +1832,7 @@
             "open_issues": 97,
             "owner": "panda-re",
             "repo": "panda",
-            "stars": 2781,
+            "stars": 2780,
             "topics": [
               "dynamic-analysis",
               "pandare",
@@ -1927,7 +1927,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-18T14:40:10Z",
-            "open_issues": 61,
+            "open_issues": 62,
             "owner": "erocarrera",
             "repo": "pefile",
             "stars": 2068,
@@ -2162,7 +2162,7 @@
             "id": 279035005,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-19T14:08:10Z",
+            "last_commit": "2026-09-20T12:37:45Z",
             "open_issues": 16,
             "owner": "m417z",
             "repo": "winbindex",
@@ -2480,7 +2480,7 @@
             "open_issues": 1,
             "owner": "CheckPointSW",
             "repo": "showstopper",
-            "stars": 225,
+            "stars": 226,
             "topics": [
               "anti-debug",
               "malware",
@@ -2647,7 +2647,7 @@
             "open_issues": 0,
             "owner": "avast",
             "repo": "pelib",
-            "stars": 63,
+            "stars": 62,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -3092,7 +3092,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T19:17:00.865Z",
+    "last_updated": "2026-09-20T19:21:02.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",
