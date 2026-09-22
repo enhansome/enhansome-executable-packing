@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "packing-box",
                 "repo": "awesome-executable-packing",
-                "stars": 1620,
+                "stars": 1622,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -54,7 +54,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-10-13T04:06:23Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "aidansteele",
                 "repo": "osx-abi-macho-file-format-reference",
                 "stars": 883,
@@ -79,7 +79,7 @@
                 "id": 446452352,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-08-14T16:50:48Z",
+                "last_commit": "2026-09-22T17:47:39Z",
                 "open_issues": 0,
                 "owner": "gmh5225",
                 "repo": "awesome-llvm-security",
@@ -302,7 +302,7 @@
             "open_issues": 14,
             "owner": "FutureComputing4AI",
             "repo": "EMBER2024",
-            "stars": 155,
+            "stars": 156,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -635,7 +635,7 @@
                 "open_issues": 4,
                 "owner": "mgeeky",
                 "repo": "ProtectMyTooling",
-                "stars": 1100,
+                "stars": 1101,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1627,11 +1627,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-21T20:49:16Z",
+            "last_commit": "2026-09-22T19:12:06Z",
             "open_issues": 723,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9102,
+            "stars": 9105,
             "topics": [
               "analysis",
               "angr",
@@ -1656,7 +1656,7 @@
             "open_issues": 458,
             "owner": "avast",
             "repo": "retdec",
-            "stars": 8631,
+            "stars": 8629,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1725,7 +1725,7 @@
             "open_issues": 35,
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5568,
+            "stars": 5569,
             "topics": [
               "android",
               "art",
@@ -1799,7 +1799,7 @@
             "open_issues": 14,
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 3267,
+            "stars": 3268,
             "topics": [
               "binary-analysis",
               "disassembler",
@@ -1894,7 +1894,7 @@
             "open_issues": 84,
             "owner": "rednaga",
             "repo": "APKiD",
-            "stars": 2577,
+            "stars": 2578,
             "topics": [
               "android",
               "android-protect-apps",
@@ -1951,7 +1951,7 @@
             "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1814,
+            "stars": 1813,
             "topics": [
               "malware",
               "malware-analysis",
@@ -2010,7 +2010,7 @@
             "open_issues": 1,
             "owner": "NotPrab",
             "repo": ".NET-Deobfuscator",
-            "stars": 1515,
+            "stars": 1516,
             "topics": [
               "deobfuscator",
               "dnlib",
@@ -2037,7 +2037,7 @@
             "open_issues": 10,
             "owner": "petoolse",
             "repo": "petools",
-            "stars": 1199,
+            "stars": 1200,
             "topics": [
               "analysis",
               "disassembler",
@@ -2095,7 +2095,7 @@
             "open_issues": 43,
             "owner": "crypto2011",
             "repo": "IDR",
-            "stars": 1158,
+            "stars": 1159,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2116,7 +2116,7 @@
             "open_issues": 8,
             "owner": "ExeinfoASL",
             "repo": "ASL",
-            "stars": 1149,
+            "stars": 1150,
             "topics": [
               "detector",
               "exeinfo"
@@ -2162,11 +2162,11 @@
             "id": 279035005,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-21T14:43:36Z",
+            "last_commit": "2026-09-22T13:37:47Z",
             "open_issues": 16,
             "owner": "m417z",
             "repo": "winbindex",
-            "stars": 880,
+            "stars": 881,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2211,7 +2211,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-08-25T19:22:31Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "mentebinaria",
             "repo": "readpe",
             "stars": 786,
@@ -2222,31 +2222,6 @@
               "pe-file",
               "portable-executable",
               "reverse-engineering"
-            ]
-          },
-          "first_seen": "2026-08-29T00:56:28.356Z"
-        },
-        {
-          "node_type": "item",
-          "title": "PE-bear",
-          "description": "Freeware reversing tool for PE files aimed to deliver fast and flexible “first view” for malware analysts, stable and capable to handle malformed PE files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "PE-bear (builds only)",
-            "homepage": "https://hshrzd.wordpress.com/pe-bear/",
-            "id": 61954104,
-            "language": null,
-            "license": null,
-            "last_commit": "2023-06-04T18:39:06Z",
-            "open_issues": 9,
-            "owner": "hasherezade",
-            "repo": "pe-bear-old",
-            "stars": 777,
-            "topics": [
-              "pe-analyzer",
-              "pe-editor",
-              "pe-format"
             ]
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2267,7 +2242,7 @@
             "open_issues": 28,
             "owner": "unipacker",
             "repo": "unipacker",
-            "stars": 777,
+            "stars": 778,
             "topics": [
               "debugger",
               "dumper",
@@ -2280,6 +2255,31 @@
               "unicorn-engine",
               "unpacker",
               "windows"
+            ]
+          },
+          "first_seen": "2026-08-29T00:56:28.356Z"
+        },
+        {
+          "node_type": "item",
+          "title": "PE-bear",
+          "description": "Freeware reversing tool for PE files aimed to deliver fast and flexible “first view” for malware analysts, stable and capable to handle malformed PE files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "PE-bear (builds only)",
+            "homepage": "https://hshrzd.wordpress.com/pe-bear/",
+            "id": 61954104,
+            "language": null,
+            "license": null,
+            "last_commit": "2023-06-04T18:39:06Z",
+            "open_issues": 9,
+            "owner": "hasherezade",
+            "repo": "pe-bear-old",
+            "stars": 776,
+            "topics": [
+              "pe-analyzer",
+              "pe-editor",
+              "pe-format"
             ]
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -3092,7 +3092,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:58:41.965Z",
+    "last_updated": "2026-09-22T20:06:48.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",
@@ -3104,7 +3104,7 @@
       "open_issues": 1,
       "owner": "packing-box",
       "repo": "awesome-executable-packing",
-      "stars": 1620,
+      "stars": 1622,
       "topics": [
         "awesome",
         "awesome-list",
