@@ -201,7 +201,7 @@
             "open_issues": 90,
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13406,
+            "stars": 13413,
             "topics": [
               "malware",
               "malware-analysis",
@@ -281,7 +281,7 @@
             "open_issues": 14,
             "owner": "sophos",
             "repo": "SOREL-20M",
-            "stars": 710,
+            "stars": 711,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -302,7 +302,7 @@
             "open_issues": 14,
             "owner": "FutureComputing4AI",
             "repo": "EMBER2024",
-            "stars": 156,
+            "stars": 157,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -434,7 +434,13 @@
             "owner": "apuromafo",
             "repo": "RCE_Lab",
             "stars": 44,
-            "topics": []
+            "topics": [
+              "assembly",
+              "crackme",
+              "keygenme",
+              "ollydbg",
+              "reverse-engineering"
+            ]
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
         },
@@ -536,7 +542,7 @@
                 "open_issues": 103,
                 "owner": "mkaring",
                 "repo": "ConfuserEx",
-                "stars": 2903,
+                "stars": 2902,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -583,7 +589,7 @@
                 "open_issues": 5,
                 "owner": "EgeBalci",
                 "repo": "amber",
-                "stars": 1443,
+                "stars": 1444,
                 "topics": [
                   "amber",
                   "assembly",
@@ -614,7 +620,7 @@
                 "open_issues": 6,
                 "owner": "runestubbe",
                 "repo": "Crinkler",
-                "stars": 1291,
+                "stars": 1290,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -635,7 +641,7 @@
                 "open_issues": 4,
                 "owner": "mgeeky",
                 "repo": "ProtectMyTooling",
-                "stars": 1100,
+                "stars": 1101,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -724,7 +730,7 @@
                 "open_issues": 0,
                 "owner": "DosX-dev",
                 "repo": "Astral-PE",
-                "stars": 353,
+                "stars": 355,
                 "topics": [
                   "cpp",
                   "cs",
@@ -817,7 +823,7 @@
                 "open_issues": 0,
                 "owner": "DosX-dev",
                 "repo": "ASM-Guard",
-                "stars": 271,
+                "stars": 270,
                 "topics": [
                   "32-bit",
                   "64-bit",
@@ -1081,7 +1087,7 @@
                 "open_issues": 2,
                 "owner": "nullsecuritynet",
                 "repo": "tools",
-                "stars": 70,
+                "stars": 71,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1627,11 +1633,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-24T19:46:50Z",
+            "last_commit": "2026-09-25T14:57:56Z",
             "open_issues": 725,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9107,
+            "stars": 9112,
             "topics": [
               "analysis",
               "angr",
@@ -1656,7 +1662,7 @@
             "open_issues": 458,
             "owner": "avast",
             "repo": "retdec",
-            "stars": 8630,
+            "stars": 8632,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1695,7 +1701,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-14T14:43:31Z",
-            "open_issues": 307,
+            "open_issues": 308,
             "owner": "mandiant",
             "repo": "capa",
             "stars": 6199,
@@ -1722,10 +1728,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-06T09:54:02Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5571,
+            "stars": 5573,
             "topics": [
               "android",
               "art",
@@ -1766,7 +1772,7 @@
             "open_issues": 36,
             "owner": "JonathanSalwan",
             "repo": "Triton",
-            "stars": 4308,
+            "stars": 4311,
             "topics": [
               "binary-analysis",
               "binary-translation",
@@ -1795,8 +1801,8 @@
             "id": 25164176,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-23T15:21:34Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-25T18:16:22Z",
+            "open_issues": 14,
             "owner": "horsicq",
             "repo": "DIE-engine",
             "stars": 3272,
@@ -1894,7 +1900,7 @@
             "open_issues": 84,
             "owner": "rednaga",
             "repo": "APKiD",
-            "stars": 2578,
+            "stars": 2577,
             "topics": [
               "android",
               "android-protect-apps",
@@ -1930,7 +1936,7 @@
             "open_issues": 62,
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2069,
+            "stars": 2068,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1951,7 +1957,7 @@
             "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1813,
+            "stars": 1814,
             "topics": [
               "malware",
               "malware-analysis",
@@ -2067,7 +2073,7 @@
             "open_issues": 0,
             "owner": "strazzere",
             "repo": "android-unpacker",
-            "stars": 1179,
+            "stars": 1180,
             "topics": [
               "android",
               "android-unpacker",
@@ -2095,7 +2101,7 @@
             "open_issues": 43,
             "owner": "crypto2011",
             "repo": "IDR",
-            "stars": 1161,
+            "stars": 1162,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2116,7 +2122,7 @@
             "open_issues": 8,
             "owner": "ExeinfoASL",
             "repo": "ASL",
-            "stars": 1149,
+            "stars": 1150,
             "topics": [
               "detector",
               "exeinfo"
@@ -2162,11 +2168,11 @@
             "id": 279035005,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-24T13:35:57Z",
+            "last_commit": "2026-09-25T13:43:11Z",
             "open_issues": 16,
             "owner": "m417z",
             "repo": "winbindex",
-            "stars": 884,
+            "stars": 885,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2242,7 +2248,7 @@
             "open_issues": 28,
             "owner": "unipacker",
             "repo": "unipacker",
-            "stars": 778,
+            "stars": 780,
             "topics": [
               "debugger",
               "dumper",
@@ -3092,7 +3098,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T20:22:33.662Z",
+    "last_updated": "2026-09-25T20:22:51.668Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",
