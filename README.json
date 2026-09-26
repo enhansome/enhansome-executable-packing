@@ -201,7 +201,7 @@
             "open_issues": 90,
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13413,
+            "stars": 13416,
             "topics": [
               "malware",
               "malware-analysis",
@@ -563,7 +563,7 @@
                 "open_issues": 9,
                 "owner": "phra",
                 "repo": "PEzor",
-                "stars": 2136,
+                "stars": 2135,
                 "topics": [
                   "antivirus-evasion",
                   "hacktoberfest",
@@ -620,7 +620,7 @@
                 "open_issues": 6,
                 "owner": "runestubbe",
                 "repo": "Crinkler",
-                "stars": 1290,
+                "stars": 1292,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -641,7 +641,7 @@
                 "open_issues": 4,
                 "owner": "mgeeky",
                 "repo": "ProtectMyTooling",
-                "stars": 1101,
+                "stars": 1102,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1633,11 +1633,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-25T14:57:56Z",
+            "last_commit": "2026-09-26T14:41:20Z",
             "open_issues": 725,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9112,
+            "stars": 9114,
             "topics": [
               "analysis",
               "angr",
@@ -1727,11 +1727,11 @@
             "id": 85205851,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T09:54:02Z",
-            "open_issues": 37,
+            "last_commit": "2026-09-26T18:04:55Z",
+            "open_issues": 36,
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5573,
+            "stars": 5574,
             "topics": [
               "android",
               "art",
@@ -1801,11 +1801,11 @@
             "id": 25164176,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-25T18:16:22Z",
+            "last_commit": "2026-09-26T12:40:18Z",
             "open_issues": 14,
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 3272,
+            "stars": 3273,
             "topics": [
               "binary-analysis",
               "disassembler",
@@ -1865,7 +1865,7 @@
             "open_issues": 165,
             "owner": "uxmal",
             "repo": "reko",
-            "stars": 2606,
+            "stars": 2607,
             "topics": [
               "aarch64",
               "arm",
@@ -1936,7 +1936,7 @@
             "open_issues": 62,
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2068,
+            "stars": 2069,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1985,7 +1985,7 @@
             "open_issues": 12,
             "owner": "lelinhtinh",
             "repo": "de4js",
-            "stars": 1579,
+            "stars": 1580,
             "topics": [
               "decode",
               "deobfuscate",
@@ -2168,7 +2168,7 @@
             "id": 279035005,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-25T13:43:11Z",
+            "last_commit": "2026-09-26T13:01:38Z",
             "open_issues": 16,
             "owner": "m417z",
             "repo": "winbindex",
@@ -2217,7 +2217,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-08-25T19:22:31Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "mentebinaria",
             "repo": "readpe",
             "stars": 786,
@@ -2907,27 +2907,6 @@
         },
         {
           "node_type": "item",
-          "title": "Oedipus",
-          "description": "A Python framework that uses machine learning algorithms to implement the metadata recovery attack against obfuscated programs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Python framework that uses machine learning algorithms to implement the metadata recovery attack against obfuscated programs.",
-            "homepage": null,
-            "id": 64123439,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2016-07-25T11:00:58Z",
-            "open_issues": 0,
-            "owner": "tum-i4",
-            "repo": "Oedipus",
-            "stars": 11,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:56:28.356Z"
-        },
-        {
-          "node_type": "item",
           "title": "PackID",
           "description": "Packer identification multiplatform tool/library using the same database syntax as PEiD.",
           "children": [],
@@ -2942,6 +2921,27 @@
             "open_issues": 0,
             "owner": "mesaleh",
             "repo": "PackiD",
+            "stars": 12,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:56:28.356Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Oedipus",
+          "description": "A Python framework that uses machine learning algorithms to implement the metadata recovery attack against obfuscated programs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Python framework that uses machine learning algorithms to implement the metadata recovery attack against obfuscated programs.",
+            "homepage": null,
+            "id": 64123439,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2016-07-25T11:00:58Z",
+            "open_issues": 0,
+            "owner": "tum-i4",
+            "repo": "Oedipus",
             "stars": 11,
             "topics": []
           },
@@ -3098,7 +3098,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T20:22:51.668Z",
+    "last_updated": "2026-09-26T19:42:52.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",
