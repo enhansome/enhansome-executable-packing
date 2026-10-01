@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "packing-box",
                 "repo": "awesome-executable-packing",
-                "stars": 1624,
+                "stars": 1623,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -79,7 +79,7 @@
                 "id": 446452352,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-22T17:47:39Z",
+                "last_commit": "2026-10-01T10:11:31Z",
                 "open_issues": 0,
                 "owner": "gmh5225",
                 "repo": "awesome-llvm-security",
@@ -201,7 +201,7 @@
             "open_issues": 89,
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13427,
+            "stars": 13431,
             "topics": [
               "malware",
               "malware-analysis",
@@ -229,7 +229,7 @@
             "open_issues": 1,
             "owner": "jstrosch",
             "repo": "malware-samples",
-            "stars": 1684,
+            "stars": 1685,
             "topics": [
               "azorult",
               "emotet",
@@ -542,7 +542,7 @@
                 "open_issues": 103,
                 "owner": "mkaring",
                 "repo": "ConfuserEx",
-                "stars": 2902,
+                "stars": 2901,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -563,7 +563,7 @@
                 "open_issues": 9,
                 "owner": "phra",
                 "repo": "PEzor",
-                "stars": 2136,
+                "stars": 2137,
                 "topics": [
                   "antivirus-evasion",
                   "hacktoberfest",
@@ -589,7 +589,7 @@
                 "open_issues": 5,
                 "owner": "EgeBalci",
                 "repo": "amber",
-                "stars": 1442,
+                "stars": 1444,
                 "topics": [
                   "amber",
                   "assembly",
@@ -641,7 +641,7 @@
                 "open_issues": 4,
                 "owner": "mgeeky",
                 "repo": "ProtectMyTooling",
-                "stars": 1102,
+                "stars": 1103,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -767,7 +767,7 @@
                 "language": "Go",
                 "license": "GPL-3.0",
                 "last_commit": "2023-01-16T21:07:13Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "89luca89",
                 "repo": "pakkero",
                 "stars": 278,
@@ -885,7 +885,7 @@
                 "open_issues": 2,
                 "owner": "iamsopotatoe-coder",
                 "repo": "TinyLoad",
-                "stars": 192,
+                "stars": 193,
                 "topics": [
                   "anti-analysis",
                   "av-edr-bypass",
@@ -926,7 +926,7 @@
                 "open_issues": 1,
                 "owner": "dr4k0nia",
                 "repo": "Origami",
-                "stars": 176,
+                "stars": 175,
                 "topics": [
                   "compressor",
                   "csharp",
@@ -1633,8 +1633,8 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-30T15:50:43Z",
-            "open_issues": 742,
+            "last_commit": "2026-10-01T21:44:31Z",
+            "open_issues": 741,
             "owner": "angr",
             "repo": "angr",
             "stars": 9121,
@@ -1728,7 +1728,7 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-28T18:45:12Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "lief-project",
             "repo": "LIEF",
             "stars": 5578,
@@ -1772,7 +1772,7 @@
             "open_issues": 36,
             "owner": "JonathanSalwan",
             "repo": "Triton",
-            "stars": 4313,
+            "stars": 4314,
             "topics": [
               "binary-analysis",
               "binary-translation",
@@ -1801,11 +1801,11 @@
             "id": 25164176,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-30T21:00:36Z",
+            "last_commit": "2026-10-01T21:15:37Z",
             "open_issues": 14,
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 3280,
+            "stars": 3281,
             "topics": [
               "binary-analysis",
               "disassembler",
@@ -1900,7 +1900,7 @@
             "open_issues": 84,
             "owner": "rednaga",
             "repo": "APKiD",
-            "stars": 2581,
+            "stars": 2584,
             "topics": [
               "android",
               "android-protect-apps",
@@ -1933,10 +1933,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-18T14:40:10Z",
-            "open_issues": 62,
+            "open_issues": 63,
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2071,
+            "stars": 2073,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1957,7 +1957,7 @@
             "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1813,
+            "stars": 1814,
             "topics": [
               "malware",
               "malware-analysis",
@@ -2101,7 +2101,7 @@
             "open_issues": 43,
             "owner": "crypto2011",
             "repo": "IDR",
-            "stars": 1163,
+            "stars": 1162,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2122,7 +2122,7 @@
             "open_issues": 8,
             "owner": "ExeinfoASL",
             "repo": "ASL",
-            "stars": 1151,
+            "stars": 1152,
             "topics": [
               "detector",
               "exeinfo"
@@ -2168,11 +2168,11 @@
             "id": 279035005,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-30T14:14:53Z",
+            "last_commit": "2026-10-01T15:42:15Z",
             "open_issues": 16,
             "owner": "m417z",
             "repo": "winbindex",
-            "stars": 888,
+            "stars": 889,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2248,7 +2248,7 @@
             "open_issues": 28,
             "owner": "unipacker",
             "repo": "unipacker",
-            "stars": 780,
+            "stars": 781,
             "topics": [
               "debugger",
               "dumper",
@@ -2437,7 +2437,7 @@
             "open_issues": 13,
             "owner": "pralab",
             "repo": "secml_malware",
-            "stars": 251,
+            "stars": 252,
             "topics": [
               "adversarial-machine-learning",
               "attack",
@@ -3098,7 +3098,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T21:23:21.317Z",
+    "last_updated": "2026-10-01T21:45:25.304Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",
@@ -3110,7 +3110,7 @@
       "open_issues": 1,
       "owner": "packing-box",
       "repo": "awesome-executable-packing",
-      "stars": 1624,
+      "stars": 1623,
       "topics": [
         "awesome",
         "awesome-list",
