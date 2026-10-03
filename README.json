@@ -7,44 +7,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": ":earth_americas: Awesome executable packing",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome resources related to executable packing",
-                "homepage": null,
-                "id": 432715698,
-                "language": null,
-                "license": "CC0-1.0",
-                "last_commit": "2026-05-31T10:23:25Z",
-                "open_issues": 1,
-                "owner": "packing-box",
-                "repo": "awesome-executable-packing",
-                "stars": 1624,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "awesome-lists",
-                  "binary-analysis",
-                  "cybersecurity",
-                  "executable-packing",
-                  "list",
-                  "malware",
-                  "malware-analysis",
-                  "malware-packers",
-                  "malware-research",
-                  "packers",
-                  "packing-detection",
-                  "security"
-                ]
-              },
-              "first_seen": "2026-08-29T00:56:28.356Z"
-            },
-            {
-              "node_type": "item",
               "title": ":earth_americas: Mach-O file format reference",
-              "description": null,
+              "description": "aidansteele/osx-abi-macho-file-format-reference",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -70,7 +34,7 @@
             {
               "node_type": "item",
               "title": ":earth_americas: Awesome LLVM security",
-              "description": null,
+              "description": "gmh5225/awesome-llvm-security",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -108,7 +72,7 @@
             {
               "node_type": "item",
               "title": ":earth_americas: OllyDbg OEP finder scripts",
-              "description": null,
+              "description": "dubuqingfeng/ollydbg-script",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -132,7 +96,7 @@
             {
               "node_type": "item",
               "title": ":pushpin: Writing a simple PE packer in detail",
-              "description": null,
+              "description": "levanvn/PE_Packer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -156,7 +120,7 @@
             {
               "node_type": "item",
               "title": ":pushpin: Packer detection tool evaluation",
-              "description": null,
+              "description": "FFRI/PackerDetectionToolEvaluation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -201,7 +165,7 @@
             "open_issues": 89,
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13435,
+            "stars": 13436,
             "topics": [
               "malware",
               "malware-analysis",
@@ -542,7 +506,7 @@
                 "open_issues": 103,
                 "owner": "mkaring",
                 "repo": "ConfuserEx",
-                "stars": 2901,
+                "stars": 2902,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1011,7 +975,7 @@
             {
               "node_type": "item",
               "title": "sherlocked",
-              "description": null,
+              "description": "elfmaster/sherlocked",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1074,7 +1038,7 @@
             {
               "node_type": "item",
               "title": "Hyperion",
-              "description": null,
+              "description": "nullsecuritynet/tools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1370,7 +1334,7 @@
             {
               "node_type": "item",
               "title": "Backpack",
-              "description": null,
+              "description": "Enelg52/Backpack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1422,7 +1386,7 @@
             {
               "node_type": "item",
               "title": "XyrisPack",
-              "description": null,
+              "description": "01Xyris/XyrisPack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1633,8 +1597,8 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-02T20:36:16Z",
-            "open_issues": 743,
+            "last_commit": "2026-10-03T04:03:07Z",
+            "open_issues": 745,
             "owner": "angr",
             "repo": "angr",
             "stars": 9123,
@@ -1801,7 +1765,7 @@
             "id": 25164176,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-02T21:03:11Z",
+            "last_commit": "2026-10-02T22:44:38Z",
             "open_issues": 14,
             "owner": "horsicq",
             "repo": "DIE-engine",
@@ -1900,7 +1864,7 @@
             "open_issues": 84,
             "owner": "rednaga",
             "repo": "APKiD",
-            "stars": 2585,
+            "stars": 2586,
             "topics": [
               "android",
               "android-protect-apps",
@@ -3098,7 +3062,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:16:16.967Z",
+    "last_updated": "2026-10-03T04:45:19.180Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",
