@@ -7,6 +7,44 @@
           "children": [
             {
               "node_type": "item",
+              "title": ":earth_americas: Awesome LLVM security",
+              "description": "gmh5225/awesome-llvm-security",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "awesome llvm security [Welcome to PR]",
+                "homepage": null,
+                "id": 446452352,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2026-10-01T10:11:31Z",
+                "open_issues": 0,
+                "owner": "gmh5225",
+                "repo": "awesome-llvm-security",
+                "stars": 883,
+                "topics": [
+                  "awesome",
+                  "c",
+                  "clang",
+                  "compiler",
+                  "driver",
+                  "jit",
+                  "llvm",
+                  "msvc",
+                  "obfuscate",
+                  "ollvm",
+                  "reverse-engineering",
+                  "security",
+                  "static-analysis",
+                  "windows",
+                  "windowsdriver",
+                  "x86-64"
+                ]
+              },
+              "first_seen": "2026-08-29T00:56:28.356Z"
+            },
+            {
+              "node_type": "item",
               "title": ":earth_americas: Mach-O file format reference",
               "description": "aidansteele/osx-abi-macho-file-format-reference",
               "children": [],
@@ -27,44 +65,6 @@
                   "apple",
                   "mach-o",
                   "osx"
-                ]
-              },
-              "first_seen": "2026-08-29T00:56:28.356Z"
-            },
-            {
-              "node_type": "item",
-              "title": ":earth_americas: Awesome LLVM security",
-              "description": "gmh5225/awesome-llvm-security",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "awesome llvm security [Welcome to PR]",
-                "homepage": null,
-                "id": 446452352,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2026-10-01T10:11:31Z",
-                "open_issues": 0,
-                "owner": "gmh5225",
-                "repo": "awesome-llvm-security",
-                "stars": 882,
-                "topics": [
-                  "awesome",
-                  "c",
-                  "clang",
-                  "compiler",
-                  "driver",
-                  "jit",
-                  "llvm",
-                  "msvc",
-                  "obfuscate",
-                  "ollvm",
-                  "reverse-engineering",
-                  "security",
-                  "static-analysis",
-                  "windows",
-                  "windowsdriver",
-                  "x86-64"
                 ]
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -165,7 +165,7 @@
             "open_issues": 89,
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13436,
+            "stars": 13439,
             "topics": [
               "malware",
               "malware-analysis",
@@ -245,7 +245,7 @@
             "open_issues": 14,
             "owner": "sophos",
             "repo": "SOREL-20M",
-            "stars": 709,
+            "stars": 708,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -287,7 +287,7 @@
             "open_issues": 2,
             "owner": "whyisyoung",
             "repo": "BODMAS",
-            "stars": 98,
+            "stars": 97,
             "topics": [
               "malware",
               "malware-dataset",
@@ -1597,11 +1597,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-03T16:12:07Z",
-            "open_issues": 751,
+            "last_commit": "2026-10-04T16:52:31Z",
+            "open_issues": 752,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9123,
+            "stars": 9124,
             "topics": [
               "analysis",
               "angr",
@@ -1691,11 +1691,11 @@
             "id": 85205851,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T14:29:48Z",
+            "last_commit": "2026-10-04T16:09:58Z",
             "open_issues": 31,
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5579,
+            "stars": 5581,
             "topics": [
               "android",
               "art",
@@ -1765,11 +1765,11 @@
             "id": 25164176,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-02T22:44:38Z",
+            "last_commit": "2026-10-04T06:40:32Z",
             "open_issues": 14,
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 3284,
+            "stars": 3287,
             "topics": [
               "binary-analysis",
               "disassembler",
@@ -1864,7 +1864,7 @@
             "open_issues": 84,
             "owner": "rednaga",
             "repo": "APKiD",
-            "stars": 2587,
+            "stars": 2591,
             "topics": [
               "android",
               "android-protect-apps",
@@ -2132,7 +2132,7 @@
             "id": 279035005,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-03T13:18:48Z",
+            "last_commit": "2026-10-04T15:59:27Z",
             "open_issues": 16,
             "owner": "m417z",
             "repo": "winbindex",
@@ -2270,7 +2270,7 @@
             "open_issues": 14,
             "owner": "endgameinc",
             "repo": "gym-malware",
-            "stars": 636,
+            "stars": 637,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2291,7 +2291,7 @@
             "open_issues": 26,
             "owner": "guelfoweb",
             "repo": "peframe",
-            "stars": 629,
+            "stars": 628,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2380,7 +2380,7 @@
             "open_issues": 3,
             "owner": "BromiumLabs",
             "repo": "PackerAttacker",
-            "stars": 274,
+            "stars": 275,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2496,7 +2496,7 @@
             "open_issues": 0,
             "owner": "packing-box",
             "repo": "peid",
-            "stars": 151,
+            "stars": 150,
             "topics": [
               "binary-analysis",
               "entrypoint",
@@ -2948,7 +2948,7 @@
             "open_issues": 2,
             "owner": "FFRI",
             "repo": "pypeid",
-            "stars": 7,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -3062,7 +3062,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T19:46:48.415Z",
+    "last_updated": "2026-10-04T20:03:45.280Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",
@@ -3074,7 +3074,7 @@
       "open_issues": 2,
       "owner": "packing-box",
       "repo": "awesome-executable-packing",
-      "stars": 1624,
+      "stars": 1625,
       "topics": [
         "awesome",
         "awesome-list",
