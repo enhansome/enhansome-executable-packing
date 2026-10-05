@@ -7,6 +7,32 @@
           "children": [
             {
               "node_type": "item",
+              "title": ":earth_americas: Mach-O file format reference",
+              "description": "aidansteele/osx-abi-macho-file-format-reference",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Mirror of OS X ABI Mach-O File Format Reference",
+                "homepage": null,
+                "id": 71191443,
+                "language": null,
+                "license": null,
+                "last_commit": "2024-10-13T04:06:23Z",
+                "open_issues": 3,
+                "owner": "aidansteele",
+                "repo": "osx-abi-macho-file-format-reference",
+                "stars": 884,
+                "topics": [
+                  "abi",
+                  "apple",
+                  "mach-o",
+                  "osx"
+                ]
+              },
+              "first_seen": "2026-08-29T00:56:28.356Z"
+            },
+            {
+              "node_type": "item",
               "title": ":earth_americas: Awesome LLVM security",
               "description": "gmh5225/awesome-llvm-security",
               "children": [],
@@ -45,37 +71,11 @@
             },
             {
               "node_type": "item",
-              "title": ":earth_americas: Mach-O file format reference",
-              "description": "aidansteele/osx-abi-macho-file-format-reference",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Mirror of OS X ABI Mach-O File Format Reference",
-                "homepage": null,
-                "id": 71191443,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-10-13T04:06:23Z",
-                "open_issues": 3,
-                "owner": "aidansteele",
-                "repo": "osx-abi-macho-file-format-reference",
-                "stars": 883,
-                "topics": [
-                  "abi",
-                  "apple",
-                  "mach-o",
-                  "osx"
-                ]
-              },
-              "first_seen": "2026-08-29T00:56:28.356Z"
-            },
-            {
-              "node_type": "item",
               "title": ":earth_americas: OllyDbg OEP finder scripts",
               "description": "dubuqingfeng/ollydbg-script",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "some ollydbg scripts.",
                 "homepage": null,
                 "id": 46644419,
@@ -193,7 +193,7 @@
             "open_issues": 1,
             "owner": "jstrosch",
             "repo": "malware-samples",
-            "stars": 1685,
+            "stars": 1684,
             "topics": [
               "azorult",
               "emotet",
@@ -605,7 +605,7 @@
                 "open_issues": 4,
                 "owner": "mgeeky",
                 "repo": "ProtectMyTooling",
-                "stars": 1103,
+                "stars": 1102,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -849,7 +849,7 @@
                 "open_issues": 2,
                 "owner": "iamsopotatoe-coder",
                 "repo": "TinyLoad",
-                "stars": 195,
+                "stars": 196,
                 "topics": [
                   "anti-analysis",
                   "av-edr-bypass",
@@ -1597,11 +1597,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-04T16:52:31Z",
-            "open_issues": 752,
+            "last_commit": "2026-10-05T23:02:55Z",
+            "open_issues": 760,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9124,
+            "stars": 9126,
             "topics": [
               "analysis",
               "angr",
@@ -1623,10 +1623,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-05-26T09:04:25Z",
-            "open_issues": 458,
+            "open_issues": 464,
             "owner": "avast",
             "repo": "retdec",
-            "stars": 8636,
+            "stars": 8639,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1647,7 +1647,7 @@
             "open_issues": 9,
             "owner": "de4dot",
             "repo": "de4dot",
-            "stars": 7432,
+            "stars": 7431,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1664,11 +1664,11 @@
             "id": 272815213,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T14:43:31Z",
-            "open_issues": 309,
+            "last_commit": "2026-10-05T14:43:20Z",
+            "open_issues": 311,
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6208,
+            "stars": 6212,
             "topics": [
               "binary-analysis",
               "gsoc-2026",
@@ -1736,7 +1736,7 @@
             "open_issues": 36,
             "owner": "JonathanSalwan",
             "repo": "Triton",
-            "stars": 4316,
+            "stars": 4318,
             "topics": [
               "binary-analysis",
               "binary-translation",
@@ -1765,11 +1765,11 @@
             "id": 25164176,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-04T06:40:32Z",
+            "last_commit": "2026-10-05T21:31:44Z",
             "open_issues": 14,
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 3287,
+            "stars": 3290,
             "topics": [
               "binary-analysis",
               "disassembler",
@@ -1798,11 +1798,11 @@
             "id": 12330872,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T17:31:22Z",
+            "last_commit": "2026-10-05T11:27:47Z",
             "open_issues": 97,
             "owner": "panda-re",
             "repo": "panda",
-            "stars": 2782,
+            "stars": 2783,
             "topics": [
               "dynamic-analysis",
               "pandare",
@@ -2086,7 +2086,7 @@
             "open_issues": 8,
             "owner": "ExeinfoASL",
             "repo": "ASL",
-            "stars": 1153,
+            "stars": 1154,
             "topics": [
               "detector",
               "exeinfo"
@@ -2132,7 +2132,7 @@
             "id": 279035005,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-04T15:59:27Z",
+            "last_commit": "2026-10-05T16:38:21Z",
             "open_issues": 16,
             "owner": "m417z",
             "repo": "winbindex",
@@ -2184,7 +2184,7 @@
             "open_issues": 16,
             "owner": "mentebinaria",
             "repo": "readpe",
-            "stars": 788,
+            "stars": 789,
             "topics": [
               "binary-analysis",
               "malware-analysis",
@@ -2533,7 +2533,7 @@
             "open_issues": 1,
             "owner": "adamhlt",
             "repo": "Cave-Finder",
-            "stars": 79,
+            "stars": 78,
             "topics": [
               "codecave",
               "cpp",
@@ -3062,7 +3062,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T20:03:45.280Z",
+    "last_updated": "2026-10-05T23:06:59.479Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",
@@ -3074,7 +3074,7 @@
       "open_issues": 2,
       "owner": "packing-box",
       "repo": "awesome-executable-packing",
-      "stars": 1625,
+      "stars": 1626,
       "topics": [
         "awesome",
         "awesome-list",
