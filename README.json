@@ -165,7 +165,7 @@
             "open_issues": 89,
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13439,
+            "stars": 13440,
             "topics": [
               "malware",
               "malware-analysis",
@@ -1597,7 +1597,7 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-05T23:02:55Z",
+            "last_commit": "2026-10-06T10:15:14Z",
             "open_issues": 760,
             "owner": "angr",
             "repo": "angr",
@@ -1647,7 +1647,7 @@
             "open_issues": 9,
             "owner": "de4dot",
             "repo": "de4dot",
-            "stars": 7431,
+            "stars": 7430,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1664,11 +1664,11 @@
             "id": 272815213,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T14:43:20Z",
-            "open_issues": 311,
+            "last_commit": "2026-10-06T08:52:35Z",
+            "open_issues": 313,
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6212,
+            "stars": 6213,
             "topics": [
               "binary-analysis",
               "gsoc-2026",
@@ -1736,7 +1736,7 @@
             "open_issues": 36,
             "owner": "JonathanSalwan",
             "repo": "Triton",
-            "stars": 4318,
+            "stars": 4317,
             "topics": [
               "binary-analysis",
               "binary-translation",
@@ -1897,7 +1897,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-18T14:40:10Z",
-            "open_issues": 63,
+            "open_issues": 67,
             "owner": "erocarrera",
             "repo": "pefile",
             "stars": 2074,
@@ -1921,7 +1921,7 @@
             "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1815,
+            "stars": 1816,
             "topics": [
               "malware",
               "malware-analysis",
@@ -1980,7 +1980,7 @@
             "open_issues": 1,
             "owner": "NotPrab",
             "repo": ".NET-Deobfuscator",
-            "stars": 1520,
+            "stars": 1521,
             "topics": [
               "deobfuscator",
               "dnlib",
@@ -2157,7 +2157,7 @@
             "open_issues": 1,
             "owner": "hasherezade",
             "repo": "mal_unpack",
-            "stars": 842,
+            "stars": 841,
             "topics": [
               "libpeconv",
               "malware-analysis",
@@ -3062,7 +3062,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T23:06:59.479Z",
+    "last_updated": "2026-10-06T10:17:00.286Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",

@@ -458,7 +458,7 @@
 
 ## :bookmark\_tabs: Datasets
 
-* [theZoo](https://github.com/ytisf/theZoo) ⭐ 13,439 | 🐛 89 | 🌐 Python | 📅 2026-09-14 - Project created to make the possibility of malware analysis open and available to the public.
+* [theZoo](https://github.com/ytisf/theZoo) ⭐ 13,440 | 🐛 89 | 🌐 Python | 📅 2026-09-14 - Project created to make the possibility of malware analysis open and available to the public.
 * [Malware Archive](https://github.com/jstrosch/malware-samples) ⭐ 1,684 | 🐛 1 | 🌐 HTML | 📅 2024-01-13 - Malware samples, analysis exercises and other interesting resources.
 * [Ember](https://github.com/elastic/ember) ⚠️ Archived - Collection of features from PE files that serve as a benchmark dataset for researchers.
 * [SOREL](https://github.com/sophos-ai/SOREL-20M) ⭐ 708 | 🐛 14 | 🌐 Python | 📅 2021-04-07 - Sophos-ReversingLabs 20 Million dataset.
@@ -706,27 +706,27 @@
 
 ## :wrench: Tools
 
-* [Angr](https://github.com/angr/angr) ⭐ 9,126 | 🐛 760 | 🌐 Python | 📅 2026-10-05 - Platform-agnostic binary analysis framework.
+* [Angr](https://github.com/angr/angr) ⭐ 9,126 | 🐛 760 | 🌐 Python | 📅 2026-10-06 - Platform-agnostic binary analysis framework.
 * [RetDec](https://github.com/avast/retdec) ⭐ 8,639 | 🐛 464 | 🌐 C++ | 📅 2026-05-26 - Retargetable machine-code decompiler based on LLVM.
 * [de4dot](https://github.com/0xd4d/de4dot) ⚠️ Archived - .NET deobfuscator and unpacker.
-* [Capa](https://github.com/mandiant/capa) ⭐ 6,212 | 🐛 311 | 🌐 Python | 📅 2026-10-05 - Open-source tool to identify capabilities in PE, ELF or .NET executable files.
+* [Capa](https://github.com/mandiant/capa) ⭐ 6,213 | 🐛 313 | 🌐 Python | 📅 2026-10-06 - Open-source tool to identify capabilities in PE, ELF or .NET executable files.
 * [LIEF](https://github.com/lief-project/LIEF) ⭐ 5,581 | 🐛 31 | 🌐 C++ | 📅 2026-10-04 - Library to Instrument Executable Formats ; Python package for parsing PE, ELF, Mach-O and DEX formats, modifying and rebuilding executables.
-* [Triton](https://github.com/jonathansalwan/Triton) ⭐ 4,318 | 🐛 36 | 🌐 C++ | 📅 2026-09-18 - Dynamic binary analysis library.
+* [Triton](https://github.com/jonathansalwan/Triton) ⭐ 4,317 | 🐛 36 | 🌐 C++ | 📅 2026-09-18 - Dynamic binary analysis library.
 * [DIE](https://github.com/horsicq/DIE-engine/releases) ⭐ 3,290 | 🐛 14 | 🌐 C++ | 📅 2026-10-05 - Detect It Easy ; Program for determining types of files.
 * [PANDA](https://github.com/panda-re/panda) ⭐ 2,783 | 🐛 97 | 🌐 C | 📅 2026-10-05 - Platform for Architecture-Neutral Dynamic Analysis.
 * [Reko](https://github.com/uxmal/reko) ⭐ 2,608 | 🐛 165 | 🌐 C# | 📅 2026-09-29 - Free decompiler for machine code binaries.
 * [APKiD](https://github.com/rednaga/APKiD) ⭐ 2,591 | 🐛 84 | 🌐 YARA | 📅 2026-09-02 - Android application Identifier for packers, protectors, obfuscators and oddities - PEiD for Android.
-* [Pefile](https://github.com/erocarrera/pefile) ⭐ 2,074 | 🐛 63 | 🌐 Python | 📅 2026-09-18 - Multi-platform Python module to parse and work with Portable Executable files.
-* [yarGen](https://github.com/Neo23x0/yarGen) ⭐ 1,815 | 🐛 14 | 🌐 Python | 📅 2026-01-10 - Generator for YARA rules - The main principle is the creation of yara rules from strings found in malware files while removing all strings that also appear in goodware files.
+* [Pefile](https://github.com/erocarrera/pefile) ⭐ 2,074 | 🐛 67 | 🌐 Python | 📅 2026-09-18 - Multi-platform Python module to parse and work with Portable Executable files.
+* [yarGen](https://github.com/Neo23x0/yarGen) ⭐ 1,816 | 🐛 14 | 🌐 Python | 📅 2026-01-10 - Generator for YARA rules - The main principle is the creation of yara rules from strings found in malware files while removing all strings that also appear in goodware files.
 * [de4js](https://github.com/lelinhtinh/de4js) ⚠️ Archived - JavaScript Deobfuscator and Unpacker.
-* [.NET Deobfuscator](https://github.com/NotPrab/.NET-Deobfuscator) ⭐ 1,520 | 🐛 1 | 📅 2025-02-01 - List of .NET Deobfuscators and Unpackers.
+* [.NET Deobfuscator](https://github.com/NotPrab/.NET-Deobfuscator) ⭐ 1,521 | 🐛 1 | 📅 2025-02-01 - List of .NET Deobfuscators and Unpackers.
 * [PETools](https://github.com/petoolse/petools) ⭐ 1,201 | 🐛 10 | 📅 2025-10-21 - Old-school reverse engineering tool (with a long history since 2002) for manipulating PE files.
 * [Android Unpacker](https://github.com/strazzere/android-unpacker) ⭐ 1,180 | 🐛 0 | 🌐 C | 📅 2020-01-20 - Presented at Defcon 22: Android Hacker Protection Level 0.
 * [IDR](https://github.com/crypto2011/IDR) ⭐ 1,162 | 🐛 43 | 🌐 C++ | 📅 2023-08-09 - Interactive Delphi Reconstructor.
 * [EXEInfo-PE](https://github.com/ExeinfoASL/ASL) ⭐ 1,154 | 🐛 8 | 📅 2026-09-11 - Fast detector for executable PE files.
 * [Manalyze](https://github.com/JusticeRage/Manalyze) ⭐ 1,148 | 🐛 6 | 🌐 YARA | 📅 2026-08-29 - Robust parser for PE files with a flexible plugin architecture which allows users to statically analyze files in-depth.
 * [Winbindex](https://github.com/m417z/winbindex) ⭐ 890 | 🐛 16 | 🌐 Python | 📅 2026-10-05 - An index of Windows binaries, including download links for executables such as EXE, DLL and SYS files.
-* [MalUnpack](https://github.com/hasherezade/mal_unpack) ⭐ 842 | 🐛 1 | 🌐 C | 📅 2026-04-14 - Dynamic unpacker based on PE-sieve.
+* [MalUnpack](https://github.com/hasherezade/mal_unpack) ⭐ 841 | 🐛 1 | 🌐 C | 📅 2026-04-14 - Dynamic unpacker based on PE-sieve.
 * [PEPack](https://github.com/mentebinaria/readpe) ⭐ 789 | 🐛 16 | 🌐 C | 📅 2026-08-25 - PE file packer detection tool, part of the Unix package "pev".
 * [Unipacker](https://github.com/unipacker/unipacker) ⭐ 781 | 🐛 28 | 🌐 Python | 📅 2025-08-18 - Automatic and platform-independent unpacker for Windows binaries based on emulation.
 * [PE-bear](https://github.com/hasherezade/pe-bear-releases) ⭐ 776 | 🐛 9 | 📅 2023-06-04 - Freeware reversing tool for PE files aimed to deliver fast and flexible “first view” for malware analysts, stable and capable to handle malformed PE files.
@@ -833,4 +833,4 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
