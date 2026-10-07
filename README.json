@@ -165,7 +165,7 @@
             "open_issues": 89,
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13443,
+            "stars": 13448,
             "topics": [
               "malware",
               "malware-analysis",
@@ -287,7 +287,7 @@
             "open_issues": 2,
             "owner": "whyisyoung",
             "repo": "BODMAS",
-            "stars": 97,
+            "stars": 98,
             "topics": [
               "malware",
               "malware-dataset",
@@ -527,7 +527,7 @@
                 "open_issues": 9,
                 "owner": "phra",
                 "repo": "PEzor",
-                "stars": 2136,
+                "stars": 2137,
                 "topics": [
                   "antivirus-evasion",
                   "hacktoberfest",
@@ -605,7 +605,7 @@
                 "open_issues": 4,
                 "owner": "mgeeky",
                 "repo": "ProtectMyTooling",
-                "stars": 1102,
+                "stars": 1103,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -626,7 +626,7 @@
                 "open_issues": 5,
                 "owner": "BR903",
                 "repo": "ELFkickers",
-                "stars": 625,
+                "stars": 626,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -694,7 +694,7 @@
                 "open_issues": 0,
                 "owner": "DosX-dev",
                 "repo": "Astral-PE",
-                "stars": 356,
+                "stars": 355,
                 "topics": [
                   "cpp",
                   "cs",
@@ -849,7 +849,7 @@
                 "open_issues": 2,
                 "owner": "iamsopotatoe-coder",
                 "repo": "TinyLoad",
-                "stars": 196,
+                "stars": 197,
                 "topics": [
                   "anti-analysis",
                   "av-edr-bypass",
@@ -1597,11 +1597,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-06T18:08:31Z",
-            "open_issues": 762,
+            "last_commit": "2026-10-07T21:43:49Z",
+            "open_issues": 757,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9127,
+            "stars": 9129,
             "topics": [
               "analysis",
               "angr",
@@ -1626,7 +1626,7 @@
             "open_issues": 464,
             "owner": "avast",
             "repo": "retdec",
-            "stars": 8640,
+            "stars": 8639,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1668,7 +1668,7 @@
             "open_issues": 313,
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6214,
+            "stars": 6215,
             "topics": [
               "binary-analysis",
               "gsoc-2026",
@@ -1695,7 +1695,7 @@
             "open_issues": 31,
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5581,
+            "stars": 5580,
             "topics": [
               "android",
               "art",
@@ -1736,7 +1736,7 @@
             "open_issues": 36,
             "owner": "JonathanSalwan",
             "repo": "Triton",
-            "stars": 4318,
+            "stars": 4320,
             "topics": [
               "binary-analysis",
               "binary-translation",
@@ -1765,11 +1765,11 @@
             "id": 25164176,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-06T14:35:12Z",
+            "last_commit": "2026-10-07T06:31:16Z",
             "open_issues": 14,
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 3290,
+            "stars": 3291,
             "topics": [
               "binary-analysis",
               "disassembler",
@@ -1860,8 +1860,8 @@
             "id": 61825895,
             "language": "YARA",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T18:55:19Z",
-            "open_issues": 85,
+            "last_commit": "2026-10-07T17:17:44Z",
+            "open_issues": 84,
             "owner": "rednaga",
             "repo": "APKiD",
             "stars": 2592,
@@ -1897,10 +1897,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-06T14:51:09Z",
-            "open_issues": 65,
+            "open_issues": 66,
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2074,
+            "stars": 2073,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2065,7 +2065,7 @@
             "open_issues": 43,
             "owner": "crypto2011",
             "repo": "IDR",
-            "stars": 1162,
+            "stars": 1163,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2086,7 +2086,7 @@
             "open_issues": 8,
             "owner": "ExeinfoASL",
             "repo": "ASL",
-            "stars": 1154,
+            "stars": 1155,
             "topics": [
               "detector",
               "exeinfo"
@@ -2132,7 +2132,7 @@
             "id": 279035005,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T15:01:10Z",
+            "last_commit": "2026-10-07T15:58:20Z",
             "open_issues": 16,
             "owner": "m417z",
             "repo": "winbindex",
@@ -2157,7 +2157,7 @@
             "open_issues": 1,
             "owner": "hasherezade",
             "repo": "mal_unpack",
-            "stars": 841,
+            "stars": 842,
             "topics": [
               "libpeconv",
               "malware-analysis",
@@ -2212,7 +2212,7 @@
             "open_issues": 28,
             "owner": "unipacker",
             "repo": "unipacker",
-            "stars": 781,
+            "stars": 782,
             "topics": [
               "debugger",
               "dumper",
@@ -2533,7 +2533,7 @@
             "open_issues": 1,
             "owner": "adamhlt",
             "repo": "Cave-Finder",
-            "stars": 78,
+            "stars": 79,
             "topics": [
               "codecave",
               "cpp",
@@ -3062,7 +3062,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T21:34:31.344Z",
+    "last_updated": "2026-10-07T21:55:37.681Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",
