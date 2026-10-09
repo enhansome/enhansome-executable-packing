@@ -165,7 +165,7 @@
             "open_issues": 89,
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13447,
+            "stars": 13449,
             "topics": [
               "malware",
               "malware-analysis",
@@ -506,7 +506,7 @@
                 "open_issues": 103,
                 "owner": "mkaring",
                 "repo": "ConfuserEx",
-                "stars": 2903,
+                "stars": 2904,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -605,7 +605,7 @@
                 "open_issues": 4,
                 "owner": "mgeeky",
                 "repo": "ProtectMyTooling",
-                "stars": 1103,
+                "stars": 1102,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -766,7 +766,7 @@
                 "open_issues": 1,
                 "owner": "guitmz",
                 "repo": "ezuri",
-                "stars": 275,
+                "stars": 276,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1541,7 +1541,7 @@
                 "open_issues": 0,
                 "owner": "seb3773",
                 "repo": "zelf",
-                "stars": 7,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1597,11 +1597,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-08T21:59:00Z",
-            "open_issues": 767,
+            "last_commit": "2026-10-09T20:15:52Z",
+            "open_issues": 766,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9132,
+            "stars": 9133,
             "topics": [
               "analysis",
               "angr",
@@ -1626,7 +1626,7 @@
             "open_issues": 458,
             "owner": "avast",
             "repo": "retdec",
-            "stars": 8640,
+            "stars": 8642,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1647,7 +1647,7 @@
             "open_issues": 9,
             "owner": "de4dot",
             "repo": "de4dot",
-            "stars": 7431,
+            "stars": 7430,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1664,11 +1664,11 @@
             "id": 272815213,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T08:32:38Z",
-            "open_issues": 313,
+            "last_commit": "2026-10-09T12:08:07Z",
+            "open_issues": 314,
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6219,
+            "stars": 6220,
             "topics": [
               "binary-analysis",
               "gsoc-2026",
@@ -1765,11 +1765,11 @@
             "id": 25164176,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-08T14:44:39Z",
+            "last_commit": "2026-10-09T06:41:13Z",
             "open_issues": 14,
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 3293,
+            "stars": 3297,
             "topics": [
               "binary-analysis",
               "disassembler",
@@ -1798,11 +1798,11 @@
             "id": 12330872,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T11:27:47Z",
+            "last_commit": "2026-10-09T20:51:57Z",
             "open_issues": 97,
             "owner": "panda-re",
             "repo": "panda",
-            "stars": 2783,
+            "stars": 2784,
             "topics": [
               "dynamic-analysis",
               "pandare",
@@ -1825,11 +1825,11 @@
             "id": 39718308,
             "language": "C#",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-29T00:11:28Z",
+            "last_commit": "2026-10-09T09:22:20Z",
             "open_issues": 165,
             "owner": "uxmal",
             "repo": "reko",
-            "stars": 2608,
+            "stars": 2611,
             "topics": [
               "aarch64",
               "arm",
@@ -1861,7 +1861,7 @@
             "language": "YARA",
             "license": "NOASSERTION",
             "last_commit": "2026-10-07T17:17:44Z",
-            "open_issues": 86,
+            "open_issues": 88,
             "owner": "rednaga",
             "repo": "APKiD",
             "stars": 2593,
@@ -1896,7 +1896,7 @@
             "id": 33870982,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-06T14:51:09Z",
+            "last_commit": "2026-10-09T12:41:25Z",
             "open_issues": 66,
             "owner": "erocarrera",
             "repo": "pefile",
@@ -1980,7 +1980,7 @@
             "open_issues": 1,
             "owner": "NotPrab",
             "repo": ".NET-Deobfuscator",
-            "stars": 1521,
+            "stars": 1522,
             "topics": [
               "deobfuscator",
               "dnlib",
@@ -2132,11 +2132,11 @@
             "id": 279035005,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-08T15:39:58Z",
+            "last_commit": "2026-10-09T15:50:24Z",
             "open_issues": 16,
             "owner": "m417z",
             "repo": "winbindex",
-            "stars": 890,
+            "stars": 891,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -3062,7 +3062,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T21:59:15.217Z",
+    "last_updated": "2026-10-09T21:35:00.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",
