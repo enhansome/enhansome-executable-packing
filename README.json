@@ -165,7 +165,7 @@
             "open_issues": 89,
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13449,
+            "stars": 13454,
             "topics": [
               "malware",
               "malware-analysis",
@@ -584,7 +584,7 @@
                 "open_issues": 6,
                 "owner": "runestubbe",
                 "repo": "Crinkler",
-                "stars": 1296,
+                "stars": 1297,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -940,7 +940,7 @@
                 "open_issues": 6,
                 "owner": "SilentVoid13",
                 "repo": "Silent_Packer",
-                "stars": 122,
+                "stars": 121,
                 "topics": [
                   "c",
                   "elf-packer",
@@ -1055,6 +1055,40 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
+            },
+            {
+              "node_type": "item",
+              "title": "HimitsuShell",
+              "description": "A shell script protector that converts shell scripts into binaries with an embedded interpreter, obfuscation, and anti-debug protections (shc alternative).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "shell script protector (obfuscation, embedded interpreter, DRM) - invisible to kernel tracing",
+                "homepage": "https://himitsushell.com/",
+                "id": 1169269856,
+                "language": "Shell",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-23T06:24:16Z",
+                "open_issues": 0,
+                "owner": "HimitsuShell",
+                "repo": "HimitsuShell",
+                "stars": 68,
+                "topics": [
+                  "bash",
+                  "compiler",
+                  "drm",
+                  "encryption",
+                  "iot",
+                  "llvm",
+                  "musl",
+                  "obfuscator",
+                  "protection",
+                  "shc",
+                  "shell",
+                  "shell-script"
+                ]
+              },
+              "first_seen": "2026-10-10T20:32:29.996Z"
             },
             {
               "node_type": "item",
@@ -1407,7 +1441,7 @@
             {
               "node_type": "item",
               "title": "LZPACK",
-              "description": "LZPACK - PopCom!-compatible CP/M-80 executable compressor in ANSI C, runs on 48K CP/M-80, CP/M-86, MS-DOS, UNIX, and other platforms.",
+              "description": "PopCom!-compatible CP/M-80 executable compressor in ANSI C, runs on 48K CP/M-80, CP/M-86, MS-DOS, UNIX, and other platforms.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1597,11 +1631,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-09T20:15:52Z",
-            "open_issues": 766,
+            "last_commit": "2026-10-10T16:06:51Z",
+            "open_issues": 769,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9133,
+            "stars": 9137,
             "topics": [
               "analysis",
               "angr",
@@ -1626,7 +1660,7 @@
             "open_issues": 458,
             "owner": "avast",
             "repo": "retdec",
-            "stars": 8642,
+            "stars": 8643,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1647,7 +1681,7 @@
             "open_issues": 9,
             "owner": "de4dot",
             "repo": "de4dot",
-            "stars": 7430,
+            "stars": 7429,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1668,7 +1702,7 @@
             "open_issues": 314,
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6220,
+            "stars": 6223,
             "topics": [
               "binary-analysis",
               "gsoc-2026",
@@ -1691,11 +1725,11 @@
             "id": 85205851,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T16:09:58Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-10T05:38:28Z",
+            "open_issues": 30,
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5580,
+            "stars": 5582,
             "topics": [
               "android",
               "art",
@@ -1736,7 +1770,7 @@
             "open_issues": 36,
             "owner": "JonathanSalwan",
             "repo": "Triton",
-            "stars": 4321,
+            "stars": 4323,
             "topics": [
               "binary-analysis",
               "binary-translation",
@@ -1864,7 +1898,7 @@
             "open_issues": 88,
             "owner": "rednaga",
             "repo": "APKiD",
-            "stars": 2593,
+            "stars": 2594,
             "topics": [
               "android",
               "android-protect-apps",
@@ -1896,8 +1930,8 @@
             "id": 33870982,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-09T12:41:25Z",
-            "open_issues": 66,
+            "last_commit": "2026-10-10T12:55:36Z",
+            "open_issues": 67,
             "owner": "erocarrera",
             "repo": "pefile",
             "stars": 2073,
@@ -2132,11 +2166,11 @@
             "id": 279035005,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-09T15:50:24Z",
+            "last_commit": "2026-10-10T15:29:31Z",
             "open_issues": 16,
             "owner": "m417z",
             "repo": "winbindex",
-            "stars": 891,
+            "stars": 893,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2306,10 +2340,10 @@
             "description": "Java library to analyse Portable Executable files with a special focus on malware analysis and PE malformation robustness",
             "homepage": null,
             "id": 13143236,
-            "language": "Scala",
+            "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-04-03T02:53:29Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-10T19:35:13Z",
+            "open_issues": 0,
             "owner": "struppigel",
             "repo": "PortEx",
             "stars": 538,
@@ -2955,6 +2989,27 @@
         },
         {
           "node_type": "item",
+          "title": "XVolkolak",
+          "description": "Qt/CMake emulator-unpacker project with a GUI and a console application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "XVolkolak an unpacker emulator",
+            "homepage": null,
+            "id": 1323200485,
+            "language": "C++",
+            "license": "MIT",
+            "last_commit": "2026-10-09T12:32:21Z",
+            "open_issues": 0,
+            "owner": "horsicq",
+            "repo": "XVolkolak",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-10-10T20:32:29.996Z"
+        },
+        {
+          "node_type": "item",
           "title": "DSFF",
           "description": "DataSet File Format for exchanging datasets and converting to ARFF (for use with Weka), CSV or Packing-Box's dataset structure.",
           "children": [],
@@ -3062,7 +3117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T21:35:00.313Z",
+    "last_updated": "2026-10-10T20:32:29.996Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",
@@ -3070,8 +3125,8 @@
       "id": 432715698,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-05-31T10:23:25Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-10T12:49:13Z",
+      "open_issues": 0,
       "owner": "packing-box",
       "repo": "awesome-executable-packing",
       "stars": 1626,
@@ -3092,7 +3147,7 @@
         "security"
       ]
     },
-    "original_repository_sha": "ae1a476586df715abe168549aefbc8695474d21c",
+    "original_repository_sha": "9e41a9b10b45535c1278259129ec8eaf287b8a42",
     "enhanced_repository": "enhansome/enhansome-executable-packing",
     "enhanced_repository_description": null,
     "title": "Awesome Executable Packing with stars"
