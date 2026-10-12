@@ -7,6 +7,44 @@
           "children": [
             {
               "node_type": "item",
+              "title": ":earth_americas: Awesome LLVM security",
+              "description": "gmh5225/awesome-llvm-security",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "awesome llvm security [Welcome to PR]",
+                "homepage": null,
+                "id": 446452352,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2026-10-01T10:11:31Z",
+                "open_issues": 0,
+                "owner": "gmh5225",
+                "repo": "awesome-llvm-security",
+                "stars": 884,
+                "topics": [
+                  "awesome",
+                  "c",
+                  "clang",
+                  "compiler",
+                  "driver",
+                  "jit",
+                  "llvm",
+                  "msvc",
+                  "obfuscate",
+                  "ollvm",
+                  "reverse-engineering",
+                  "security",
+                  "static-analysis",
+                  "windows",
+                  "windowsdriver",
+                  "x86-64"
+                ]
+              },
+              "first_seen": "2026-08-29T00:56:28.356Z"
+            },
+            {
+              "node_type": "item",
               "title": ":earth_americas: Mach-O file format reference",
               "description": "aidansteele/osx-abi-macho-file-format-reference",
               "children": [],
@@ -27,44 +65,6 @@
                   "apple",
                   "mach-o",
                   "osx"
-                ]
-              },
-              "first_seen": "2026-08-29T00:56:28.356Z"
-            },
-            {
-              "node_type": "item",
-              "title": ":earth_americas: Awesome LLVM security",
-              "description": "gmh5225/awesome-llvm-security",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "awesome llvm security [Welcome to PR]",
-                "homepage": null,
-                "id": 446452352,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2026-10-01T10:11:31Z",
-                "open_issues": 0,
-                "owner": "gmh5225",
-                "repo": "awesome-llvm-security",
-                "stars": 883,
-                "topics": [
-                  "awesome",
-                  "c",
-                  "clang",
-                  "compiler",
-                  "driver",
-                  "jit",
-                  "llvm",
-                  "msvc",
-                  "obfuscate",
-                  "ollvm",
-                  "reverse-engineering",
-                  "security",
-                  "static-analysis",
-                  "windows",
-                  "windowsdriver",
-                  "x86-64"
                 ]
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -165,7 +165,7 @@
             "open_issues": 89,
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13456,
+            "stars": 13458,
             "topics": [
               "malware",
               "malware-analysis",
@@ -193,7 +193,7 @@
             "open_issues": 1,
             "owner": "jstrosch",
             "repo": "malware-samples",
-            "stars": 1685,
+            "stars": 1688,
             "topics": [
               "azorult",
               "emotet",
@@ -224,7 +224,7 @@
             "open_issues": 40,
             "owner": "elastic",
             "repo": "ember",
-            "stars": 1169,
+            "stars": 1170,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -506,7 +506,7 @@
                 "open_issues": 103,
                 "owner": "mkaring",
                 "repo": "ConfuserEx",
-                "stars": 2902,
+                "stars": 2901,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -527,7 +527,7 @@
                 "open_issues": 9,
                 "owner": "phra",
                 "repo": "PEzor",
-                "stars": 2138,
+                "stars": 2139,
                 "topics": [
                   "antivirus-evasion",
                   "hacktoberfest",
@@ -605,7 +605,7 @@
                 "open_issues": 4,
                 "owner": "mgeeky",
                 "repo": "ProtectMyTooling",
-                "stars": 1102,
+                "stars": 1103,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -694,7 +694,7 @@
                 "open_issues": 0,
                 "owner": "DosX-dev",
                 "repo": "Astral-PE",
-                "stars": 355,
+                "stars": 356,
                 "topics": [
                   "cpp",
                   "cs",
@@ -734,7 +734,7 @@
                 "open_issues": 3,
                 "owner": "89luca89",
                 "repo": "pakkero",
-                "stars": 278,
+                "stars": 280,
                 "topics": [
                   "compression",
                   "elf",
@@ -849,7 +849,7 @@
                 "open_issues": 2,
                 "owner": "iamsopotatoe-coder",
                 "repo": "TinyLoad",
-                "stars": 198,
+                "stars": 200,
                 "topics": [
                   "anti-analysis",
                   "av-edr-bypass",
@@ -1072,7 +1072,7 @@
                 "open_issues": 0,
                 "owner": "HimitsuShell",
                 "repo": "HimitsuShell",
-                "stars": 69,
+                "stars": 70,
                 "topics": [
                   "bash",
                   "compiler",
@@ -1381,7 +1381,7 @@
                 "open_issues": 0,
                 "owner": "Enelg52",
                 "repo": "Backpack",
-                "stars": 17,
+                "stars": 18,
                 "topics": [
                   "av-bypass",
                   "av-evasion",
@@ -1631,11 +1631,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-11T15:04:38Z",
-            "open_issues": 782,
+            "last_commit": "2026-10-12T23:31:40Z",
+            "open_issues": 781,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9140,
+            "stars": 9146,
             "topics": [
               "analysis",
               "angr",
@@ -1660,7 +1660,7 @@
             "open_issues": 458,
             "owner": "avast",
             "repo": "retdec",
-            "stars": 8643,
+            "stars": 8645,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1702,7 +1702,7 @@
             "open_issues": 314,
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6224,
+            "stars": 6228,
             "topics": [
               "binary-analysis",
               "gsoc-2026",
@@ -1729,7 +1729,7 @@
             "open_issues": 30,
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5584,
+            "stars": 5586,
             "topics": [
               "android",
               "art",
@@ -1766,11 +1766,11 @@
             "id": 29811166,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T05:57:12Z",
-            "open_issues": 36,
+            "last_commit": "2026-10-12T05:16:58Z",
+            "open_issues": 35,
             "owner": "JonathanSalwan",
             "repo": "Triton",
-            "stars": 4325,
+            "stars": 4327,
             "topics": [
               "binary-analysis",
               "binary-translation",
@@ -1799,11 +1799,11 @@
             "id": 25164176,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-11T08:23:17Z",
+            "last_commit": "2026-10-12T10:30:55Z",
             "open_issues": 14,
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 3301,
+            "stars": 3306,
             "topics": [
               "binary-analysis",
               "disassembler",
@@ -1836,7 +1836,7 @@
             "open_issues": 97,
             "owner": "panda-re",
             "repo": "panda",
-            "stars": 2784,
+            "stars": 2786,
             "topics": [
               "dynamic-analysis",
               "pandare",
@@ -1863,7 +1863,7 @@
             "open_issues": 165,
             "owner": "uxmal",
             "repo": "reko",
-            "stars": 2612,
+            "stars": 2613,
             "topics": [
               "aarch64",
               "arm",
@@ -1930,11 +1930,11 @@
             "id": 33870982,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-11T15:13:50Z",
+            "last_commit": "2026-10-12T09:26:43Z",
             "open_issues": 66,
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2075,
+            "stars": 2076,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2041,7 +2041,7 @@
             "open_issues": 10,
             "owner": "petoolse",
             "repo": "petools",
-            "stars": 1201,
+            "stars": 1200,
             "topics": [
               "analysis",
               "disassembler",
@@ -2166,7 +2166,7 @@
             "id": 279035005,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-11T15:49:08Z",
+            "last_commit": "2026-10-12T17:48:54Z",
             "open_issues": 16,
             "owner": "m417z",
             "repo": "winbindex",
@@ -2346,7 +2346,7 @@
             "open_issues": 0,
             "owner": "struppigel",
             "repo": "PortEx",
-            "stars": 538,
+            "stars": 539,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2367,7 +2367,7 @@
             "open_issues": 4,
             "owner": "malicialab",
             "repo": "avclass",
-            "stars": 487,
+            "stars": 489,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -3117,7 +3117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T20:54:11.451Z",
+    "last_updated": "2026-10-12T23:34:47.689Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",
@@ -3129,7 +3129,7 @@
       "open_issues": 0,
       "owner": "packing-box",
       "repo": "awesome-executable-packing",
-      "stars": 1627,
+      "stars": 1628,
       "topics": [
         "awesome",
         "awesome-list",
