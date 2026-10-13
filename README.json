@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "gmh5225",
                 "repo": "awesome-llvm-security",
-                "stars": 884,
+                "stars": 885,
                 "topics": [
                   "awesome",
                   "c",
@@ -165,7 +165,7 @@
             "open_issues": 89,
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13458,
+            "stars": 13465,
             "topics": [
               "malware",
               "malware-analysis",
@@ -193,7 +193,7 @@
             "open_issues": 1,
             "owner": "jstrosch",
             "repo": "malware-samples",
-            "stars": 1688,
+            "stars": 1689,
             "topics": [
               "azorult",
               "emotet",
@@ -245,7 +245,7 @@
             "open_issues": 14,
             "owner": "sophos",
             "repo": "SOREL-20M",
-            "stars": 708,
+            "stars": 709,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -266,7 +266,7 @@
             "open_issues": 14,
             "owner": "FutureComputing4AI",
             "repo": "EMBER2024",
-            "stars": 157,
+            "stars": 158,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -397,7 +397,7 @@
             "open_issues": 0,
             "owner": "apuromafo",
             "repo": "RCE_Lab",
-            "stars": 44,
+            "stars": 45,
             "topics": [
               "assembly",
               "crackme",
@@ -506,7 +506,7 @@
                 "open_issues": 103,
                 "owner": "mkaring",
                 "repo": "ConfuserEx",
-                "stars": 2901,
+                "stars": 2902,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -668,52 +668,12 @@
                 "open_issues": 5,
                 "owner": "czs108",
                 "repo": "Windows-PE-Packer",
-                "stars": 367,
+                "stars": 368,
                 "topics": [
                   "pe",
                   "reverse-engineering",
                   "security",
                   "windows"
-                ]
-              },
-              "first_seen": "2026-08-29T00:56:28.356Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Astral-PE",
-              "description": "Low-level mutator (Headers/EP obfuscator) for native Windows PE files (x32/x64).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Astral-PE is a low-level mutator (Headers/EP obfuscator) for native Windows PE files (x32/x64)",
-                "homepage": "https://dosx.su",
-                "id": 955385016,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2025-04-26T07:22:57Z",
-                "open_issues": 0,
-                "owner": "DosX-dev",
-                "repo": "Astral-PE",
-                "stars": 356,
-                "topics": [
-                  "cpp",
-                  "cs",
-                  "cybersecurity",
-                  "dotnet",
-                  "hacktoberfest",
-                  "infosec",
-                  "low-level",
-                  "low-level-programming",
-                  "malware-analysis",
-                  "mutator",
-                  "native",
-                  "obfuscation",
-                  "obfuscator",
-                  "pe",
-                  "pentest",
-                  "reverse-engineering",
-                  "security",
-                  "static-analysis"
                 ]
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -734,7 +694,7 @@
                 "open_issues": 3,
                 "owner": "89luca89",
                 "repo": "pakkero",
-                "stars": 280,
+                "stars": 281,
                 "topics": [
                   "compression",
                   "elf",
@@ -766,49 +726,8 @@
                 "open_issues": 1,
                 "owner": "guitmz",
                 "repo": "ezuri",
-                "stars": 275,
+                "stars": 276,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T00:56:28.356Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ASM Guard",
-              "description": "Packer utility for compressing and complicating reversing compiled native code (native files), protecting resources, adding DRM, and packing into an optimized loader.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Packer utility for compressing and complicating reversing compiled native code (native files), protecting resources, adding DRM, and packing into an optimized loader.",
-                "homepage": "https://dosx.su",
-                "id": 600800413,
-                "language": null,
-                "license": "NOASSERTION",
-                "last_commit": "2024-02-20T20:14:30Z",
-                "open_issues": 0,
-                "owner": "DosX-dev",
-                "repo": "ASM-Guard",
-                "stars": 270,
-                "topics": [
-                  "32-bit",
-                  "64-bit",
-                  "asm",
-                  "asmx86",
-                  "compressor",
-                  "confuser",
-                  "detect",
-                  "easy",
-                  "free",
-                  "it",
-                  "native",
-                  "obfuscator",
-                  "packer",
-                  "petite",
-                  "protect",
-                  "protected",
-                  "protector",
-                  "reverse",
-                  "upx"
-                ]
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
             },
@@ -828,7 +747,7 @@
                 "open_issues": 6,
                 "owner": "arisada",
                 "repo": "midgetpack",
-                "stars": 209,
+                "stars": 210,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -849,7 +768,7 @@
                 "open_issues": 2,
                 "owner": "iamsopotatoe-coder",
                 "repo": "TinyLoad",
-                "stars": 200,
+                "stars": 201,
                 "topics": [
                   "anti-analysis",
                   "av-edr-bypass",
@@ -919,7 +838,7 @@
                 "open_issues": 1,
                 "owner": "droberson",
                 "repo": "ELFcrypt",
-                "stars": 129,
+                "stars": 130,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1205,27 +1124,6 @@
             },
             {
               "node_type": "item",
-              "title": "Eronona-Packer",
-              "description": "This is a packer for exe under win32.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A win32 exe packer",
-                "homepage": null,
-                "id": 86908563,
-                "language": "C++",
-                "license": "MIT",
-                "last_commit": "2020-02-19T08:34:40Z",
-                "open_issues": 0,
-                "owner": "Eronana",
-                "repo": "packer",
-                "stars": 48,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:56:28.356Z"
-            },
-            {
-              "node_type": "item",
               "title": "Papaw",
               "description": "Permissively-licensed packer for ELF executables using LZMA Zstandard or Deflate compression.",
               "children": [],
@@ -1241,6 +1139,27 @@
                 "owner": "dimkr",
                 "repo": "papaw",
                 "stars": 48,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:56:28.356Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Eronona-Packer",
+              "description": "This is a packer for exe under win32.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A win32 exe packer",
+                "homepage": null,
+                "id": 86908563,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2020-02-19T08:34:40Z",
+                "open_issues": 0,
+                "owner": "Eronana",
+                "repo": "packer",
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1519,6 +1438,27 @@
             },
             {
               "node_type": "item",
+              "title": "zELF",
+              "description": "A modular ELF64 packer for Linux x86_64 featuring 22 compression codecs, ML-based codec selection, and support for both static and PIE binaries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ELF binary packer",
+                "homepage": null,
+                "id": 1114808800,
+                "language": "C",
+                "license": "GPL-3.0",
+                "last_commit": "2026-01-30T01:27:16Z",
+                "open_issues": 0,
+                "owner": "seb3773",
+                "repo": "zelf",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:56:28.356Z"
+            },
+            {
+              "node_type": "item",
               "title": "Pakr",
               "description": "In-memory packer for macOS Mach-O bundles.",
               "children": [],
@@ -1558,27 +1498,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
-            },
-            {
-              "node_type": "item",
-              "title": "zELF",
-              "description": "A modular ELF64 packer for Linux x86_64 featuring 22 compression codecs, ML-based codec selection, and support for both static and PIE binaries.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "ELF binary packer",
-                "homepage": null,
-                "id": 1114808800,
-                "language": "C",
-                "license": "GPL-3.0",
-                "last_commit": "2026-01-30T01:27:16Z",
-                "open_issues": 0,
-                "owner": "seb3773",
-                "repo": "zelf",
-                "stars": 9,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:56:28.356Z"
             }
           ],
           "description": null,
@@ -1603,7 +1522,7 @@
                 "open_issues": 1,
                 "owner": "claudiouzelac",
                 "repo": "rootkit.com",
-                "stars": 306,
+                "stars": 307,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1631,11 +1550,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-12T23:31:40Z",
-            "open_issues": 781,
+            "last_commit": "2026-10-13T20:38:23Z",
+            "open_issues": 764,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9146,
+            "stars": 9157,
             "topics": [
               "analysis",
               "angr",
@@ -1660,7 +1579,7 @@
             "open_issues": 458,
             "owner": "avast",
             "repo": "retdec",
-            "stars": 8645,
+            "stars": 8648,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1681,7 +1600,7 @@
             "open_issues": 9,
             "owner": "de4dot",
             "repo": "de4dot",
-            "stars": 7429,
+            "stars": 7430,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1698,11 +1617,11 @@
             "id": 272815213,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T12:08:07Z",
-            "open_issues": 314,
+            "last_commit": "2026-10-13T19:34:09Z",
+            "open_issues": 307,
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6228,
+            "stars": 6231,
             "topics": [
               "binary-analysis",
               "gsoc-2026",
@@ -1729,7 +1648,7 @@
             "open_issues": 30,
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5586,
+            "stars": 5591,
             "topics": [
               "android",
               "art",
@@ -1770,7 +1689,7 @@
             "open_issues": 35,
             "owner": "JonathanSalwan",
             "repo": "Triton",
-            "stars": 4327,
+            "stars": 4328,
             "topics": [
               "binary-analysis",
               "binary-translation",
@@ -1799,11 +1718,11 @@
             "id": 25164176,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-12T10:30:55Z",
+            "last_commit": "2026-10-13T06:16:14Z",
             "open_issues": 14,
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 3306,
+            "stars": 3308,
             "topics": [
               "binary-analysis",
               "disassembler",
@@ -1863,7 +1782,7 @@
             "open_issues": 165,
             "owner": "uxmal",
             "repo": "reko",
-            "stars": 2613,
+            "stars": 2614,
             "topics": [
               "aarch64",
               "arm",
@@ -1898,7 +1817,7 @@
             "open_issues": 88,
             "owner": "rednaga",
             "repo": "APKiD",
-            "stars": 2596,
+            "stars": 2597,
             "topics": [
               "android",
               "android-protect-apps",
@@ -2041,7 +1960,7 @@
             "open_issues": 10,
             "owner": "petoolse",
             "repo": "petools",
-            "stars": 1200,
+            "stars": 1199,
             "topics": [
               "analysis",
               "disassembler",
@@ -2071,7 +1990,7 @@
             "open_issues": 0,
             "owner": "strazzere",
             "repo": "android-unpacker",
-            "stars": 1181,
+            "stars": 1182,
             "topics": [
               "android",
               "android-unpacker",
@@ -2099,7 +2018,7 @@
             "open_issues": 43,
             "owner": "crypto2011",
             "repo": "IDR",
-            "stars": 1166,
+            "stars": 1165,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2120,7 +2039,7 @@
             "open_issues": 8,
             "owner": "ExeinfoASL",
             "repo": "ASL",
-            "stars": 1156,
+            "stars": 1157,
             "topics": [
               "detector",
               "exeinfo"
@@ -2166,11 +2085,11 @@
             "id": 279035005,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-12T17:48:54Z",
+            "last_commit": "2026-10-13T20:44:37Z",
             "open_issues": 16,
             "owner": "m417z",
             "repo": "winbindex",
-            "stars": 894,
+            "stars": 895,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2279,7 +2198,7 @@
             "open_issues": 9,
             "owner": "hasherezade",
             "repo": "pe-bear-old",
-            "stars": 776,
+            "stars": 777,
             "topics": [
               "pe-analyzer",
               "pe-editor",
@@ -2342,11 +2261,11 @@
             "id": 13143236,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T05:31:10Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-13T08:38:58Z",
+            "open_issues": 1,
             "owner": "struppigel",
             "repo": "PortEx",
-            "stars": 539,
+            "stars": 540,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -3117,7 +3036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T23:34:47.689Z",
+    "last_updated": "2026-10-13T21:47:26.615Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",
@@ -3129,7 +3048,7 @@
       "open_issues": 0,
       "owner": "packing-box",
       "repo": "awesome-executable-packing",
-      "stars": 1628,
+      "stars": 1629,
       "topics": [
         "awesome",
         "awesome-list",
