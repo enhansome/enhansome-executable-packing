@@ -165,7 +165,7 @@
             "open_issues": 89,
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13506,
+            "stars": 13507,
             "topics": [
               "malware",
               "malware-analysis",
@@ -245,7 +245,7 @@
             "open_issues": 14,
             "owner": "sophos",
             "repo": "SOREL-20M",
-            "stars": 710,
+            "stars": 711,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -506,7 +506,7 @@
                 "open_issues": 103,
                 "owner": "mkaring",
                 "repo": "ConfuserEx",
-                "stars": 2899,
+                "stars": 2898,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -527,7 +527,7 @@
                 "open_issues": 9,
                 "owner": "phra",
                 "repo": "PEzor",
-                "stars": 2142,
+                "stars": 2143,
                 "topics": [
                   "antivirus-evasion",
                   "hacktoberfest",
@@ -849,7 +849,7 @@
                 "open_issues": 2,
                 "owner": "iamsopotatoe-coder",
                 "repo": "TinyLoad",
-                "stars": 201,
+                "stars": 202,
                 "topics": [
                   "anti-analysis",
                   "av-edr-bypass",
@@ -919,7 +919,7 @@
                 "open_issues": 1,
                 "owner": "droberson",
                 "repo": "ELFcrypt",
-                "stars": 130,
+                "stars": 131,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1631,11 +1631,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-26T21:12:22Z",
-            "open_issues": 771,
+            "last_commit": "2026-10-27T18:14:23Z",
+            "open_issues": 778,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9243,
+            "stars": 9251,
             "topics": [
               "analysis",
               "angr",
@@ -1699,10 +1699,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-25T03:09:45Z",
-            "open_issues": 312,
+            "open_issues": 314,
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6274,
+            "stars": 6278,
             "topics": [
               "binary-analysis",
               "gsoc-2026",
@@ -1729,7 +1729,7 @@
             "open_issues": 37,
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5612,
+            "stars": 5613,
             "topics": [
               "android",
               "art",
@@ -1766,11 +1766,11 @@
             "id": 29811166,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T07:58:22Z",
+            "last_commit": "2026-10-27T18:28:27Z",
             "open_issues": 37,
             "owner": "JonathanSalwan",
             "repo": "Triton",
-            "stars": 4344,
+            "stars": 4348,
             "topics": [
               "binary-analysis",
               "binary-translation",
@@ -1799,7 +1799,7 @@
             "id": 25164176,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-26T21:28:38Z",
+            "last_commit": "2026-10-27T19:39:33Z",
             "open_issues": 14,
             "owner": "horsicq",
             "repo": "DIE-engine",
@@ -1836,7 +1836,7 @@
             "open_issues": 97,
             "owner": "panda-re",
             "repo": "panda",
-            "stars": 2792,
+            "stars": 2793,
             "topics": [
               "dynamic-analysis",
               "pandare",
@@ -1859,7 +1859,7 @@
             "id": 39718308,
             "language": "C#",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-26T12:28:53Z",
+            "last_commit": "2026-10-27T12:55:37Z",
             "open_issues": 166,
             "owner": "uxmal",
             "repo": "reko",
@@ -1931,10 +1931,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-12T09:26:43Z",
-            "open_issues": 71,
+            "open_issues": 70,
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2079,
+            "stars": 2080,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2166,7 +2166,7 @@
             "id": 279035005,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-26T14:59:05Z",
+            "last_commit": "2026-10-27T21:06:57Z",
             "open_issues": 16,
             "owner": "m417z",
             "repo": "winbindex",
@@ -2218,7 +2218,7 @@
             "open_issues": 20,
             "owner": "mentebinaria",
             "repo": "readpe",
-            "stars": 792,
+            "stars": 793,
             "topics": [
               "binary-analysis",
               "malware-analysis",
@@ -2432,7 +2432,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-11-27T14:28:02Z",
-            "open_issues": 13,
+            "open_issues": 15,
             "owner": "pralab",
             "repo": "secml_malware",
             "stars": 253,
@@ -2668,7 +2668,7 @@
             "id": 382563382,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-03-21T23:01:50Z",
+            "last_commit": "2026-10-27T17:11:05Z",
             "open_issues": 0,
             "owner": "packing-box",
             "repo": "bintropy",
@@ -2999,7 +2999,7 @@
             "id": 1323200485,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-26T21:13:28Z",
+            "last_commit": "2026-10-27T19:49:27Z",
             "open_issues": 0,
             "owner": "horsicq",
             "repo": "XVolkolak",
@@ -3020,7 +3020,7 @@
             "id": 565266619,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-26T00:22:57Z",
+            "last_commit": "2026-10-27T00:35:24Z",
             "open_issues": 0,
             "owner": "packing-box",
             "repo": "python-dsff",
@@ -3117,7 +3117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T21:34:10.363Z",
+    "last_updated": "2026-10-27T21:12:41.792Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",
