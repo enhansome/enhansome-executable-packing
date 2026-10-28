@@ -165,7 +165,7 @@
             "open_issues": 89,
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13507,
+            "stars": 13512,
             "topics": [
               "malware",
               "malware-analysis",
@@ -527,7 +527,7 @@
                 "open_issues": 9,
                 "owner": "phra",
                 "repo": "PEzor",
-                "stars": 2143,
+                "stars": 2145,
                 "topics": [
                   "antivirus-evasion",
                   "hacktoberfest",
@@ -553,7 +553,7 @@
                 "open_issues": 5,
                 "owner": "EgeBalci",
                 "repo": "amber",
-                "stars": 1447,
+                "stars": 1448,
                 "topics": [
                   "amber",
                   "assembly",
@@ -1037,6 +1037,40 @@
             },
             {
               "node_type": "item",
+              "title": "HimitsuShell",
+              "description": "A shell script protector that converts shell scripts into binaries with an embedded interpreter, obfuscation, and anti-debug protections (shc alternative).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "shell script protector (obfuscation, embedded interpreter, DRM) - invisible to kernel tracing",
+                "homepage": "https://himitsushell.com/",
+                "id": 1169269856,
+                "language": "Shell",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-23T06:24:16Z",
+                "open_issues": 0,
+                "owner": "HimitsuShell",
+                "repo": "HimitsuShell",
+                "stars": 70,
+                "topics": [
+                  "bash",
+                  "compiler",
+                  "drm",
+                  "encryption",
+                  "iot",
+                  "llvm",
+                  "musl",
+                  "obfuscator",
+                  "protection",
+                  "shc",
+                  "shell",
+                  "shell-script"
+                ]
+              },
+              "first_seen": "2026-10-10T20:32:29.996Z"
+            },
+            {
+              "node_type": "item",
               "title": "Hyperion",
               "description": "nullsecuritynet/tools",
               "children": [],
@@ -1055,40 +1089,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
-            },
-            {
-              "node_type": "item",
-              "title": "HimitsuShell",
-              "description": "A shell script protector that converts shell scripts into binaries with an embedded interpreter, obfuscation, and anti-debug protections (shc alternative).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "shell script protector (obfuscation, embedded interpreter, DRM) - invisible to kernel tracing",
-                "homepage": "https://himitsushell.com/",
-                "id": 1169269856,
-                "language": "Shell",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-23T06:24:16Z",
-                "open_issues": 0,
-                "owner": "HimitsuShell",
-                "repo": "HimitsuShell",
-                "stars": 69,
-                "topics": [
-                  "bash",
-                  "compiler",
-                  "drm",
-                  "encryption",
-                  "iot",
-                  "llvm",
-                  "musl",
-                  "obfuscator",
-                  "protection",
-                  "shc",
-                  "shell",
-                  "shell-script"
-                ]
-              },
-              "first_seen": "2026-10-10T20:32:29.996Z"
             },
             {
               "node_type": "item",
@@ -1631,11 +1631,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-27T18:14:23Z",
-            "open_issues": 778,
+            "last_commit": "2026-10-28T18:55:32Z",
+            "open_issues": 782,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9251,
+            "stars": 9259,
             "topics": [
               "analysis",
               "angr",
@@ -1660,7 +1660,7 @@
             "open_issues": 470,
             "owner": "avast",
             "repo": "retdec",
-            "stars": 8659,
+            "stars": 8662,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1702,7 +1702,7 @@
             "open_issues": 314,
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6278,
+            "stars": 6279,
             "topics": [
               "binary-analysis",
               "gsoc-2026",
@@ -1729,7 +1729,7 @@
             "open_issues": 37,
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5613,
+            "stars": 5615,
             "topics": [
               "android",
               "art",
@@ -1766,11 +1766,11 @@
             "id": 29811166,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T18:28:27Z",
-            "open_issues": 37,
+            "last_commit": "2026-10-28T19:43:40Z",
+            "open_issues": 36,
             "owner": "JonathanSalwan",
             "repo": "Triton",
-            "stars": 4348,
+            "stars": 4349,
             "topics": [
               "binary-analysis",
               "binary-translation",
@@ -1799,11 +1799,11 @@
             "id": 25164176,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-27T19:39:33Z",
+            "last_commit": "2026-10-28T20:37:03Z",
             "open_issues": 14,
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 3327,
+            "stars": 3329,
             "topics": [
               "binary-analysis",
               "disassembler",
@@ -1859,11 +1859,11 @@
             "id": 39718308,
             "language": "C#",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-27T12:55:37Z",
+            "last_commit": "2026-10-28T10:11:51Z",
             "open_issues": 166,
             "owner": "uxmal",
             "repo": "reko",
-            "stars": 2627,
+            "stars": 2628,
             "topics": [
               "aarch64",
               "arm",
@@ -1898,7 +1898,7 @@
             "open_issues": 83,
             "owner": "rednaga",
             "repo": "APKiD",
-            "stars": 2605,
+            "stars": 2606,
             "topics": [
               "android",
               "android-protect-apps",
@@ -1930,11 +1930,11 @@
             "id": 33870982,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-12T09:26:43Z",
-            "open_issues": 70,
+            "last_commit": "2026-10-28T15:19:17Z",
+            "open_issues": 64,
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2080,
+            "stars": 2081,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2071,7 +2071,7 @@
             "open_issues": 0,
             "owner": "strazzere",
             "repo": "android-unpacker",
-            "stars": 1183,
+            "stars": 1182,
             "topics": [
               "android",
               "android-unpacker",
@@ -2166,11 +2166,11 @@
             "id": 279035005,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-27T21:06:57Z",
+            "last_commit": "2026-10-28T14:53:55Z",
             "open_issues": 16,
             "owner": "m417z",
             "repo": "winbindex",
-            "stars": 900,
+            "stars": 902,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2530,7 +2530,7 @@
             "open_issues": 0,
             "owner": "packing-box",
             "repo": "peid",
-            "stars": 151,
+            "stars": 152,
             "topics": [
               "binary-analysis",
               "entrypoint",
@@ -2968,6 +2968,27 @@
         },
         {
           "node_type": "item",
+          "title": "XVolkolak",
+          "description": "Qt/CMake emulator-unpacker project with a GUI and a console application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "XVolkolak an unpacker emulator",
+            "homepage": null,
+            "id": 1323200485,
+            "language": "C++",
+            "license": "MIT",
+            "last_commit": "2026-10-28T19:29:41Z",
+            "open_issues": 0,
+            "owner": "horsicq",
+            "repo": "XVolkolak",
+            "stars": 7,
+            "topics": []
+          },
+          "first_seen": "2026-10-10T20:32:29.996Z"
+        },
+        {
+          "node_type": "item",
           "title": "PyPeid",
           "description": "Yet another implementation of PEiD with yara-python.",
           "children": [],
@@ -2986,27 +3007,6 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
-        },
-        {
-          "node_type": "item",
-          "title": "XVolkolak",
-          "description": "Qt/CMake emulator-unpacker project with a GUI and a console application.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "XVolkolak an unpacker emulator",
-            "homepage": null,
-            "id": 1323200485,
-            "language": "C++",
-            "license": "MIT",
-            "last_commit": "2026-10-27T19:49:27Z",
-            "open_issues": 0,
-            "owner": "horsicq",
-            "repo": "XVolkolak",
-            "stars": 6,
-            "topics": []
-          },
-          "first_seen": "2026-10-10T20:32:29.996Z"
         },
         {
           "node_type": "item",
@@ -3117,7 +3117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T21:12:41.792Z",
+    "last_updated": "2026-10-28T21:37:02.415Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",
