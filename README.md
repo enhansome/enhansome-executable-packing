@@ -460,7 +460,7 @@
 
 ## :bookmark\_tabs: Datasets
 
-* [theZoo](https://github.com/ytisf/theZoo) ⭐ 13,557 | 🐛 89 | 🌐 Python | 📅 2026-09-14 - Project created to make the possibility of malware analysis open and available to the public.
+* [theZoo](https://github.com/ytisf/theZoo) ⭐ 13,561 | 🐛 89 | 🌐 Python | 📅 2026-09-14 - Project created to make the possibility of malware analysis open and available to the public.
 * [Malware Archive](https://github.com/jstrosch/malware-samples) ⭐ 1,696 | 🐛 1 | 🌐 HTML | 📅 2024-01-13 - Malware samples, analysis exercises and other interesting resources.
 * [Ember](https://github.com/elastic/ember) ⚠️ Archived - Collection of features from PE files that serve as a benchmark dataset for researchers.
 * [SOREL](https://github.com/sophos-ai/SOREL-20M) ⭐ 712 | 🐛 14 | 🌐 Python | 📅 2021-04-07 - Sophos-ReversingLabs 20 Million dataset.
@@ -504,7 +504,7 @@
 
 ### After 2010
 
-* [ConfuserEx](https://github.com/mkaring/ConfuserEx) ⭐ 2,903 | 🐛 103 | 🌐 C# | 📅 2024-06-07 - An open-source, free protector for .NET applications.
+* [ConfuserEx](https://github.com/mkaring/ConfuserEx) ⭐ 2,905 | 🐛 103 | 🌐 C# | 📅 2024-06-07 - An open-source, free protector for .NET applications.
 * [PEzor](https://github.com/phra/PEzor) ⭐ 2,145 | 🐛 9 | 🌐 C | 📅 2024-02-03 - Open-Source Shellcode & PE Packer.
 * [Amber](https://github.com/EgeBalci/amber/releases) ⭐ 1,450 | 🐛 5 | 🌐 Go | 📅 2024-02-22 - Position-independent(reflective) PE loader that enables in-memory execution of native PE files(EXE, DLL, SYS).
 * [Crinkler](https://github.com/runestubbe/Crinkler) ⭐ 1,305 | 🐛 6 | 🌐 C++ | 📅 2026-08-05 - Compressing linker for Windows, specifically targeted towards executables with a size of just a few kilobytes.
@@ -512,7 +512,7 @@
 * [ELFkickers](https://github.com/BR903/ELFkickers) ⭐ 626 | 🐛 5 | 🌐 C | 📅 2024-11-07 - A collection of programs that access and manipulate ELF files.
 * [BangCle](https://github.com/woxihuannisja/Bangcle) ⭐ 407 | 🐛 7 | 🌐 C++ | 📅 2018-08-02 - Protection tool using the second generation Android Hardening Protection, loading the encrypted DEX file from memory dynamically.
 * [PE-Packer](https://github.com/czs108/PE-Packer) ⭐ 369 | 🐛 5 | 🌐 C | 📅 2024-10-22 - Simple packer for Windows 32-bits PE files.
-* [Astral-PE](https://github.com/DosX-dev/Astral-PE) ⭐ 358 | 🐛 0 | 🌐 C# | 📅 2025-04-26 - Low-level mutator (Headers/EP obfuscator) for native Windows PE files (x32/x64).
+* [Astral-PE](https://github.com/DosX-dev/Astral-PE) ⭐ 359 | 🐛 0 | 🌐 C# | 📅 2025-04-26 - Low-level mutator (Headers/EP obfuscator) for native Windows PE files (x32/x64).
 * [Pakkero](https://github.com/89luca89/pakkero) ⭐ 281 | 🐛 4 | 🌐 Go | 📅 2023-01-16 - Binary packer written in Go made for fun and educational purpose.
 * [Ezuri](https://github.com/guitmz/ezuri/blob/master/ezuri.go) ⭐ 278 | 🐛 1 | 🌐 Go | 📅 2025-02-25 - A Simple Linux ELF Runtime Crypter.
 * [ASM Guard](https://github.com/DosX-dev/ASM-Guard) ⭐ 270 | 🐛 0 | 📅 2026-10-15 - Packer utility for compressing and complicating reversing compiled native code (native files), protecting resources, adding DRM, and packing into an optimized loader.
@@ -709,39 +709,39 @@
 
 ## :wrench: Tools
 
-* [Angr](https://github.com/angr/angr) ⭐ 9,363 | 🐛 808 | 🌐 Python | 📅 2026-11-10 - Platform-agnostic binary analysis framework.
-* [RetDec](https://github.com/avast/retdec) ⭐ 8,667 | 🐛 470 | 🌐 C++ | 📅 2026-05-26 - Retargetable machine-code decompiler based on LLVM.
+* [Angr](https://github.com/angr/angr) ⭐ 9,368 | 🐛 811 | 🌐 Python | 📅 2026-11-10 - Platform-agnostic binary analysis framework.
+* [RetDec](https://github.com/avast/retdec) ⭐ 8,669 | 🐛 470 | 🌐 C++ | 📅 2026-05-26 - Retargetable machine-code decompiler based on LLVM.
 * [de4dot](https://github.com/0xd4d/de4dot) ⚠️ Archived - .NET deobfuscator and unpacker.
-* [Capa](https://github.com/mandiant/capa) ⭐ 6,316 | 🐛 322 | 🌐 Python | 📅 2026-11-06 - Open-source tool to identify capabilities in PE, ELF or .NET executable files.
-* [LIEF](https://github.com/lief-project/LIEF) ⭐ 5,651 | 🐛 30 | 🌐 C++ | 📅 2026-11-08 - Library to Instrument Executable Formats ; Python package for parsing PE, ELF, Mach-O and DEX formats, modifying and rebuilding executables.
-* [Triton](https://github.com/jonathansalwan/Triton) ⭐ 4,363 | 🐛 44 | 🌐 C++ | 📅 2026-11-09 - Dynamic binary analysis library.
-* [DIE](https://github.com/horsicq/DIE-engine/releases) ⭐ 3,349 | 🐛 18 | 🌐 C++ | 📅 2026-11-09 - Detect It Easy ; Program for determining types of files.
+* [Capa](https://github.com/mandiant/capa) ⭐ 6,320 | 🐛 319 | 🌐 Python | 📅 2026-11-10 - Open-source tool to identify capabilities in PE, ELF or .NET executable files.
+* [LIEF](https://github.com/lief-project/LIEF) ⭐ 5,653 | 🐛 29 | 🌐 C++ | 📅 2026-11-08 - Library to Instrument Executable Formats ; Python package for parsing PE, ELF, Mach-O and DEX formats, modifying and rebuilding executables.
+* [Triton](https://github.com/jonathansalwan/Triton) ⭐ 4,364 | 🐛 44 | 🌐 C++ | 📅 2026-11-09 - Dynamic binary analysis library.
+* [DIE](https://github.com/horsicq/DIE-engine/releases) ⭐ 3,350 | 🐛 18 | 🌐 C++ | 📅 2026-11-09 - Detect It Easy ; Program for determining types of files.
 * [PANDA](https://github.com/panda-re/panda) ⭐ 2,799 | 🐛 97 | 🌐 C | 📅 2026-11-06 - Platform for Architecture-Neutral Dynamic Analysis.
 * [Reko](https://github.com/uxmal/reko) ⭐ 2,638 | 🐛 166 | 🌐 C# | 📅 2026-10-28 - Free decompiler for machine code binaries.
 * [APKiD](https://github.com/rednaga/APKiD) ⭐ 2,613 | 🐛 84 | 🌐 YARA | 📅 2026-10-21 - Android application Identifier for packers, protectors, obfuscators and oddities - PEiD for Android.
-* [Pefile](https://github.com/erocarrera/pefile) ⭐ 2,085 | 🐛 59 | 🌐 Python | 📅 2026-11-08 - Multi-platform Python module to parse and work with Portable Executable files.
+* [Pefile](https://github.com/erocarrera/pefile) ⭐ 2,086 | 🐛 54 | 🌐 Python | 📅 2026-11-10 - Multi-platform Python module to parse and work with Portable Executable files.
 * [yarGen](https://github.com/Neo23x0/yarGen) ⭐ 1,824 | 🐛 14 | 🌐 Python | 📅 2026-01-10 - Generator for YARA rules - The main principle is the creation of yara rules from strings found in malware files while removing all strings that also appear in goodware files.
 * [de4js](https://github.com/lelinhtinh/de4js) ⚠️ Archived - JavaScript Deobfuscator and Unpacker.
 * [.NET Deobfuscator](https://github.com/NotPrab/.NET-Deobfuscator) ⭐ 1,527 | 🐛 1 | 📅 2025-02-01 - List of .NET Deobfuscators and Unpackers.
 * [PETools](https://github.com/petoolse/petools) ⭐ 1,204 | 🐛 10 | 📅 2025-10-21 - Old-school reverse engineering tool (with a long history since 2002) for manipulating PE files.
 * [Android Unpacker](https://github.com/strazzere/android-unpacker) ⭐ 1,183 | 🐛 0 | 🌐 C | 📅 2020-01-20 - Presented at Defcon 22: Android Hacker Protection Level 0.
 * [IDR](https://github.com/crypto2011/IDR) ⭐ 1,174 | 🐛 46 | 🌐 C++ | 📅 2023-08-09 - Interactive Delphi Reconstructor.
-* [EXEInfo-PE](https://github.com/ExeinfoASL/ASL) ⭐ 1,162 | 🐛 8 | 📅 2026-09-11 - Fast detector for executable PE files.
+* [EXEInfo-PE](https://github.com/ExeinfoASL/ASL) ⭐ 1,161 | 🐛 8 | 📅 2026-09-11 - Fast detector for executable PE files.
 * [Manalyze](https://github.com/JusticeRage/Manalyze) ⭐ 1,157 | 🐛 6 | 🌐 YARA | 📅 2026-08-29 - Robust parser for PE files with a flexible plugin architecture which allows users to statically analyze files in-depth.
-* [Winbindex](https://github.com/m417z/winbindex) ⭐ 911 | 🐛 16 | 🌐 Python | 📅 2026-11-09 - An index of Windows binaries, including download links for executables such as EXE, DLL and SYS files.
+* [Winbindex](https://github.com/m417z/winbindex) ⭐ 911 | 🐛 16 | 🌐 Python | 📅 2026-11-10 - An index of Windows binaries, including download links for executables such as EXE, DLL and SYS files.
 * [MalUnpack](https://github.com/hasherezade/mal_unpack) ⭐ 845 | 🐛 2 | 🌐 C | 📅 2026-11-08 - Dynamic unpacker based on PE-sieve.
 * [PEPack](https://github.com/mentebinaria/readpe) ⭐ 792 | 🐛 21 | 🌐 C | 📅 2026-08-25 - PE file packer detection tool, part of the Unix package "pev".
-* [Unipacker](https://github.com/unipacker/unipacker) ⭐ 782 | 🐛 30 | 🌐 Python | 📅 2025-08-18 - Automatic and platform-independent unpacker for Windows binaries based on emulation.
+* [Unipacker](https://github.com/unipacker/unipacker) ⭐ 783 | 🐛 30 | 🌐 Python | 📅 2025-08-18 - Automatic and platform-independent unpacker for Windows binaries based on emulation.
 * [PE-bear](https://github.com/hasherezade/pe-bear-releases) ⭐ 777 | 🐛 9 | 📅 2023-06-04 - Freeware reversing tool for PE files aimed to deliver fast and flexible “first view” for malware analysts, stable and capable to handle malformed PE files.
 * [Gym-Malware](https://github.com/endgameinc/gym-malware) ⭐ 637 | 🐛 14 | 🌐 Python | 📅 2022-11-21 - This is a malware manipulation environment for OpenAI's gym.
 * [PEFrame](https://github.com/guelfoweb/peframe) ⭐ 629 | 🐛 26 | 🌐 YARA | 📅 2022-08-08 - Tool for performing static analysis on PE malware and generic suspicious files.
-* [PortEx](https://github.com/katjahahn/PortEx) ⭐ 544 | 🐛 0 | 🌐 Java | 📅 2026-10-21 - Java library for static malware analysis of PE files with a focus on PE malformation robustness and anomaly detection.
+* [PortEx](https://github.com/katjahahn/PortEx) ⭐ 545 | 🐛 0 | 🌐 Java | 📅 2026-10-21 - Java library for static malware analysis of PE files with a focus on PE malformation robustness and anomaly detection.
 * [AVClass](https://github.com/malicialab/avclass) ⭐ 490 | 🐛 4 | 🌐 Python | 📅 2024-10-22 - Python tools to tag / label malware samples.
 * [Malheur](https://github.com/rieck/malheur) ⭐ 377 | 🐛 1 | 🌐 C | 📅 2019-05-08 - Tool for the automatic analysis of malware behavior (recorded from malicious software in a sandbox environment).
 * [PackerAttacker](https://github.com/BromiumLabs/PackerAttacker) ⭐ 273 | 🐛 3 | 🌐 C++ | 📅 2018-03-05 - Tool that uses memory and code hooks to detect packers.
 * [SecML Malware](https://github.com/pralab/secml_malware) ⭐ 254 | 🐛 15 | 🌐 Python | 📅 2025-11-27 - Create adversarial attacks against machine learning Windows malware detectors.
 * [PINdemonium](https://github.com/Phat3/PINdemonium) ⭐ 240 | 🐛 1 | 🌐 C++ | 📅 2016-07-30 - Unpacker for PE files exploiting the capabilities of PIN.
-* [ShowStopper](https://github.com/CheckPointSW/showstopper) ⭐ 226 | 🐛 1 | 🌐 C++ | 📅 2026-03-31 - Tool to help malware researchers explore and test anti-debug techniques or verify debugger plugins or other solutions that clash with standard anti-debug methods.
+* [ShowStopper](https://github.com/CheckPointSW/showstopper) ⭐ 227 | 🐛 1 | 🌐 C++ | 📅 2026-03-31 - Tool to help malware researchers explore and test anti-debug techniques or verify debugger plugins or other solutions that clash with standard anti-debug methods.
 * [VMHunt](https://github.com/s3team/VMHunt) ⭐ 183 | 🐛 1 | 🌐 C++ | 📅 2018-11-25 - Set of tools for analyzing virtualized binary code ; now only supports 32 bit traces.
 * [PEiD (CLI)](https://github.com/dhondta/peid) ⭐ 153 | 🐛 0 | 🌐 Python | 📅 2026-10-25 - Python implementation of PEiD featuring an additional tool for making new signatures.
 * [Cave-Finder](https://github.com/adamhlt/Cave-Finder) ⭐ 80 | 🐛 1 | 🌐 C++ | 📅 2023-08-01 - Tool to find code cave in PE image (x86 / x64) - Find empty space to place code in PE files.
@@ -751,7 +751,7 @@
 * [Bintropy](https://github.com/dhondta/bintropy) ⭐ 51 | 🐛 0 | 🌐 Python | 📅 2026-10-27 - Prototype analysis tool that estimates the likelihood that a binary file contains compressed or encrypted bytes.
 * [PackerID](https://github.com/sooshie/packerid) ⭐ 50 | 🐛 4 | 🌐 Python | 📅 2020-04-01 - Fork of packerid.py using PEid signatures and featuring additional output types, formats, digital signature extraction, and disassembly support.
 * [AppSpear](https://github.com/UchihaL/AppSpear) ⭐ 46 | 🐛 1 | 🌐 C++ | 📅 2017-12-31 - Universal and automated unpacking system suitable for both Dalvik and ART.
-* [PackerGrind](https://github.com/rewhy/adaptiveunpacker) ⭐ 37 | 🐛 0 | 🌐 C | 📅 2022-03-31 - Adaptive unpacking tool for tracking packing bahaviors and unpacking Android packed apps.
+* [PackerGrind](https://github.com/rewhy/adaptiveunpacker) ⭐ 38 | 🐛 0 | 🌐 C | 📅 2022-03-31 - Adaptive unpacking tool for tracking packing bahaviors and unpacking Android packed apps.
 * [PyPackerDetect](https://github.com/cylance/PyPackerDetect) ⭐ 34 | 🐛 3 | 🌐 Python | 📅 2018-10-24 - Small Python script/library to detect whether an executable is packed.
 * [PyPackerDetect (refactored)](https://github.com/dhondta/PyPackerDetect) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2026-10-25 - A complete refactoring of the original project to a Python package with a console script to detect whether an executable is packed.
 * [NotPacked++](https://github.com/packing-box/packer-masking-tool) ⭐ 22 | 🐛 1 | 🌐 C++ | 📅 2025-01-26 - Attack tool for altering packed samples so that they evade static packing detection.
