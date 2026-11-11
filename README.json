@@ -165,7 +165,7 @@
             "open_issues": 89,
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13561,
+            "stars": 13568,
             "topics": [
               "malware",
               "malware-analysis",
@@ -266,7 +266,7 @@
             "open_issues": 15,
             "owner": "FutureComputing4AI",
             "repo": "EMBER2024",
-            "stars": 165,
+            "stars": 166,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -363,7 +363,7 @@
             "open_issues": 0,
             "owner": "packing-box",
             "repo": "dataset-packed-pe",
-            "stars": 51,
+            "stars": 52,
             "topics": [
               "binary-analysis",
               "dataset",
@@ -397,7 +397,7 @@
             "open_issues": 0,
             "owner": "apuromafo",
             "repo": "RCE_Lab",
-            "stars": 46,
+            "stars": 47,
             "topics": [
               "assembly",
               "crackme",
@@ -424,7 +424,7 @@
             "open_issues": 0,
             "owner": "packing-box",
             "repo": "dataset-packed-elf",
-            "stars": 22,
+            "stars": 23,
             "topics": [
               "binary-analysis",
               "dataset",
@@ -506,7 +506,7 @@
                 "open_issues": 103,
                 "owner": "mkaring",
                 "repo": "ConfuserEx",
-                "stars": 2905,
+                "stars": 2906,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -527,7 +527,7 @@
                 "open_issues": 9,
                 "owner": "phra",
                 "repo": "PEzor",
-                "stars": 2145,
+                "stars": 2147,
                 "topics": [
                   "antivirus-evasion",
                   "hacktoberfest",
@@ -605,7 +605,7 @@
                 "open_issues": 4,
                 "owner": "mgeeky",
                 "repo": "ProtectMyTooling",
-                "stars": 1105,
+                "stars": 1107,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -647,7 +647,7 @@
                 "open_issues": 7,
                 "owner": "KuNgia09",
                 "repo": "Bangcle",
-                "stars": 407,
+                "stars": 406,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -849,7 +849,7 @@
                 "open_issues": 2,
                 "owner": "iamsopotatoe-coder",
                 "repo": "TinyLoad",
-                "stars": 203,
+                "stars": 204,
                 "topics": [
                   "anti-analysis",
                   "av-edr-bypass",
@@ -1631,11 +1631,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-10T22:03:37Z",
-            "open_issues": 811,
+            "last_commit": "2026-11-11T18:18:20Z",
+            "open_issues": 809,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9368,
+            "stars": 9369,
             "topics": [
               "analysis",
               "angr",
@@ -1660,7 +1660,7 @@
             "open_issues": 470,
             "owner": "avast",
             "repo": "retdec",
-            "stars": 8669,
+            "stars": 8668,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1681,7 +1681,7 @@
             "open_issues": 9,
             "owner": "de4dot",
             "repo": "de4dot",
-            "stars": 7424,
+            "stars": 7425,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1699,10 +1699,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-10T16:01:01Z",
-            "open_issues": 319,
+            "open_issues": 320,
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6320,
+            "stars": 6324,
             "topics": [
               "binary-analysis",
               "gsoc-2026",
@@ -1726,10 +1726,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-11-08T18:41:58Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5653,
+            "stars": 5654,
             "topics": [
               "android",
               "art",
@@ -1766,11 +1766,11 @@
             "id": 29811166,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T19:59:21Z",
-            "open_issues": 44,
+            "last_commit": "2026-11-11T15:52:24Z",
+            "open_issues": 42,
             "owner": "JonathanSalwan",
             "repo": "Triton",
-            "stars": 4364,
+            "stars": 4363,
             "topics": [
               "binary-analysis",
               "binary-translation",
@@ -1799,11 +1799,11 @@
             "id": 25164176,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-09T20:12:43Z",
+            "last_commit": "2026-11-11T03:15:19Z",
             "open_issues": 18,
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 3350,
+            "stars": 3352,
             "topics": [
               "binary-analysis",
               "disassembler",
@@ -1832,7 +1832,7 @@
             "id": 12330872,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T13:04:52Z",
+            "last_commit": "2026-11-11T09:57:40Z",
             "open_issues": 97,
             "owner": "panda-re",
             "repo": "panda",
@@ -1863,7 +1863,7 @@
             "open_issues": 166,
             "owner": "uxmal",
             "repo": "reko",
-            "stars": 2638,
+            "stars": 2639,
             "topics": [
               "aarch64",
               "arm",
@@ -1898,7 +1898,7 @@
             "open_issues": 84,
             "owner": "rednaga",
             "repo": "APKiD",
-            "stars": 2613,
+            "stars": 2614,
             "topics": [
               "android",
               "android-protect-apps",
@@ -1930,7 +1930,7 @@
             "id": 33870982,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-10T17:12:25Z",
+            "last_commit": "2026-11-11T16:34:01Z",
             "open_issues": 54,
             "owner": "erocarrera",
             "repo": "pefile",
@@ -1955,7 +1955,7 @@
             "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1824,
+            "stars": 1825,
             "topics": [
               "malware",
               "malware-analysis",
@@ -2014,7 +2014,7 @@
             "open_issues": 1,
             "owner": "NotPrab",
             "repo": ".NET-Deobfuscator",
-            "stars": 1527,
+            "stars": 1528,
             "topics": [
               "deobfuscator",
               "dnlib",
@@ -2071,7 +2071,7 @@
             "open_issues": 0,
             "owner": "strazzere",
             "repo": "android-unpacker",
-            "stars": 1183,
+            "stars": 1184,
             "topics": [
               "android",
               "android-unpacker",
@@ -2166,7 +2166,7 @@
             "id": 279035005,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-10T21:00:02Z",
+            "last_commit": "2026-11-11T15:59:58Z",
             "open_issues": 16,
             "owner": "m417z",
             "repo": "winbindex",
@@ -2191,7 +2191,7 @@
             "open_issues": 2,
             "owner": "hasherezade",
             "repo": "mal_unpack",
-            "stars": 845,
+            "stars": 846,
             "topics": [
               "libpeconv",
               "malware-analysis",
@@ -2246,7 +2246,7 @@
             "open_issues": 30,
             "owner": "unipacker",
             "repo": "unipacker",
-            "stars": 783,
+            "stars": 784,
             "topics": [
               "debugger",
               "dumper",
@@ -2530,7 +2530,7 @@
             "open_issues": 0,
             "owner": "packing-box",
             "repo": "peid",
-            "stars": 153,
+            "stars": 154,
             "topics": [
               "binary-analysis",
               "entrypoint",
@@ -2591,11 +2591,11 @@
             "id": 336180501,
             "language": "YARA",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-08T22:32:00Z",
+            "last_commit": "2026-11-11T17:16:21Z",
             "open_issues": 11,
             "owner": "packing-box",
             "repo": "docker-packing-box",
-            "stars": 68,
+            "stars": 69,
             "topics": [
               "binary-analysis",
               "dataset-generation",
@@ -2672,7 +2672,7 @@
             "open_issues": 0,
             "owner": "packing-box",
             "repo": "bintropy",
-            "stars": 51,
+            "stars": 52,
             "topics": [
               "binary-analysis",
               "elf",
@@ -2801,7 +2801,7 @@
             "open_issues": 0,
             "owner": "packing-box",
             "repo": "pypackerdetect",
-            "stars": 29,
+            "stars": 30,
             "topics": [
               "binary-analysis",
               "detector",
@@ -2836,11 +2836,11 @@
             "id": 772642710,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2025-01-26T13:55:13Z",
+            "last_commit": "2026-11-11T22:44:41Z",
             "open_issues": 1,
             "owner": "packing-box",
             "repo": "packer-masking-tool",
-            "stars": 22,
+            "stars": 23,
             "topics": [
               "adversarial",
               "attack-defense",
@@ -3024,13 +3024,48 @@
             "open_issues": 0,
             "owner": "packing-box",
             "repo": "python-dsff",
-            "stars": 3,
+            "stars": 4,
             "topics": [
               "dataset",
               "dsff",
               "file-format",
               "machine-learning",
               "python"
+            ]
+          },
+          "first_seen": "2026-08-29T00:56:28.356Z"
+        },
+        {
+          "node_type": "item",
+          "title": "REMINDer",
+          "description": "Packing detection tool based on the entropy value of the entry point section and the WRITE attribute.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Implementation of the packing detection heuristic from the paper \"Packed PE File Detection for Malware Forensics\" of Han et al.",
+            "homepage": null,
+            "id": 580170578,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-30T09:03:50Z",
+            "open_issues": 0,
+            "owner": "packing-box",
+            "repo": "reminder",
+            "stars": 4,
+            "topics": [
+              "binary-analysis",
+              "entropy",
+              "entrypoint",
+              "executable-packing",
+              "malware-analysis",
+              "malware-packers",
+              "malware-research",
+              "packing-detection",
+              "pe-file",
+              "pe-files",
+              "pe-format",
+              "python",
+              "research-tools"
             ]
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -3053,41 +3088,6 @@
             "repo": "PANDI",
             "stars": 3,
             "topics": []
-          },
-          "first_seen": "2026-08-29T00:56:28.356Z"
-        },
-        {
-          "node_type": "item",
-          "title": "REMINDer",
-          "description": "Packing detection tool based on the entropy value of the entry point section and the WRITE attribute.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Implementation of the packing detection heuristic from the paper \"Packed PE File Detection for Malware Forensics\" of Han et al.",
-            "homepage": null,
-            "id": 580170578,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-30T09:03:50Z",
-            "open_issues": 0,
-            "owner": "packing-box",
-            "repo": "reminder",
-            "stars": 3,
-            "topics": [
-              "binary-analysis",
-              "entropy",
-              "entrypoint",
-              "executable-packing",
-              "malware-analysis",
-              "malware-packers",
-              "malware-research",
-              "packing-detection",
-              "pe-file",
-              "pe-files",
-              "pe-format",
-              "python",
-              "research-tools"
-            ]
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
         },
@@ -3117,7 +3117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T22:16:45.622Z",
+    "last_updated": "2026-11-11T23:24:41.577Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",
