@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "gmh5225",
                 "repo": "awesome-llvm-security",
-                "stars": 892,
+                "stars": 893,
                 "topics": [
                   "awesome",
                   "c",
@@ -165,7 +165,7 @@
             "open_issues": 88,
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13571,
+            "stars": 13575,
             "topics": [
               "malware",
               "malware-analysis",
@@ -506,7 +506,7 @@
                 "open_issues": 103,
                 "owner": "mkaring",
                 "repo": "ConfuserEx",
-                "stars": 2906,
+                "stars": 2907,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -787,7 +787,7 @@
                 "open_issues": 0,
                 "owner": "DosX-dev",
                 "repo": "ASM-Guard",
-                "stars": 270,
+                "stars": 271,
                 "topics": [
                   "32-bit",
                   "64-bit",
@@ -1631,11 +1631,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-13T21:47:17Z",
-            "open_issues": 809,
+            "last_commit": "2026-11-14T10:11:41Z",
+            "open_issues": 810,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9375,
+            "stars": 9379,
             "topics": [
               "analysis",
               "angr",
@@ -1699,10 +1699,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-10T16:01:01Z",
-            "open_issues": 321,
+            "open_issues": 322,
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6334,
+            "stars": 6336,
             "topics": [
               "binary-analysis",
               "gsoc-2026",
@@ -1725,11 +1725,11 @@
             "id": 85205851,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T19:21:25Z",
-            "open_issues": 34,
+            "last_commit": "2026-11-14T19:18:29Z",
+            "open_issues": 33,
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5659,
+            "stars": 5662,
             "topics": [
               "android",
               "art",
@@ -1767,10 +1767,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-11-11T15:52:24Z",
-            "open_issues": 44,
+            "open_issues": 46,
             "owner": "JonathanSalwan",
             "repo": "Triton",
-            "stars": 4366,
+            "stars": 4369,
             "topics": [
               "binary-analysis",
               "binary-translation",
@@ -1799,11 +1799,11 @@
             "id": 25164176,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-13T14:40:29Z",
+            "last_commit": "2026-11-14T09:19:25Z",
             "open_issues": 15,
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 3355,
+            "stars": 3358,
             "topics": [
               "binary-analysis",
               "disassembler",
@@ -1863,7 +1863,7 @@
             "open_issues": 166,
             "owner": "uxmal",
             "repo": "reko",
-            "stars": 2639,
+            "stars": 2642,
             "topics": [
               "aarch64",
               "arm",
@@ -1898,7 +1898,7 @@
             "open_issues": 85,
             "owner": "rednaga",
             "repo": "APKiD",
-            "stars": 2618,
+            "stars": 2623,
             "topics": [
               "android",
               "android-protect-apps",
@@ -1955,7 +1955,7 @@
             "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1825,
+            "stars": 1826,
             "topics": [
               "malware",
               "malware-analysis",
@@ -1983,7 +1983,7 @@
             "open_issues": 12,
             "owner": "lelinhtinh",
             "repo": "de4js",
-            "stars": 1581,
+            "stars": 1582,
             "topics": [
               "decode",
               "deobfuscate",
@@ -2014,7 +2014,7 @@
             "open_issues": 1,
             "owner": "NotPrab",
             "repo": ".NET-Deobfuscator",
-            "stars": 1529,
+            "stars": 1530,
             "topics": [
               "deobfuscator",
               "dnlib",
@@ -2041,7 +2041,7 @@
             "open_issues": 10,
             "owner": "petoolse",
             "repo": "petools",
-            "stars": 1204,
+            "stars": 1205,
             "topics": [
               "analysis",
               "disassembler",
@@ -2071,7 +2071,7 @@
             "open_issues": 0,
             "owner": "strazzere",
             "repo": "android-unpacker",
-            "stars": 1185,
+            "stars": 1186,
             "topics": [
               "android",
               "android-unpacker",
@@ -2166,7 +2166,7 @@
             "id": 279035005,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-13T16:10:34Z",
+            "last_commit": "2026-11-14T14:56:37Z",
             "open_issues": 16,
             "owner": "m417z",
             "repo": "winbindex",
@@ -2191,7 +2191,7 @@
             "open_issues": 2,
             "owner": "hasherezade",
             "repo": "mal_unpack",
-            "stars": 846,
+            "stars": 847,
             "topics": [
               "libpeconv",
               "malware-analysis",
@@ -2840,7 +2840,7 @@
             "open_issues": 1,
             "owner": "packing-box",
             "repo": "packer-masking-tool",
-            "stars": 23,
+            "stars": 24,
             "topics": [
               "adversarial",
               "attack-defense",
@@ -3117,7 +3117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T22:29:30.163Z",
+    "last_updated": "2026-11-14T21:20:43.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",
@@ -3129,7 +3129,7 @@
       "open_issues": 0,
       "owner": "packing-box",
       "repo": "awesome-executable-packing",
-      "stars": 1641,
+      "stars": 1643,
       "topics": [
         "awesome",
         "awesome-list",
