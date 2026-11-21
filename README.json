@@ -165,7 +165,7 @@
             "open_issues": 89,
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13592,
+            "stars": 13595,
             "topics": [
               "malware",
               "malware-analysis",
@@ -553,7 +553,7 @@
                 "open_issues": 5,
                 "owner": "EgeBalci",
                 "repo": "amber",
-                "stars": 1453,
+                "stars": 1452,
                 "topics": [
                   "amber",
                   "assembly",
@@ -1030,7 +1030,7 @@
                 "open_issues": 0,
                 "owner": "HimitsuShell",
                 "repo": "HimitsuShell",
-                "stars": 76,
+                "stars": 79,
                 "topics": [
                   "bash",
                   "compiler",
@@ -1632,10 +1632,10 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-11-20T22:07:47Z",
-            "open_issues": 817,
+            "open_issues": 820,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9399,
+            "stars": 9404,
             "topics": [
               "analysis",
               "angr",
@@ -1660,7 +1660,7 @@
             "open_issues": 470,
             "owner": "avast",
             "repo": "retdec",
-            "stars": 8672,
+            "stars": 8673,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1699,10 +1699,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-10T16:01:01Z",
-            "open_issues": 323,
+            "open_issues": 327,
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6348,
+            "stars": 6352,
             "topics": [
               "binary-analysis",
               "gsoc-2026",
@@ -1729,7 +1729,7 @@
             "open_issues": 33,
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5676,
+            "stars": 5677,
             "topics": [
               "android",
               "art",
@@ -1799,11 +1799,11 @@
             "id": 25164176,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-20T05:40:56Z",
+            "last_commit": "2026-11-21T08:41:25Z",
             "open_issues": 19,
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 3366,
+            "stars": 3367,
             "topics": [
               "binary-analysis",
               "disassembler",
@@ -1898,7 +1898,7 @@
             "open_issues": 86,
             "owner": "rednaga",
             "repo": "APKiD",
-            "stars": 2633,
+            "stars": 2634,
             "topics": [
               "android",
               "android-protect-apps",
@@ -1930,11 +1930,11 @@
             "id": 33870982,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-20T12:05:40Z",
-            "open_issues": 56,
+            "last_commit": "2026-11-21T09:47:51Z",
+            "open_issues": 55,
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2087,
+            "stars": 2088,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2166,7 +2166,7 @@
             "id": 279035005,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-20T16:58:11Z",
+            "last_commit": "2026-11-21T15:50:23Z",
             "open_issues": 16,
             "owner": "m417z",
             "repo": "winbindex",
@@ -2279,7 +2279,7 @@
             "open_issues": 9,
             "owner": "hasherezade",
             "repo": "pe-bear-old",
-            "stars": 777,
+            "stars": 778,
             "topics": [
               "pe-analyzer",
               "pe-editor",
@@ -3117,7 +3117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T23:01:24.759Z",
+    "last_updated": "2026-11-21T22:07:57.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",
