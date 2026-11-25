@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "gmh5225",
                 "repo": "awesome-llvm-security",
-                "stars": 893,
+                "stars": 894,
                 "topics": [
                   "awesome",
                   "c",
@@ -165,7 +165,7 @@
             "open_issues": 89,
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13603,
+            "stars": 13605,
             "topics": [
               "malware",
               "malware-analysis",
@@ -266,7 +266,7 @@
             "open_issues": 17,
             "owner": "FutureComputing4AI",
             "repo": "EMBER2024",
-            "stars": 174,
+            "stars": 175,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -506,7 +506,7 @@
                 "open_issues": 103,
                 "owner": "mkaring",
                 "repo": "ConfuserEx",
-                "stars": 2911,
+                "stars": 2913,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -527,7 +527,7 @@
                 "open_issues": 9,
                 "owner": "phra",
                 "repo": "PEzor",
-                "stars": 2149,
+                "stars": 2150,
                 "topics": [
                   "antivirus-evasion",
                   "hacktoberfest",
@@ -553,7 +553,7 @@
                 "open_issues": 5,
                 "owner": "EgeBalci",
                 "repo": "amber",
-                "stars": 1452,
+                "stars": 1453,
                 "topics": [
                   "amber",
                   "assembly",
@@ -581,7 +581,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-05T16:20:05Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "runestubbe",
                 "repo": "Crinkler",
                 "stars": 1307,
@@ -605,7 +605,7 @@
                 "open_issues": 4,
                 "owner": "mgeeky",
                 "repo": "ProtectMyTooling",
-                "stars": 1107,
+                "stars": 1108,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -647,7 +647,7 @@
                 "open_issues": 7,
                 "owner": "KuNgia09",
                 "repo": "Bangcle",
-                "stars": 406,
+                "stars": 407,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1628,11 +1628,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-23T22:15:47Z",
-            "open_issues": 822,
+            "last_commit": "2026-11-25T00:08:51Z",
+            "open_issues": 824,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9411,
+            "stars": 9415,
             "topics": [
               "analysis",
               "angr",
@@ -1657,7 +1657,7 @@
             "open_issues": 458,
             "owner": "avast",
             "repo": "retdec",
-            "stars": 8674,
+            "stars": 8675,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1678,7 +1678,7 @@
             "open_issues": 9,
             "owner": "de4dot",
             "repo": "de4dot",
-            "stars": 7425,
+            "stars": 7426,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1695,11 +1695,11 @@
             "id": 272815213,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T16:01:01Z",
-            "open_issues": 328,
+            "last_commit": "2026-11-24T15:12:48Z",
+            "open_issues": 331,
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6358,
+            "stars": 6359,
             "topics": [
               "binary-analysis",
               "gsoc-2026",
@@ -1726,7 +1726,7 @@
             "open_issues": 34,
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5679,
+            "stars": 5680,
             "topics": [
               "android",
               "art",
@@ -1767,7 +1767,7 @@
             "open_issues": 47,
             "owner": "JonathanSalwan",
             "repo": "Triton",
-            "stars": 4382,
+            "stars": 4383,
             "topics": [
               "binary-analysis",
               "binary-translation",
@@ -1796,11 +1796,11 @@
             "id": 25164176,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-23T16:18:10Z",
+            "last_commit": "2026-11-24T08:48:30Z",
             "open_issues": 19,
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 3370,
+            "stars": 3372,
             "topics": [
               "binary-analysis",
               "disassembler",
@@ -1846,42 +1846,6 @@
         },
         {
           "node_type": "item",
-          "title": "APKiD",
-          "description": "Android application Identifier for packers, protectors, obfuscators and oddities - PEiD for Android.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android",
-            "homepage": null,
-            "id": 61825895,
-            "language": "YARA",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-21T14:17:52Z",
-            "open_issues": 86,
-            "owner": "rednaga",
-            "repo": "APKiD",
-            "stars": 2641,
-            "topics": [
-              "android",
-              "android-protect-apps",
-              "android-protection",
-              "antivirus",
-              "appshielding",
-              "machine-learning",
-              "malware-analysis",
-              "malware-detection",
-              "malware-research",
-              "obfuscation",
-              "packers",
-              "rasp",
-              "yara",
-              "yara-forensics"
-            ]
-          },
-          "first_seen": "2026-08-29T00:56:28.356Z"
-        },
-        {
-          "node_type": "item",
           "title": "Reko",
           "description": "Free decompiler for machine code binaries.",
           "children": [],
@@ -1917,6 +1881,42 @@
         },
         {
           "node_type": "item",
+          "title": "APKiD",
+          "description": "Android application Identifier for packers, protectors, obfuscators and oddities - PEiD for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android",
+            "homepage": null,
+            "id": 61825895,
+            "language": "YARA",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-21T14:17:52Z",
+            "open_issues": 86,
+            "owner": "rednaga",
+            "repo": "APKiD",
+            "stars": 2640,
+            "topics": [
+              "android",
+              "android-protect-apps",
+              "android-protection",
+              "antivirus",
+              "appshielding",
+              "machine-learning",
+              "malware-analysis",
+              "malware-detection",
+              "malware-research",
+              "obfuscation",
+              "packers",
+              "rasp",
+              "yara",
+              "yara-forensics"
+            ]
+          },
+          "first_seen": "2026-08-29T00:56:28.356Z"
+        },
+        {
+          "node_type": "item",
           "title": "Pefile",
           "description": "Multi-platform Python module to parse and work with Portable Executable files.",
           "children": [],
@@ -1927,8 +1927,8 @@
             "id": 33870982,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-22T12:12:42Z",
-            "open_issues": 55,
+            "last_commit": "2026-11-24T11:05:04Z",
+            "open_issues": 56,
             "owner": "erocarrera",
             "repo": "pefile",
             "stars": 2092,
@@ -1952,7 +1952,7 @@
             "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1827,
+            "stars": 1828,
             "topics": [
               "malware",
               "malware-analysis",
@@ -2096,7 +2096,7 @@
             "open_issues": 46,
             "owner": "crypto2011",
             "repo": "IDR",
-            "stars": 1175,
+            "stars": 1177,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2117,7 +2117,7 @@
             "open_issues": 8,
             "owner": "ExeinfoASL",
             "repo": "ASL",
-            "stars": 1162,
+            "stars": 1164,
             "topics": [
               "detector",
               "exeinfo"
@@ -2167,7 +2167,7 @@
             "open_issues": 16,
             "owner": "m417z",
             "repo": "winbindex",
-            "stars": 919,
+            "stars": 921,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2188,7 +2188,7 @@
             "open_issues": 2,
             "owner": "hasherezade",
             "repo": "mal_unpack",
-            "stars": 846,
+            "stars": 847,
             "topics": [
               "libpeconv",
               "malware-analysis",
@@ -2975,7 +2975,7 @@
             "id": 1323200485,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-23T16:49:12Z",
+            "last_commit": "2026-11-25T00:20:52Z",
             "open_issues": 0,
             "owner": "horsicq",
             "repo": "XVolkolak",
@@ -3114,7 +3114,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T03:14:49.407Z",
+    "last_updated": "2026-11-25T01:20:46.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",
@@ -3126,7 +3126,7 @@
       "open_issues": 1,
       "owner": "packing-box",
       "repo": "awesome-executable-packing",
-      "stars": 1644,
+      "stars": 1645,
       "topics": [
         "awesome",
         "awesome-list",
