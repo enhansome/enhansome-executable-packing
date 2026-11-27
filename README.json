@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "gmh5225",
                 "repo": "awesome-llvm-security",
-                "stars": 895,
+                "stars": 896,
                 "topics": [
                   "awesome",
                   "c",
@@ -165,7 +165,7 @@
             "open_issues": 89,
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13610,
+            "stars": 13613,
             "topics": [
               "malware",
               "malware-analysis",
@@ -193,7 +193,7 @@
             "open_issues": 1,
             "owner": "jstrosch",
             "repo": "malware-samples",
-            "stars": 1696,
+            "stars": 1697,
             "topics": [
               "azorult",
               "emotet",
@@ -1026,11 +1026,11 @@
                 "id": 1169269856,
                 "language": "Shell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-16T19:31:19Z",
+                "last_commit": "2026-11-26T10:28:19Z",
                 "open_issues": 0,
                 "owner": "HimitsuShell",
                 "repo": "HimitsuShell",
-                "stars": 80,
+                "stars": 82,
                 "topics": [
                   "bash",
                   "compiler",
@@ -1628,11 +1628,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-25T22:36:38Z",
-            "open_issues": 828,
+            "last_commit": "2026-11-26T03:36:09Z",
+            "open_issues": 827,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9416,
+            "stars": 9420,
             "topics": [
               "analysis",
               "angr",
@@ -1699,7 +1699,7 @@
             "open_issues": 332,
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6362,
+            "stars": 6364,
             "topics": [
               "binary-analysis",
               "gsoc-2026",
@@ -1796,11 +1796,11 @@
             "id": 25164176,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-25T23:38:26Z",
-            "open_issues": 19,
+            "last_commit": "2026-11-26T23:50:17Z",
+            "open_issues": 18,
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 3378,
+            "stars": 3380,
             "topics": [
               "binary-analysis",
               "disassembler",
@@ -1846,6 +1846,42 @@
         },
         {
           "node_type": "item",
+          "title": "APKiD",
+          "description": "Android application Identifier for packers, protectors, obfuscators and oddities - PEiD for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android",
+            "homepage": null,
+            "id": 61825895,
+            "language": "YARA",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-21T14:17:52Z",
+            "open_issues": 86,
+            "owner": "rednaga",
+            "repo": "APKiD",
+            "stars": 2643,
+            "topics": [
+              "android",
+              "android-protect-apps",
+              "android-protection",
+              "antivirus",
+              "appshielding",
+              "machine-learning",
+              "malware-analysis",
+              "malware-detection",
+              "malware-research",
+              "obfuscation",
+              "packers",
+              "rasp",
+              "yara",
+              "yara-forensics"
+            ]
+          },
+          "first_seen": "2026-08-29T00:56:28.356Z"
+        },
+        {
+          "node_type": "item",
           "title": "Reko",
           "description": "Free decompiler for machine code binaries.",
           "children": [],
@@ -1881,42 +1917,6 @@
         },
         {
           "node_type": "item",
-          "title": "APKiD",
-          "description": "Android application Identifier for packers, protectors, obfuscators and oddities - PEiD for Android.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android",
-            "homepage": null,
-            "id": 61825895,
-            "language": "YARA",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-21T14:17:52Z",
-            "open_issues": 86,
-            "owner": "rednaga",
-            "repo": "APKiD",
-            "stars": 2641,
-            "topics": [
-              "android",
-              "android-protect-apps",
-              "android-protection",
-              "antivirus",
-              "appshielding",
-              "machine-learning",
-              "malware-analysis",
-              "malware-detection",
-              "malware-research",
-              "obfuscation",
-              "packers",
-              "rasp",
-              "yara",
-              "yara-forensics"
-            ]
-          },
-          "first_seen": "2026-08-29T00:56:28.356Z"
-        },
-        {
-          "node_type": "item",
           "title": "Pefile",
           "description": "Multi-platform Python module to parse and work with Portable Executable files.",
           "children": [],
@@ -1927,8 +1927,8 @@
             "id": 33870982,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-25T12:42:15Z",
-            "open_issues": 54,
+            "last_commit": "2026-11-26T08:16:43Z",
+            "open_issues": 55,
             "owner": "erocarrera",
             "repo": "pefile",
             "stars": 2092,
@@ -2038,7 +2038,7 @@
             "open_issues": 11,
             "owner": "petoolse",
             "repo": "petools",
-            "stars": 1209,
+            "stars": 1210,
             "topics": [
               "analysis",
               "disassembler",
@@ -2117,7 +2117,7 @@
             "open_issues": 8,
             "owner": "ExeinfoASL",
             "repo": "ASL",
-            "stars": 1164,
+            "stars": 1165,
             "topics": [
               "detector",
               "exeinfo"
@@ -2167,7 +2167,7 @@
             "open_issues": 16,
             "owner": "m417z",
             "repo": "winbindex",
-            "stars": 922,
+            "stars": 923,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2975,7 +2975,7 @@
             "id": 1323200485,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-26T00:00:08Z",
+            "last_commit": "2026-11-27T00:01:34Z",
             "open_issues": 0,
             "owner": "horsicq",
             "repo": "XVolkolak",
@@ -3114,7 +3114,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T00:55:38.202Z",
+    "last_updated": "2026-11-27T00:59:01.850Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",
