@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "gmh5225",
                 "repo": "awesome-llvm-security",
-                "stars": 896,
+                "stars": 895,
                 "topics": [
                   "awesome",
                   "c",
@@ -165,7 +165,7 @@
             "open_issues": 89,
             "owner": "ytisf",
             "repo": "theZoo",
-            "stars": 13613,
+            "stars": 13614,
             "topics": [
               "malware",
               "malware-analysis",
@@ -193,7 +193,7 @@
             "open_issues": 1,
             "owner": "jstrosch",
             "repo": "malware-samples",
-            "stars": 1697,
+            "stars": 1696,
             "topics": [
               "azorult",
               "emotet",
@@ -584,7 +584,7 @@
                 "open_issues": 7,
                 "owner": "runestubbe",
                 "repo": "Crinkler",
-                "stars": 1307,
+                "stars": 1308,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -694,7 +694,7 @@
                 "open_issues": 0,
                 "owner": "DosX-dev",
                 "repo": "Astral-PE",
-                "stars": 359,
+                "stars": 358,
                 "topics": [
                   "cpp",
                   "cs",
@@ -766,7 +766,7 @@
                 "open_issues": 1,
                 "owner": "guitmz",
                 "repo": "ezuri",
-                "stars": 280,
+                "stars": 279,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:28.356Z"
@@ -890,7 +890,7 @@
                 "open_issues": 1,
                 "owner": "dr4k0nia",
                 "repo": "Origami",
-                "stars": 177,
+                "stars": 176,
                 "topics": [
                   "compressor",
                   "csharp",
@@ -1628,11 +1628,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-26T03:36:09Z",
-            "open_issues": 827,
+            "last_commit": "2026-11-27T23:20:44Z",
+            "open_issues": 828,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9420,
+            "stars": 9426,
             "topics": [
               "analysis",
               "angr",
@@ -1654,10 +1654,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-05-26T09:04:25Z",
-            "open_issues": 458,
+            "open_issues": 459,
             "owner": "avast",
             "repo": "retdec",
-            "stars": 8677,
+            "stars": 8676,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -1696,10 +1696,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-25T19:07:11Z",
-            "open_issues": 332,
+            "open_issues": 331,
             "owner": "mandiant",
             "repo": "capa",
-            "stars": 6364,
+            "stars": 6366,
             "topics": [
               "binary-analysis",
               "gsoc-2026",
@@ -1726,7 +1726,7 @@
             "open_issues": 34,
             "owner": "lief-project",
             "repo": "LIEF",
-            "stars": 5681,
+            "stars": 5683,
             "topics": [
               "android",
               "art",
@@ -1764,10 +1764,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-11-11T15:52:24Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "JonathanSalwan",
             "repo": "Triton",
-            "stars": 4384,
+            "stars": 4386,
             "topics": [
               "binary-analysis",
               "binary-translation",
@@ -1796,11 +1796,11 @@
             "id": 25164176,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-26T23:50:17Z",
+            "last_commit": "2026-11-27T15:13:59Z",
             "open_issues": 18,
             "owner": "horsicq",
             "repo": "DIE-engine",
-            "stars": 3380,
+            "stars": 3385,
             "topics": [
               "binary-analysis",
               "disassembler",
@@ -1896,7 +1896,7 @@
             "open_issues": 166,
             "owner": "uxmal",
             "repo": "reko",
-            "stars": 2642,
+            "stars": 2643,
             "topics": [
               "aarch64",
               "arm",
@@ -1927,11 +1927,11 @@
             "id": 33870982,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-26T08:16:43Z",
-            "open_issues": 55,
+            "last_commit": "2026-11-27T13:56:45Z",
+            "open_issues": 59,
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2092,
+            "stars": 2091,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
@@ -2011,7 +2011,7 @@
             "open_issues": 1,
             "owner": "NotPrab",
             "repo": ".NET-Deobfuscator",
-            "stars": 1531,
+            "stars": 1532,
             "topics": [
               "deobfuscator",
               "dnlib",
@@ -2141,7 +2141,7 @@
             "open_issues": 6,
             "owner": "JusticeRage",
             "repo": "Manalyze",
-            "stars": 1156,
+            "stars": 1155,
             "topics": [
               "analysis",
               "malware",
@@ -2188,7 +2188,7 @@
             "open_issues": 2,
             "owner": "hasherezade",
             "repo": "mal_unpack",
-            "stars": 848,
+            "stars": 847,
             "topics": [
               "libpeconv",
               "malware-analysis",
@@ -2944,6 +2944,27 @@
         },
         {
           "node_type": "item",
+          "title": "XVolkolak",
+          "description": "Qt/CMake emulator-unpacker project with a GUI and a console application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "XVolkolak an unpacker emulator",
+            "homepage": null,
+            "id": 1323200485,
+            "language": "C++",
+            "license": "MIT",
+            "last_commit": "2026-11-27T15:07:33Z",
+            "open_issues": 0,
+            "owner": "horsicq",
+            "repo": "XVolkolak",
+            "stars": 11,
+            "topics": []
+          },
+          "first_seen": "2026-10-10T20:32:29.996Z"
+        },
+        {
+          "node_type": "item",
           "title": "OllyDbg Scripts",
           "description": "Collection of OllyDbg scripts for unpacking many different packers.",
           "children": [],
@@ -2962,27 +2983,6 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:28.356Z"
-        },
-        {
-          "node_type": "item",
-          "title": "XVolkolak",
-          "description": "Qt/CMake emulator-unpacker project with a GUI and a console application.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "XVolkolak an unpacker emulator",
-            "homepage": null,
-            "id": 1323200485,
-            "language": "C++",
-            "license": "MIT",
-            "last_commit": "2026-11-27T00:01:34Z",
-            "open_issues": 0,
-            "owner": "horsicq",
-            "repo": "XVolkolak",
-            "stars": 9,
-            "topics": []
-          },
-          "first_seen": "2026-10-10T20:32:29.996Z"
         },
         {
           "node_type": "item",
@@ -3114,7 +3114,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T00:59:01.850Z",
+    "last_updated": "2026-11-28T00:27:16.816Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to executable packing",
@@ -3126,7 +3126,7 @@
       "open_issues": 1,
       "owner": "packing-box",
       "repo": "awesome-executable-packing",
-      "stars": 1645,
+      "stars": 1646,
       "topics": [
         "awesome",
         "awesome-list",
